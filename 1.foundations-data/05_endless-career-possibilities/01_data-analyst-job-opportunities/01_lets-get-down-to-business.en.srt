@@ -1,0 +1,75 @@
+1
+00:00:01,170 --> 00:00:03,610
+Hey, great to have you back.
+
+2
+00:00:03,610 --> 00:00:05,782
+Now it's time to get down to business.
+
+3
+00:00:05,782 --> 00:00:10,150
+We're going to start talking about
+practical ways businesses are using data,
+
+4
+00:00:10,150 --> 00:00:12,480
+and the opportunities that
+it can create for you.
+
+5
+00:00:12,480 --> 00:00:16,600
+So far, you've learned a lot of
+practical data analysis skills.
+
+6
+00:00:16,600 --> 00:00:20,270
+With these next couple of videos,
+we're going to switch gears a little and
+
+7
+00:00:20,270 --> 00:00:22,390
+talk about why you're
+learning these skills.
+
+8
+00:00:22,390 --> 00:00:24,970
+Hopefully this will give you more
+perspective into what kinds of
+
+9
+00:00:24,970 --> 00:00:26,690
+opportunities are out there for you.
+
+10
+00:00:26,690 --> 00:00:30,629
+Coming up, we're going to talk more
+about the kinds of roles data analysts
+
+11
+00:00:30,629 --> 00:00:32,164
+play in different industries.
+
+12
+00:00:32,164 --> 00:00:36,151
+The task that these roles required,
+and the importance of fairness and
+
+13
+00:00:36,151 --> 00:00:39,245
+avoiding bias and
+analyzing data for business tasks.
+
+14
+00:00:39,245 --> 00:00:42,440
+We'll also talk about
+opportunities you can tap into, and
+
+15
+00:00:42,440 --> 00:00:46,620
+how this program factors into your future
+success and the data analyst role.
+
+16
+00:00:46,620 --> 00:00:49,420
+So with all that in mind,
+let's get started.

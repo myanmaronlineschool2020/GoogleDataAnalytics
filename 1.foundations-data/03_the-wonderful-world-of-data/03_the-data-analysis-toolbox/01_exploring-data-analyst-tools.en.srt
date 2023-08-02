@@ -1,0 +1,494 @@
+1
+00:00:01,380 --> 00:00:05,160
+I'm looking forward to introducing you to
+some of the tools data analyst use each
+
+2
+00:00:05,160 --> 00:00:06,360
+and every day.
+
+3
+00:00:06,360 --> 00:00:08,100
+There are tons of options out there.
+
+4
+00:00:08,100 --> 00:00:11,320
+But the most common ones you'll
+see analyst use are spreadsheets,
+
+5
+00:00:11,320 --> 00:00:14,100
+query languages and visualization tools.
+
+6
+00:00:14,100 --> 00:00:18,800
+And this video is going to give you
+a quick look at how these tools are being
+
+7
+00:00:18,800 --> 00:00:21,170
+used by data analysts everyday.
+
+8
+00:00:21,170 --> 00:00:24,320
+Believe it or not,
+I was several years into my accounting and
+
+9
+00:00:24,320 --> 00:00:28,230
+finance career before I saw all
+of these tools working together.
+
+10
+00:00:28,230 --> 00:00:31,510
+At that point I was very
+experienced with spreadsheets,
+
+11
+00:00:31,510 --> 00:00:36,430
+and had worked in large data sets with some
+of the traditional database programs.
+
+12
+00:00:36,430 --> 00:00:40,550
+I had the foundational skill
+set to use query languages, and
+
+13
+00:00:40,550 --> 00:00:45,580
+I had dabbled in visualizations, but
+I had never brought them all together.
+
+14
+00:00:45,580 --> 00:00:47,850
+Then I got hired here at Google.
+
+15
+00:00:47,850 --> 00:00:50,650
+And it was so
+eye-opening to come into a place like
+
+16
+00:00:50,650 --> 00:00:54,790
+this with an abundance of
+information everywhere you look.
+
+17
+00:00:54,790 --> 00:01:00,560
+As an analyst at Google, the true power of
+these tools became so much clearer to me.
+
+18
+00:01:00,560 --> 00:01:04,420
+I became more focused on really maximizing
+everything these tools could do,
+
+19
+00:01:04,420 --> 00:01:08,500
+streamlining my reporting and
+just making my work simpler.
+
+20
+00:01:08,500 --> 00:01:12,980
+All of the sudden, I had a lot more time
+and space to dedicate to identifying
+
+21
+00:01:12,980 --> 00:01:16,430
+new problems to solve and
+driving decision-making.
+
+22
+00:01:16,430 --> 00:01:20,010
+Without a doubt, once you've
+learned the power of these tools,
+
+23
+00:01:20,010 --> 00:01:22,970
+you will be well on your way to
+becoming the best data analyst you
+
+24
+00:01:22,970 --> 00:01:24,282
+can possibly be.
+
+25
+00:01:24,282 --> 00:01:28,550
+All right, I hope that story has you
+even more motivated for this course.
+
+26
+00:01:28,550 --> 00:01:30,670
+Let's get started with spreadsheets.
+
+27
+00:01:30,670 --> 00:01:34,170
+Again, there are lots of different
+spreadsheet solutions, but
+
+28
+00:01:34,170 --> 00:01:38,510
+two popular options
+are Microsoft Excel and Google Sheets.
+
+29
+00:01:38,510 --> 00:01:42,920
+To put it simply, a spreadsheet is
+a digital worksheet. It stores,
+
+30
+00:01:42,920 --> 00:01:45,110
+organizes, and sorts data.
+
+31
+00:01:45,110 --> 00:01:49,320
+This is important because the usefulness
+of your data depends on how well it's
+
+32
+00:01:49,320 --> 00:01:50,370
+structured.
+
+33
+00:01:50,370 --> 00:01:54,060
+When you put your data into a spreadsheet,
+you can see patterns,
+
+34
+00:01:54,060 --> 00:01:57,860
+group information and
+easily find the information you need.
+
+35
+00:01:57,860 --> 00:02:02,570
+Spreadsheets also have some really useful
+features called formulas and functions.
+
+36
+00:02:02,570 --> 00:02:06,480
+A formula is a set of instructions
+that performs a specific
+
+37
+00:02:06,480 --> 00:02:09,740
+calculation using the data
+in a spreadsheet.
+
+38
+00:02:09,740 --> 00:02:13,790
+Formulas can do basic things like add,
+subtract, multiply and
+
+39
+00:02:13,790 --> 00:02:16,660
+divide, but they don't stop there.
+
+40
+00:02:16,660 --> 00:02:20,640
+You can also use formulas to find
+the average of a number set.
+
+41
+00:02:20,640 --> 00:02:22,355
+Look up a particular value,
+
+42
+00:02:22,355 --> 00:02:28,200
+return the sum of a set of values that
+meets a particular rule, and so much more.
+
+43
+00:02:28,200 --> 00:02:32,560
+A function is a preset command that
+automatically performs a specific
+
+44
+00:02:32,560 --> 00:02:36,640
+process or
+task using the data in a spreadsheet.
+
+45
+00:02:36,640 --> 00:02:40,320
+That sounds pretty technical,
+I know, so let's break it down.
+
+46
+00:02:40,320 --> 00:02:42,520
+Just think of a function as a simpler,
+
+47
+00:02:42,520 --> 00:02:47,290
+more efficient way of doing something
+that would normally take a lot of time.
+
+48
+00:02:47,290 --> 00:02:50,860
+In other words, functions can
+help make you more efficient.
+
+49
+00:02:50,860 --> 00:02:53,900
+Those are the spreadsheet basics for now.
+
+50
+00:02:53,900 --> 00:02:59,120
+Later on, you'll see them in action and
+start working with spreadsheets yourself.
+
+51
+00:02:59,120 --> 00:03:02,380
+The next data analysis tool
+is called query language.
+
+52
+00:03:02,380 --> 00:03:07,060
+A query language is a computer programming
+language that allows you to retrieve and
+
+53
+00:03:07,060 --> 00:03:09,375
+manipulate data from a database.
+
+54
+00:03:09,375 --> 00:03:12,070
+You'll learn something called
+structured query language,
+
+55
+00:03:12,070 --> 00:03:14,530
+more commonly known as SQL.
+
+56
+00:03:14,530 --> 00:03:19,360
+SQL is a language that lets data
+analysts communicate with a database.
+
+57
+00:03:19,360 --> 00:03:23,390
+A database is a collection of
+data stored in a computer system.
+
+58
+00:03:23,390 --> 00:03:28,490
+SQL is the most widely used structured
+query language for a couple of reasons.
+
+59
+00:03:28,490 --> 00:03:33,380
+It's easy to understand and works very
+well with all kinds of databases.
+
+60
+00:03:33,380 --> 00:03:38,590
+With SQL, data analysts can access
+the data they need by making a query.
+
+61
+00:03:38,590 --> 00:03:43,060
+Although query means question, I like
+to think of it as more of a request.
+
+62
+00:03:43,060 --> 00:03:47,770
+So you're requesting that
+the database do something for you.
+
+63
+00:03:47,770 --> 00:03:52,520
+You can ask it to do a lot of different
+things such as insert, delete,
+
+64
+00:03:52,520 --> 00:03:54,875
+select or update data.
+
+65
+00:03:54,875 --> 00:03:58,050
+Okay, that's a top level look at SQL.
+
+66
+00:03:58,050 --> 00:04:00,550
+In a later video,
+we'll explore it further and
+
+67
+00:04:00,550 --> 00:04:03,950
+use SQL to do some really
+cool things with data.
+
+68
+00:04:03,950 --> 00:04:06,630
+Lastly, let's talk about
+data visualization.
+
+69
+00:04:06,630 --> 00:04:10,050
+You've learned that data visualization
+is the graphical representation of
+
+70
+00:04:10,050 --> 00:04:11,050
+information.
+
+71
+00:04:11,050 --> 00:04:15,140
+Some examples include graphs,
+maps, and tables.
+
+72
+00:04:15,140 --> 00:04:18,860
+Most people process visuals
+more easily than words alone.
+
+73
+00:04:18,860 --> 00:04:21,329
+That's why visualizations are so
+important.
+
+74
+00:04:21,329 --> 00:04:25,370
+They help data analysts communicate their
+insights to others, in an effective and
+
+75
+00:04:25,370 --> 00:04:26,800
+compelling way.
+
+76
+00:04:26,800 --> 00:04:31,300
+When you think about the data analysis
+process, after data is prepared,
+
+77
+00:04:31,300 --> 00:04:33,130
+processed and analyzed,
+
+78
+00:04:33,130 --> 00:04:37,160
+the insights are visualized so
+it can be understood and shared.
+
+79
+00:04:37,160 --> 00:04:40,200
+This makes it easier for
+stakeholders to draw conclusions,
+
+80
+00:04:40,200 --> 00:04:43,150
+make decisions, and
+come up with strategies.
+
+81
+00:04:43,150 --> 00:04:48,000
+Some popular visualization
+tools are Tableau and Looker.
+
+82
+00:04:48,000 --> 00:04:52,880
+Data analysts like using Tableau because
+it helps them create visuals that are very
+
+83
+00:04:52,880 --> 00:04:54,150
+easy to understand.
+
+84
+00:04:54,150 --> 00:04:58,610
+This means that even non-technical users
+can get the information they need.
+
+85
+00:04:58,610 --> 00:05:02,670
+Looker is also popular with data
+analysts because it gives them
+
+86
+00:05:02,670 --> 00:05:07,040
+an easy way to create visuals
+based on the results of a query.
+
+87
+00:05:07,040 --> 00:05:11,580
+With Looker, you can give stakeholders
+a complete picture of your work
+
+88
+00:05:11,580 --> 00:05:16,090
+by showing them visualization data and
+the actual data related to it.
+
+89
+00:05:16,090 --> 00:05:20,670
+All visualization tools have great
+features that are useful in different
+
+90
+00:05:20,670 --> 00:05:21,730
+situations.
+
+91
+00:05:21,730 --> 00:05:27,500
+Soon you will learn how to decide which
+tool to use for a particular job.
+
+92
+00:05:27,500 --> 00:05:30,910
+And that's everything you need to
+know about the data life cycle and
+
+93
+00:05:30,910 --> 00:05:33,130
+the data analysis process.
+
+94
+00:05:33,130 --> 00:05:35,760
+You'll get a chance to
+test out what you know, so
+
+95
+00:05:35,760 --> 00:05:39,750
+you can feel confident moving
+forward in this course.
+
+96
+00:05:39,750 --> 00:05:42,810
+Feel free to take some time to
+re-familiarize yourself with
+
+97
+00:05:42,810 --> 00:05:46,390
+the concepts and when you're ready,
+give it your best shot.
+
+98
+00:05:46,390 --> 00:05:49,680
+If you're ever unsure of an answer,
+you can always go back and
+
+99
+00:05:49,680 --> 00:05:51,570
+review the videos and readings.
+
+100
+00:05:51,570 --> 00:05:54,310
+Then you'll be ready to move
+on to the next set of videos,
+
+101
+00:05:54,310 --> 00:05:58,350
+where we'll continue exploring the data
+analytics tools you've already covered.
+
+102
+00:05:58,350 --> 00:06:03,158
+And you'll get some really fascinating
+insights into exactly how they work.
+
+103
+00:06:03,158 --> 00:06:07,550
+Before long, you'll have the knowledge and
+confidence to start using them yourself.
+
+104
+00:06:07,550 --> 00:06:08,380
+Stay tuned.

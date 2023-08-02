@@ -1,0 +1,290 @@
+1
+00:00:01,250 --> 00:00:05,910
+So far, you've discovered that there
+are many different ways data can be
+
+2
+00:00:05,910 --> 00:00:07,860
+used. In our everyday lives,
+
+3
+00:00:07,860 --> 00:00:10,590
+we use data when we wear
+a fitness tracker or
+
+4
+00:00:10,590 --> 00:00:13,280
+read product reviews to
+make a purchase decision.
+
+5
+00:00:13,280 --> 00:00:17,210
+And in business, we use data to
+learn more about our customers,
+
+6
+00:00:17,210 --> 00:00:21,570
+improve processes, and help employees
+do their jobs more effectively.
+
+7
+00:00:21,570 --> 00:00:24,460
+But this is just the tip of the iceberg.
+
+8
+00:00:24,460 --> 00:00:29,990
+One of the most powerful ways you can put
+data to work is with data-driven decision-making.
+
+9
+00:00:29,990 --> 00:00:35,090
+Data-driven decision-making is defined as
+using facts to guide business strategy.
+
+10
+00:00:35,090 --> 00:00:39,746
+Organizations in many different
+industries are empowered to make better,
+
+11
+00:00:39,746 --> 00:00:43,030
+data-driven decisions by
+data analysts all the time.
+
+12
+00:00:43,030 --> 00:00:49,140
+The first step in data-driven decision-making
+is figuring out the business need.
+
+13
+00:00:49,140 --> 00:00:52,570
+Usually, this is a problem
+that needs to be solved.
+
+14
+00:00:52,570 --> 00:00:57,260
+For example, a problem could be a new
+company needing to establish better
+
+15
+00:00:57,260 --> 00:01:02,260
+brand recognition, so it can compete with
+bigger, more well-known competitors.
+
+16
+00:01:02,260 --> 00:01:06,350
+Or maybe an organization wants to improve
+a product and needs to figure out how to
+
+17
+00:01:06,350 --> 00:01:10,770
+source parts from a more sustainable
+or ethically responsible supplier.
+
+18
+00:01:10,770 --> 00:01:15,710
+Or, it could be a business trying to
+solve the problem of unhappy employees,
+
+19
+00:01:15,710 --> 00:01:19,780
+low levels of engagement,
+satisfaction and retention.
+
+20
+00:01:19,780 --> 00:01:25,180
+Whatever the problem is, once it's
+defined, a data analyst finds data,
+
+21
+00:01:25,180 --> 00:01:30,590
+analyzes it and uses it to uncover trends,
+patterns and relationships.
+
+22
+00:01:30,590 --> 00:01:36,150
+Sometimes the data-driven strategy will
+build on what's worked in the past.
+
+23
+00:01:36,150 --> 00:01:41,230
+Other times, it can guide a business
+to branch out in a whole new direction.
+
+24
+00:01:41,230 --> 00:01:43,210
+Let's look at a real-world example.
+
+25
+00:01:43,210 --> 00:01:46,330
+Think about a music or
+movie streaming service.
+
+26
+00:01:46,330 --> 00:01:49,900
+How do these companies know what
+people want to watch or listen to,
+
+27
+00:01:49,900 --> 00:01:51,415
+and how do they provide it?
+
+28
+00:01:51,415 --> 00:01:53,880
+Well using data-driven decision-making,
+
+29
+00:01:53,880 --> 00:01:58,160
+they gather information about what their
+customers are currently listening to,
+
+30
+00:01:58,160 --> 00:02:02,990
+analyze it, then use the insights
+they've gained to make suggestions for
+
+31
+00:02:02,990 --> 00:02:06,300
+things people will most
+likely enjoy in the future.
+
+32
+00:02:06,300 --> 00:02:08,419
+This keeps customers happy and
+
+33
+00:02:08,419 --> 00:02:13,200
+coming back for more, which in turn
+means more revenue for the company.
+
+34
+00:02:13,200 --> 00:02:17,225
+Another example of data-driven
+decision-making can be seen in the rise of
+
+35
+00:02:17,225 --> 00:02:18,400
+e-commerce.
+
+36
+00:02:18,400 --> 00:02:23,240
+It wasn't long ago that most purchases
+were made in a physical store,
+
+37
+00:02:23,240 --> 00:02:26,430
+but the data showed people's
+preferences were changing.
+
+38
+00:02:26,430 --> 00:02:30,940
+So a lot of companies created entirely
+new business models that remove
+
+39
+00:02:30,940 --> 00:02:35,080
+the physical store, and let people
+shop right from their computers or
+
+40
+00:02:35,080 --> 00:02:38,890
+mobile phones with products
+delivered right to their doorstep.
+
+41
+00:02:38,890 --> 00:02:42,920
+In fact, data-driven decision-making
+can be so powerful,
+
+42
+00:02:42,920 --> 00:02:45,860
+it can make entire
+business methods obsolete.
+
+43
+00:02:45,860 --> 00:02:49,956
+For example, data helped companies
+completely move away from
+
+44
+00:02:49,956 --> 00:02:53,362
+corded phones and
+replace them with mobile phones.
+
+45
+00:02:53,362 --> 00:02:57,196
+By ensuring that data is built
+into every business strategy,
+
+46
+00:02:57,196 --> 00:03:01,250
+data analysts play a critical role
+in their companies' success, but
+
+47
+00:03:01,250 --> 00:03:06,500
+it's important to note that no matter how
+valuable data-driven decision-making is,
+
+48
+00:03:06,500 --> 00:03:12,350
+data alone will never be as powerful
+as data combined with human experience,
+
+49
+00:03:12,350 --> 00:03:16,300
+observation, and sometimes even intuition.
+
+50
+00:03:16,300 --> 00:03:20,150
+To get the most out of data-driven
+decision-making, it's important to include
+
+51
+00:03:20,150 --> 00:03:23,840
+insights from people who are familiar
+with the business problem.
+
+52
+00:03:23,840 --> 00:03:28,520
+These people are called subject matter
+experts, and they have the ability to look
+
+53
+00:03:28,520 --> 00:03:32,640
+at the results of data analysis and
+identify any inconsistencies,
+
+54
+00:03:32,640 --> 00:03:38,300
+make sense of gray areas, and
+eventually validate choices being made.
+
+55
+00:03:38,300 --> 00:03:43,380
+Organizations that work this way put data
+at the heart of every business strategy,
+
+56
+00:03:43,380 --> 00:03:46,838
+but also benefit from
+the insights of their people.
+
+57
+00:03:46,838 --> 00:03:48,270
+It's a win-win.
+
+58
+00:03:48,270 --> 00:03:52,670
+As a data analyst, you play a key role in
+empowering these organizations to make
+
+59
+00:03:52,670 --> 00:03:56,090
+data-driven decisions,
+which is why it's so important for
+
+60
+00:03:56,090 --> 00:04:00,280
+you to understand how data plays
+a part in the decision-making process.

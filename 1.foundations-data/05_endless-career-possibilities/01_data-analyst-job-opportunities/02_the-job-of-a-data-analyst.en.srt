@@ -1,0 +1,362 @@
+1
+00:00:01,260 --> 00:00:05,240
+Previously, we learned about
+what a data analyst does and
+
+2
+00:00:05,240 --> 00:00:07,210
+why that work is so valuable.
+
+3
+00:00:07,210 --> 00:00:11,270
+Now, let's look at where data
+analysts actually do their work.
+
+4
+00:00:11,270 --> 00:00:15,900
+You'll learn much more about the industries
+you could work in as a data analyst.
+
+5
+00:00:15,900 --> 00:00:20,040
+And how companies in these fields are
+already using data analytics to do some
+
+6
+00:00:20,040 --> 00:00:21,340
+really cool things.
+
+7
+00:00:21,340 --> 00:00:24,766
+There are so many businesses out
+there that have a big need for
+
+8
+00:00:24,766 --> 00:00:27,063
+the skills you're learning right now.
+
+9
+00:00:27,063 --> 00:00:31,767
+Across industries like technology,
+marketing, finance, health care, and
+
+10
+00:00:31,767 --> 00:00:32,618
+so many more.
+
+11
+00:00:32,618 --> 00:00:37,112
+Real companies are already using data
+analytics to stay ahead of the curve.
+
+12
+00:00:37,112 --> 00:00:41,820
+And the more they use data in their
+business, the more they understand just
+
+13
+00:00:41,820 --> 00:00:45,490
+how important data analyst
+like you are to their success.
+
+14
+00:00:45,490 --> 00:00:51,051
+Let's look at a real life example of
+a brand you'll probably recognize,
+
+15
+00:00:51,051 --> 00:00:52,137
+Coca-Cola.
+
+16
+00:00:52,137 --> 00:00:56,395
+Data is changing the way Coca-Cola
+approaches its marketing strategies.
+
+17
+00:00:56,395 --> 00:01:01,600
+Coca-Cola uses data gathered from
+consumer feedback to create advertising
+
+18
+00:01:01,600 --> 00:01:05,700
+that speaks directly to different
+audiences with different interests.
+
+19
+00:01:05,700 --> 00:01:06,822
+How does this work?
+
+20
+00:01:06,822 --> 00:01:11,116
+You know those high tech Coca-Cola
+vending machines you see at movie theater
+
+21
+00:01:11,116 --> 00:01:11,852
+sometimes?
+
+22
+00:01:11,852 --> 00:01:14,949
+It's always fun getting
+to make your own flavors.
+
+23
+00:01:14,949 --> 00:01:19,080
+Well, those machines have built-in
+artificial intelligence and
+
+24
+00:01:19,080 --> 00:01:20,468
+data analysis tools.
+
+25
+00:01:20,468 --> 00:01:24,390
+This helps Coca-Cola see all the different
+kinds of flavor combinations people
+
+26
+00:01:24,390 --> 00:01:29,540
+are coming up with, which they can then
+use as inspiration for new products.
+
+27
+00:01:29,540 --> 00:01:30,690
+How cool is that?
+
+28
+00:01:30,690 --> 00:01:35,980
+Ever wonder how Google gives you the right
+answer to any question in just seconds?
+
+29
+00:01:35,980 --> 00:01:37,907
+That's powered by data too.
+
+30
+00:01:37,907 --> 00:01:41,959
+We use all kinds of data to
+determine a website's reliability and
+
+31
+00:01:41,959 --> 00:01:46,940
+accuracy to make sure you get the most
+useful results for any search you make.
+
+32
+00:01:46,940 --> 00:01:51,830
+But it isn't just big companies like
+Coca-Cola and Google that use data.
+
+33
+00:01:51,830 --> 00:01:56,290
+Small businesses everywhere are also
+starting to take advantage of
+
+34
+00:01:56,290 --> 00:02:00,930
+data driven insights to improve their
+operations and make better decisions.
+
+35
+00:02:00,930 --> 00:02:05,240
+Small businesses can use data
+to do all kinds of things.
+
+36
+00:02:05,240 --> 00:02:09,591
+They might use data analytics to better
+understand their customers' buying habits,
+
+37
+00:02:09,591 --> 00:02:12,113
+create more effective
+social media messaging,
+
+38
+00:02:12,113 --> 00:02:15,154
+or, in the case of one city zoo and
+aquarium,
+
+39
+00:02:15,154 --> 00:02:19,650
+predict the number of daily visitors
+based on local climate data.
+
+40
+00:02:19,650 --> 00:02:21,810
+City zoo and aquarium realized that,
+
+41
+00:02:21,810 --> 00:02:25,850
+on rainy days, they were seeing
+huge drop offs in attendance,
+
+42
+00:02:25,850 --> 00:02:30,280
+but they had no way to accurately
+predict when those rainy days would hit.
+
+43
+00:02:30,280 --> 00:02:32,490
+This made staffing a real challenge.
+
+44
+00:02:32,490 --> 00:02:35,070
+Some days they found
+themselves overstaffed,
+
+45
+00:02:35,070 --> 00:02:38,380
+other days they were unprepared for
+the rush of visitors.
+
+46
+00:02:38,380 --> 00:02:42,540
+To deal with this, data analyst took
+years of weather records from the zoo and
+
+47
+00:02:42,540 --> 00:02:46,550
+use that data to accurately
+predict future weather patterns.
+
+48
+00:02:46,550 --> 00:02:50,620
+This made it easy for the zoo to know
+how much staff they needed when.
+
+49
+00:02:50,620 --> 00:02:54,820
+Because the zoo could predict and manage
+their staffing needs more accurately,
+
+50
+00:02:54,820 --> 00:02:57,950
+they were able to provide a better
+experience for visitors and
+
+51
+00:02:57,950 --> 00:03:03,080
+dedicate more resources to creating
+a better experience for the animals too.
+
+52
+00:03:03,080 --> 00:03:05,590
+We see a similar thing in
+the healthcare industry.
+
+53
+00:03:05,590 --> 00:03:10,770
+Their data analysts look at clinic
+attendance data to help hospitals and
+
+54
+00:03:10,770 --> 00:03:16,170
+doctors offices predict when rush hours
+will hit so they can be ready for it.
+
+55
+00:03:16,170 --> 00:03:19,090
+Your local city hospital
+is a great example.
+
+56
+00:03:19,090 --> 00:03:22,410
+Let's say they've been getting
+complaints about long wait times.
+
+57
+00:03:22,410 --> 00:03:25,680
+Sometimes an hour or more,
+which made it hard for
+
+58
+00:03:25,680 --> 00:03:27,720
+some patients to get the care they needed.
+
+59
+00:03:27,720 --> 00:03:32,250
+So data analyst use data about the
+hospitals daily foot traffic to help them
+
+60
+00:03:32,250 --> 00:03:36,930
+make more informed decisions about how
+many doctors they need on staff at any
+
+61
+00:03:36,930 --> 00:03:38,420
+given time.
+
+62
+00:03:38,420 --> 00:03:43,020
+This helped reduce wait times,
+improve their patients experience, and
+
+63
+00:03:43,020 --> 00:03:46,443
+make better use of the health
+care worker's time too.
+
+64
+00:03:46,443 --> 00:03:51,302
+Like I said, there are many ways that
+companies in different industries put data
+
+65
+00:03:51,302 --> 00:03:55,810
+to use, but they can only do that if
+they have data analyst they can rely on.
+
+66
+00:03:55,810 --> 00:03:59,640
+So you might be wondering,
+how you fit into the equation?
+
+67
+00:03:59,640 --> 00:04:02,700
+Well, you've got plenty of options, but
+
+68
+00:04:02,700 --> 00:04:06,750
+you don't have to decide what industry
+you want to work in right away. There
+
+69
+00:04:06,750 --> 00:04:10,810
+will be plenty of time to think about that
+as you make your way through this program.
+
+70
+00:04:10,810 --> 00:04:14,370
+By the time you finish this program, you
+have the core skills that will make you
+
+71
+00:04:14,370 --> 00:04:17,750
+valuable in any industry that
+makes data driven decisions.
+
+72
+00:04:17,750 --> 00:04:22,548
+Which, as it turns out,
+is most industries, even zoos.
+
+73
+00:04:22,548 --> 00:04:26,444
+Coming up, we'll check out the business
+task where data can be helpful.
+
+74
+00:04:26,444 --> 00:04:31,164
+And, we'll explore even more how data
+analysts are empowering businesses
+
+75
+00:04:31,164 --> 00:04:32,130
+through data.
+
+76
+00:04:32,130 --> 00:04:32,990
+I'll see you then.

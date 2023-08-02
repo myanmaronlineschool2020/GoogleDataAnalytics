@@ -1,0 +1,751 @@
+1
+00:00:00,350 --> 00:00:02,475
+Now that you understand
+
+2
+00:00:02,475 --> 00:00:04,590
+all the phases of
+the data life cycle,
+
+3
+00:00:04,590 --> 00:00:08,085
+it's time to move on to the
+phases of data analysis.
+
+4
+00:00:08,085 --> 00:00:11,520
+They sound similar, but
+are two different things.
+
+5
+00:00:11,520 --> 00:00:14,370
+Data analysis isn't a life cycle.
+
+6
+00:00:14,370 --> 00:00:17,070
+It's the process
+of analyzing data.
+
+7
+00:00:17,070 --> 00:00:19,890
+Coming up, we'll
+look at each step of
+
+8
+00:00:19,890 --> 00:00:22,260
+the data analysis process and how
+
+9
+00:00:22,260 --> 00:00:25,155
+it will relate to your
+work as a data analyst.
+
+10
+00:00:25,155 --> 00:00:28,485
+Even this program is designed
+to follow these steps.
+
+11
+00:00:28,485 --> 00:00:31,140
+Understanding these
+connections will help guide
+
+12
+00:00:31,140 --> 00:00:34,710
+your own analysis and your
+work in this program.
+
+13
+00:00:34,710 --> 00:00:37,395
+You've already learned that
+this program is modeled
+
+14
+00:00:37,395 --> 00:00:40,630
+after the stages of the
+data analysis process.
+
+15
+00:00:40,630 --> 00:00:42,935
+This program is
+split into courses,
+
+16
+00:00:42,935 --> 00:00:46,655
+six of which are based upon
+the steps of data analysis:
+
+17
+00:00:46,655 --> 00:00:53,430
+ask, prepare, process,
+analyze, share, and act.
+
+18
+00:00:53,430 --> 00:00:55,580
+Let's start with
+the first step in
+
+19
+00:00:55,580 --> 00:00:58,475
+data analysis, the ask phase.
+
+20
+00:00:58,475 --> 00:01:01,430
+In this phase, we do two things.
+
+21
+00:01:01,430 --> 00:01:04,070
+We define the problem to
+be solved and we make
+
+22
+00:01:04,070 --> 00:01:07,310
+sure that we fully understand
+stakeholder expectations.
+
+23
+00:01:07,310 --> 00:01:10,120
+Stakeholders hold a
+stake in the project.
+
+24
+00:01:10,120 --> 00:01:11,360
+They are people who have
+
+25
+00:01:11,360 --> 00:01:13,490
+invested time and resources into
+
+26
+00:01:13,490 --> 00:01:15,305
+a project and are interested
+
+27
+00:01:15,305 --> 00:01:17,555
+in the outcome. Let's
+break that down.
+
+28
+00:01:17,555 --> 00:01:20,330
+First, defining a problem
+means you look at
+
+29
+00:01:20,330 --> 00:01:22,040
+the current state and identify
+
+30
+00:01:22,040 --> 00:01:24,260
+how it's different
+from the ideal state.
+
+31
+00:01:24,260 --> 00:01:26,750
+Usually there's an obstacle
+we need to get rid
+
+32
+00:01:26,750 --> 00:01:29,900
+of or something wrong
+that needs to be fixed.
+
+33
+00:01:29,900 --> 00:01:32,630
+For instance, a sports
+arena might want to
+
+34
+00:01:32,630 --> 00:01:35,840
+reduce the time fans spend
+waiting in the ticket line.
+
+35
+00:01:35,840 --> 00:01:38,270
+The obstacle is
+figuring out how to get
+
+36
+00:01:38,270 --> 00:01:40,990
+the customers to their
+seats more quickly.
+
+37
+00:01:40,990 --> 00:01:43,385
+Another important
+part of the ask phase
+
+38
+00:01:43,385 --> 00:01:46,615
+is understanding
+stakeholder expectations.
+
+39
+00:01:46,615 --> 00:01:48,170
+The first step here is to
+
+40
+00:01:48,170 --> 00:01:50,615
+determine who the
+stakeholders are.
+
+41
+00:01:50,615 --> 00:01:52,985
+That may include your manager,
+
+42
+00:01:52,985 --> 00:01:56,080
+an executive sponsor,
+or your sales partners.
+
+43
+00:01:56,080 --> 00:01:58,265
+There can be lots
+of stakeholders.
+
+44
+00:01:58,265 --> 00:01:59,780
+But what they all have in
+
+45
+00:01:59,780 --> 00:02:02,165
+common is that they
+help make decisions,
+
+46
+00:02:02,165 --> 00:02:04,159
+influence actions and strategies,
+
+47
+00:02:04,159 --> 00:02:06,875
+and have specific goals
+they want to meet.
+
+48
+00:02:06,875 --> 00:02:09,380
+They also care about the
+project and that's why
+
+49
+00:02:09,380 --> 00:02:12,080
+it's so important to
+understand their expectations.
+
+50
+00:02:12,080 --> 00:02:14,510
+For instance, if your
+manager assigns you
+
+51
+00:02:14,510 --> 00:02:17,405
+a data analysis project
+related to business risk,
+
+52
+00:02:17,405 --> 00:02:19,730
+it would be smart to confirm
+whether they want to
+
+53
+00:02:19,730 --> 00:02:22,835
+include all types of risks
+that could affect the company,
+
+54
+00:02:22,835 --> 00:02:24,260
+or just risks related to
+
+55
+00:02:24,260 --> 00:02:27,120
+weather such as
+hurricanes and tornadoes.
+
+56
+00:02:27,120 --> 00:02:29,630
+Communicating with your
+stakeholders is key in making
+
+57
+00:02:29,630 --> 00:02:30,800
+sure you stay engaged
+
+58
+00:02:30,800 --> 00:02:32,540
+and on track throughout
+the project.
+
+59
+00:02:32,540 --> 00:02:34,310
+So as a data analyst,
+
+60
+00:02:34,310 --> 00:02:36,634
+developing strong
+communication strategies
+
+61
+00:02:36,634 --> 00:02:37,790
+is very important.
+
+62
+00:02:37,790 --> 00:02:39,950
+This part of the ask phase helps
+
+63
+00:02:39,950 --> 00:02:42,320
+you keep focused on
+the problem itself,
+
+64
+00:02:42,320 --> 00:02:44,185
+not just its symptoms.
+
+65
+00:02:44,185 --> 00:02:45,755
+As you learned earlier,
+
+66
+00:02:45,755 --> 00:02:48,950
+the five whys are
+extremely helpful here.
+
+67
+00:02:48,950 --> 00:02:50,750
+In an upcoming course,
+
+68
+00:02:50,750 --> 00:02:53,390
+you'll learn how to ask
+effective questions
+
+69
+00:02:53,390 --> 00:02:56,554
+and define the problem by
+working with stakeholders.
+
+70
+00:02:56,554 --> 00:02:59,570
+You'll also cover strategies
+that can help you
+
+71
+00:02:59,570 --> 00:03:01,145
+share what you discover
+
+72
+00:03:01,145 --> 00:03:02,930
+in a way that keeps
+people interested.
+
+73
+00:03:02,930 --> 00:03:04,880
+After that, we'll move on to
+
+74
+00:03:04,880 --> 00:03:07,925
+the prepare step of the
+data analysis process.
+
+75
+00:03:07,925 --> 00:03:10,940
+This is where data analysts
+collect and store data
+
+76
+00:03:10,940 --> 00:03:13,925
+they'll use for the
+upcoming analysis process.
+
+77
+00:03:13,925 --> 00:03:15,950
+You'll learn more about
+the different types
+
+78
+00:03:15,950 --> 00:03:17,870
+of data and how to identify
+
+79
+00:03:17,870 --> 00:03:19,370
+which kinds of data are most
+
+80
+00:03:19,370 --> 00:03:21,995
+useful for solving a
+particular problem.
+
+81
+00:03:21,995 --> 00:03:24,740
+You'll also discover why
+it's so important that
+
+82
+00:03:24,740 --> 00:03:27,770
+your data and results are
+objective and unbiased.
+
+83
+00:03:27,770 --> 00:03:31,504
+In other words, any decisions
+made from your analysis
+
+84
+00:03:31,504 --> 00:03:32,780
+should always be based on
+
+85
+00:03:32,780 --> 00:03:35,530
+facts and be fair and impartial.
+
+86
+00:03:35,530 --> 00:03:37,695
+Next is the process step.
+
+87
+00:03:37,695 --> 00:03:40,685
+Here, data analysts
+find and eliminate
+
+88
+00:03:40,685 --> 00:03:42,545
+any errors and inaccuracies
+
+89
+00:03:42,545 --> 00:03:44,530
+that can get in the
+way of results.
+
+90
+00:03:44,530 --> 00:03:46,580
+This usually means cleaning data,
+
+91
+00:03:46,580 --> 00:03:49,340
+transforming it into a
+more useful format,
+
+92
+00:03:49,340 --> 00:03:51,650
+combining two or more
+datasets to make
+
+93
+00:03:51,650 --> 00:03:54,724
+information more complete
+and removing outliers,
+
+94
+00:03:54,724 --> 00:03:56,450
+which are any data points that
+
+95
+00:03:56,450 --> 00:03:58,280
+could skew the information.
+
+96
+00:03:58,280 --> 00:04:00,530
+After that, you'll learn
+how to check the data you
+
+97
+00:04:00,530 --> 00:04:03,035
+prepare to make sure it's
+complete and correct.
+
+98
+00:04:03,035 --> 00:04:05,660
+This phase is all about
+getting the details right.
+
+99
+00:04:05,660 --> 00:04:07,355
+So you'll also fix typos,
+
+100
+00:04:07,355 --> 00:04:10,615
+inconsistencies, or missing
+and inaccurate data.
+
+101
+00:04:10,615 --> 00:04:12,225
+To top it off,
+
+102
+00:04:12,225 --> 00:04:13,880
+you'll gain strategies for
+
+103
+00:04:13,880 --> 00:04:15,080
+verifying and sharing
+
+104
+00:04:15,080 --> 00:04:17,095
+your data cleansing
+with stakeholders.
+
+105
+00:04:17,095 --> 00:04:19,680
+Then it's time to analyze.
+
+106
+00:04:19,680 --> 00:04:21,650
+Analyzing the data
+you've collected
+
+107
+00:04:21,650 --> 00:04:23,599
+involves using tools to transform
+
+108
+00:04:23,599 --> 00:04:25,235
+and organize that information
+
+109
+00:04:25,235 --> 00:04:27,320
+so that you can draw
+useful conclusions,
+
+110
+00:04:27,320 --> 00:04:30,490
+make predictions, and drive
+informed decision-making.
+
+111
+00:04:30,490 --> 00:04:33,140
+There are lots of powerful
+tools data analysts use in
+
+112
+00:04:33,140 --> 00:04:34,460
+their work and in
+
+113
+00:04:34,460 --> 00:04:36,455
+this course you'll learn
+about two of them,
+
+114
+00:04:36,455 --> 00:04:39,215
+spreadsheets and
+structured query language,
+
+115
+00:04:39,215 --> 00:04:43,150
+or SQL, which is often
+pronounced "sequel."
+
+116
+00:04:43,150 --> 00:04:45,800
+The next course is based
+on the share phase.
+
+117
+00:04:45,800 --> 00:04:47,360
+Here you'll learn how
+
+118
+00:04:47,360 --> 00:04:50,195
+data analysts interpret
+results and share them with
+
+119
+00:04:50,195 --> 00:04:52,070
+others to help stakeholders
+
+120
+00:04:52,070 --> 00:04:54,820
+make effective
+data-driven decisions.
+
+121
+00:04:54,820 --> 00:04:56,255
+In the share phase,
+
+122
+00:04:56,255 --> 00:04:59,660
+visualization is a data
+analyst's best friend.
+
+123
+00:04:59,660 --> 00:05:02,300
+So this course will highlight
+why visualization is
+
+124
+00:05:02,300 --> 00:05:04,070
+essential to getting others to
+
+125
+00:05:04,070 --> 00:05:06,220
+understand what your
+data is telling you.
+
+126
+00:05:06,220 --> 00:05:07,475
+With the right visuals,
+
+127
+00:05:07,475 --> 00:05:10,310
+facts and figures become
+so much easier to
+
+128
+00:05:10,310 --> 00:05:13,940
+see and complex concepts
+become easier to understand.
+
+129
+00:05:13,940 --> 00:05:16,010
+We'll explore different
+kinds of visuals
+
+130
+00:05:16,010 --> 00:05:18,310
+and some great data
+visualization tools.
+
+131
+00:05:18,310 --> 00:05:19,760
+You'll also practice
+
+132
+00:05:19,760 --> 00:05:21,680
+your own presentation
+skills by creating
+
+133
+00:05:21,680 --> 00:05:23,750
+compelling slideshows
+and learning
+
+134
+00:05:23,750 --> 00:05:26,690
+how to be fully prepared
+to answer questions.
+
+135
+00:05:26,690 --> 00:05:29,690
+Then we'll take a break from
+the data analysis process to
+
+136
+00:05:29,690 --> 00:05:32,540
+show you all of the really
+cool things you can do with
+
+137
+00:05:32,540 --> 00:05:35,390
+the programming language
+R. You don't need to be
+
+138
+00:05:35,390 --> 00:05:38,845
+familiar with R or programming
+languages in general.
+
+139
+00:05:38,845 --> 00:05:41,330
+Just know that R is
+a popular tool for
+
+140
+00:05:41,330 --> 00:05:45,950
+data manipulation, calculation,
+and visualization.
+
+141
+00:05:45,950 --> 00:05:49,240
+For our final data analysis
+phase, we have act.
+
+142
+00:05:49,240 --> 00:05:51,110
+This is the exciting moment when
+
+143
+00:05:51,110 --> 00:05:53,570
+the business takes all
+of the insights you,
+
+144
+00:05:53,570 --> 00:05:54,920
+the data analyst, have
+
+145
+00:05:54,920 --> 00:05:57,680
+provided and puts them to
+work in order to solve
+
+146
+00:05:57,680 --> 00:05:59,735
+the original business
+problem and will be
+
+147
+00:05:59,735 --> 00:06:02,855
+acting on what you've learned
+throughout this program.
+
+148
+00:06:02,855 --> 00:06:05,465
+This is when you prepare
+for your job search
+
+149
+00:06:05,465 --> 00:06:08,450
+and have the chance to
+complete a case study project.
+
+150
+00:06:08,450 --> 00:06:11,210
+It's a great opportunity
+for you to bring together
+
+151
+00:06:11,210 --> 00:06:13,925
+everything you've worked
+on throughout this course.
+
+152
+00:06:13,925 --> 00:06:15,860
+Plus adding a case study
+
+153
+00:06:15,860 --> 00:06:17,690
+to your portfolio helps you stand
+
+154
+00:06:17,690 --> 00:06:19,265
+out from the other
+candidates when you
+
+155
+00:06:19,265 --> 00:06:21,670
+interview for your
+first data analyst job.
+
+156
+00:06:21,670 --> 00:06:23,330
+Now you know the
+different steps of
+
+157
+00:06:23,330 --> 00:06:26,800
+the data analysis process and
+how our course reflects it.
+
+158
+00:06:26,800 --> 00:06:28,490
+You have everything you need
+
+159
+00:06:28,490 --> 00:06:30,230
+to understand how this course
+
+160
+00:06:30,230 --> 00:06:32,420
+works and my fellow Googlers and
+
+161
+00:06:32,420 --> 00:06:36,450
+I will be here to guide
+you every step of the way.

@@ -1,0 +1,93 @@
+1
+00:00:00,470 --> 00:00:02,325
+Welcome.
+
+2
+00:00:02,325 --> 00:00:04,440
+Now that you have
+a solid foundation
+
+3
+00:00:04,440 --> 00:00:05,700
+on the basics of data,
+
+4
+00:00:05,700 --> 00:00:08,040
+it's time to focus on some
+particular skills and
+
+5
+00:00:08,040 --> 00:00:09,930
+characteristics that will be key
+
+6
+00:00:09,930 --> 00:00:12,315
+to your future career
+as a data analyst.
+
+7
+00:00:12,315 --> 00:00:14,775
+We'll begin with five key skills,
+
+8
+00:00:14,775 --> 00:00:16,500
+move on to the characteristics
+
+9
+00:00:16,500 --> 00:00:18,170
+of analytical thinking and then
+
+10
+00:00:18,170 --> 00:00:19,580
+learn how data analysts
+
+11
+00:00:19,580 --> 00:00:21,905
+balance their roles
+and responsibilities.
+
+12
+00:00:21,905 --> 00:00:24,500
+Along the way, you'll
+also discover how to
+
+13
+00:00:24,500 --> 00:00:27,305
+tap into your own natural
+abilities for strategy,
+
+14
+00:00:27,305 --> 00:00:30,345
+technical expertise,
+and data design.
+
+15
+00:00:30,345 --> 00:00:32,600
+These are incredibly
+helpful skills to
+
+16
+00:00:32,600 --> 00:00:35,630
+have and you'll learn how
+to make them even stronger.
+
+17
+00:00:35,630 --> 00:00:37,790
+Finally, you'll be introduced to
+
+18
+00:00:37,790 --> 00:00:40,535
+some fascinating
+real-world examples of how
+
+19
+00:00:40,535 --> 00:00:42,080
+data is influencing the lives
+
+20
+00:00:42,080 --> 00:00:43,940
+of people all around the world.
+
+21
+00:00:43,940 --> 00:00:47,010
+All right. Let's get started.

@@ -1,0 +1,658 @@
+1
+00:00:00,270 --> 00:00:03,130
+In this video, I'm going to share
+
+2
+00:00:03,130 --> 00:00:04,480
+some case studies that
+
+3
+00:00:04,480 --> 00:00:07,150
+highlight the incredible
+work data analysts do.
+
+4
+00:00:07,150 --> 00:00:09,880
+Each of these scenarios
+shows off the power of
+
+5
+00:00:09,880 --> 00:00:13,045
+data-driven decision-making
+in unexpected ways.
+
+6
+00:00:13,045 --> 00:00:15,020
+The first story is about Google.
+
+7
+00:00:15,020 --> 00:00:18,385
+As I mentioned a little
+while back, here at Google,
+
+8
+00:00:18,385 --> 00:00:19,900
+our mission is to organize
+
+9
+00:00:19,900 --> 00:00:21,565
+the world's information
+and make it
+
+10
+00:00:21,565 --> 00:00:23,950
+universally accessible
+and useful.
+
+11
+00:00:23,950 --> 00:00:25,360
+All of our products,
+
+12
+00:00:25,360 --> 00:00:27,700
+from idea to
+development to launch,
+
+13
+00:00:27,700 --> 00:00:31,250
+are built on data and
+data-driven decision-making.
+
+14
+00:00:31,250 --> 00:00:34,030
+There are tons of examples
+here at Google of
+
+15
+00:00:34,030 --> 00:00:36,865
+people using facts to
+create business strategy.
+
+16
+00:00:36,865 --> 00:00:39,295
+But one of the most famous ones
+
+17
+00:00:39,295 --> 00:00:41,615
+has to do with Google's
+human resources.
+
+18
+00:00:41,615 --> 00:00:44,330
+Here's how it went.
+The HR department
+
+19
+00:00:44,330 --> 00:00:47,405
+wanted to know if there was
+value in having managers.
+
+20
+00:00:47,405 --> 00:00:49,790
+Were their contributions
+worthwhile?
+
+21
+00:00:49,790 --> 00:00:52,510
+Or should everyone just be
+an individual contributor?
+
+22
+00:00:52,510 --> 00:00:54,375
+To answer that question,
+
+23
+00:00:54,375 --> 00:00:56,765
+Google's people
+analytics team looked
+
+24
+00:00:56,765 --> 00:00:59,615
+at past performance reviews
+and employee surveys.
+
+25
+00:00:59,615 --> 00:01:01,730
+The data they found
+was plotted on
+
+26
+00:01:01,730 --> 00:01:04,010
+a graph because as
+you've learned,
+
+27
+00:01:04,010 --> 00:01:05,945
+visuals are extremely helpful
+
+28
+00:01:05,945 --> 00:01:08,765
+when trying to understand
+a problem or concept.
+
+29
+00:01:08,765 --> 00:01:10,970
+The graph revealed that Googlers
+
+30
+00:01:10,970 --> 00:01:13,355
+had positive feelings
+about their managers,
+
+31
+00:01:13,355 --> 00:01:15,095
+but the data was pretty general
+
+32
+00:01:15,095 --> 00:01:17,110
+and the team wanted
+to learn more.
+
+33
+00:01:17,110 --> 00:01:20,705
+So they dug deeper and split
+the data into quartiles.
+
+34
+00:01:20,705 --> 00:01:22,760
+A quartile divides
+data points into
+
+35
+00:01:22,760 --> 00:01:25,175
+four equal parts or quarters.
+
+36
+00:01:25,175 --> 00:01:27,805
+Here's where the really cool
+stuff started happening.
+
+37
+00:01:27,805 --> 00:01:29,735
+The data analysts discovered
+
+38
+00:01:29,735 --> 00:01:30,920
+that there was a big difference
+
+39
+00:01:30,920 --> 00:01:34,355
+between the very top and
+the very bottom quartiles.
+
+40
+00:01:34,355 --> 00:01:36,590
+As it turned out, the teams with
+
+41
+00:01:36,590 --> 00:01:39,230
+the best managers were
+significantly happier,
+
+42
+00:01:39,230 --> 00:01:41,510
+more productive, and more
+
+43
+00:01:41,510 --> 00:01:43,990
+likely to want to keep
+working at Google.
+
+44
+00:01:43,990 --> 00:01:46,750
+This confirmed that managers were
+
+45
+00:01:46,750 --> 00:01:49,775
+valued and make a big difference.
+
+46
+00:01:49,775 --> 00:01:51,650
+Therefore, the idea of having
+
+47
+00:01:51,650 --> 00:01:54,910
+only individual contributors
+was not implemented.
+
+48
+00:01:54,910 --> 00:01:56,940
+But there was still
+more work to do.
+
+49
+00:01:56,940 --> 00:01:58,970
+Just knowing that
+great managers create
+
+50
+00:01:58,970 --> 00:02:02,090
+great results doesn't lead
+to actionable insights.
+
+51
+00:02:02,090 --> 00:02:05,645
+You have to identify what
+exactly makes a great manager,
+
+52
+00:02:05,645 --> 00:02:07,070
+so the team took
+
+53
+00:02:07,070 --> 00:02:09,775
+two additional steps
+to collect more data.
+
+54
+00:02:09,775 --> 00:02:12,845
+First, they launched
+an awards program
+
+55
+00:02:12,845 --> 00:02:15,880
+where employees could nominate
+their favorite managers.
+
+56
+00:02:15,880 --> 00:02:19,070
+For every submission you
+had to provide examples
+
+57
+00:02:19,070 --> 00:02:22,565
+or data about what makes
+that manager great.
+
+58
+00:02:22,565 --> 00:02:24,590
+The second step involved
+
+59
+00:02:24,590 --> 00:02:26,870
+interviewing managers
+who were graphed
+
+60
+00:02:26,870 --> 00:02:29,655
+on the top and bottom quartiles.
+
+61
+00:02:29,655 --> 00:02:32,750
+This helped the analytics
+team see the differences
+
+62
+00:02:32,750 --> 00:02:34,490
+between successful and less
+
+63
+00:02:34,490 --> 00:02:36,565
+successful management behaviors.
+
+64
+00:02:36,565 --> 00:02:39,500
+The best behaviors
+were identified as
+
+65
+00:02:39,500 --> 00:02:41,075
+were the most common reasons
+
+66
+00:02:41,075 --> 00:02:43,010
+for a manager needing improvement.
+
+67
+00:02:43,010 --> 00:02:44,750
+The final step was sharing
+
+68
+00:02:44,750 --> 00:02:46,610
+these insights and
+putting a procedure
+
+69
+00:02:46,610 --> 00:02:48,170
+in place for evaluating
+
+70
+00:02:48,170 --> 00:02:50,315
+managers with these
+qualities in mind.
+
+71
+00:02:50,315 --> 00:02:53,060
+This data-driven decision
+continues to create
+
+72
+00:02:53,060 --> 00:02:54,980
+an exceptional
+company culture for
+
+73
+00:02:54,980 --> 00:02:58,645
+my colleagues and
+me. Thanks, data.
+
+74
+00:02:58,645 --> 00:03:00,980
+Another interesting example comes
+
+75
+00:03:00,980 --> 00:03:02,900
+from the nonprofit sector.
+
+76
+00:03:02,900 --> 00:03:06,724
+Nonprofits are organizations
+dedicated to advancing
+
+77
+00:03:06,724 --> 00:03:10,595
+a social cause or advocating
+for a particular effort,
+
+78
+00:03:10,595 --> 00:03:12,230
+such as food security,
+
+79
+00:03:12,230 --> 00:03:14,700
+education or the arts.
+
+80
+00:03:14,700 --> 00:03:16,580
+In this case, data analysts
+
+81
+00:03:16,580 --> 00:03:18,320
+researched how journalists can make
+
+82
+00:03:18,320 --> 00:03:19,820
+a more meaningful impact
+
+83
+00:03:19,820 --> 00:03:21,980
+for the nonprofits
+they would write about.
+
+84
+00:03:21,980 --> 00:03:24,260
+Because journalists
+write for newspapers,
+
+85
+00:03:24,260 --> 00:03:26,480
+magazines, and
+other news outlets,
+
+86
+00:03:26,480 --> 00:03:29,660
+they can help nonprofits
+reach readers like you and me,
+
+87
+00:03:29,660 --> 00:03:31,520
+who then take action to
+
+88
+00:03:31,520 --> 00:03:33,820
+help nonprofits
+reach their goals.
+
+89
+00:03:33,820 --> 00:03:36,680
+For instance, say you
+read about the problem
+
+90
+00:03:36,680 --> 00:03:39,370
+of climate change in
+an online magazine.
+
+91
+00:03:39,370 --> 00:03:41,330
+If the article is effective,
+
+92
+00:03:41,330 --> 00:03:43,730
+you'll learn more about the
+cause and might even be
+
+93
+00:03:43,730 --> 00:03:45,515
+compelled to make greener choices
+
+94
+00:03:45,515 --> 00:03:46,835
+in your day-to-day life,
+
+95
+00:03:46,835 --> 00:03:48,770
+volunteer for a nonprofit,
+
+96
+00:03:48,770 --> 00:03:50,590
+or make a donation.
+
+97
+00:03:50,590 --> 00:03:52,380
+That's an example of
+
+98
+00:03:52,380 --> 00:03:55,264
+the journalist's work
+bringing about awareness,
+
+99
+00:03:55,264 --> 00:04:00,360
+understanding, and engagement.
+So, back to the story.
+
+100
+00:04:00,360 --> 00:04:04,070
+The data analysts used a tracker
+to monitor story topics,
+
+101
+00:04:04,070 --> 00:04:08,470
+clicks, web traffic,
+comments, shares and more.
+
+102
+00:04:08,470 --> 00:04:11,600
+Then they evaluated the
+information to make
+
+103
+00:04:11,600 --> 00:04:13,220
+recommendations for
+how the journalists
+
+104
+00:04:13,220 --> 00:04:14,870
+could do their jobs even better.
+
+105
+00:04:14,870 --> 00:04:16,940
+In the end, they came up with
+
+106
+00:04:16,940 --> 00:04:19,550
+some great ideas for
+how nonprofits and
+
+107
+00:04:19,550 --> 00:04:21,575
+journalists can motivate people
+
+108
+00:04:21,575 --> 00:04:22,865
+everywhere to work together
+
+109
+00:04:22,865 --> 00:04:24,470
+and make the world
+a better place.
+
+110
+00:04:24,470 --> 00:04:26,090
+There's really no end to what you
+
+111
+00:04:26,090 --> 00:04:27,665
+can do as a data analyst.
+
+112
+00:04:27,665 --> 00:04:29,615
+As you progress
+through this program,
+
+113
+00:04:29,615 --> 00:04:32,245
+you'll discover even
+more possibilities.
+
+114
+00:04:32,245 --> 00:04:33,840
+Great job following along with
+
+115
+00:04:33,840 --> 00:04:35,810
+the topics of these
+past few videos.
+
+116
+00:04:35,810 --> 00:04:38,240
+You learned all about
+analytical skills and
+
+117
+00:04:38,240 --> 00:04:40,850
+the five key characteristics
+of data analysts.
+
+118
+00:04:40,850 --> 00:04:42,980
+You probably even
+learned that you
+
+119
+00:04:42,980 --> 00:04:45,520
+are a pro at most
+of these already.
+
+120
+00:04:45,520 --> 00:04:49,440
+Next, you discovered what it
+means to think analytically
+
+121
+00:04:49,440 --> 00:04:52,210
+and the specific
+skills data analysts
+
+122
+00:04:52,210 --> 00:04:54,245
+develop to help them do it.
+
+123
+00:04:54,245 --> 00:04:55,610
+You explored tools and
+
+124
+00:04:55,610 --> 00:04:58,100
+processes that enable
+data analysts to
+
+125
+00:04:58,100 --> 00:04:59,870
+pinpoint a problem and ask
+
+126
+00:04:59,870 --> 00:05:02,280
+the right questions in
+order to solve them.
+
+127
+00:05:02,280 --> 00:05:05,390
+Finally, some real-world
+stories helped illustrate
+
+128
+00:05:05,390 --> 00:05:07,280
+why data-driven
+decision-making is
+
+129
+00:05:07,280 --> 00:05:09,605
+usually more successful
+than other methods.
+
+130
+00:05:09,605 --> 00:05:11,420
+You're building a
+wonderful foundation
+
+131
+00:05:11,420 --> 00:05:13,145
+for your career as
+a data analyst.
+
+132
+00:05:13,145 --> 00:05:17,150
+With every video, your skills
+will continue to expand, and
+
+133
+00:05:17,150 --> 00:05:19,010
+your understanding
+of key data analytics
+
+134
+00:05:19,010 --> 00:05:21,365
+concepts will only get stronger.
+
+135
+00:05:21,365 --> 00:05:23,300
+Soon, you'll have a chance
+
+136
+00:05:23,300 --> 00:05:25,225
+to test out everything
+you've learned.
+
+137
+00:05:25,225 --> 00:05:27,380
+This is a really useful
+opportunity to check
+
+138
+00:05:27,380 --> 00:05:30,425
+your understanding of all the
+concepts we've discussed,
+
+139
+00:05:30,425 --> 00:05:32,930
+and if you're ever
+unsure about a question,
+
+140
+00:05:32,930 --> 00:05:34,400
+you can review the videos and
+
+141
+00:05:34,400 --> 00:05:36,190
+readings to find the answer.
+
+142
+00:05:36,190 --> 00:05:39,785
+This is another awesome way
+to practice collecting data.
+
+143
+00:05:39,785 --> 00:05:42,180
+Keep up the great work.

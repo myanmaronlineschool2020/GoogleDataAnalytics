@@ -1,0 +1,731 @@
+1
+00:00:03,770 --> 00:00:06,030
+Regardless of what type of
+
+2
+00:00:06,030 --> 00:00:08,370
+data analysis you're conducting,
+
+3
+00:00:08,370 --> 00:00:10,470
+the process is
+generally the same.
+
+4
+00:00:10,470 --> 00:00:12,810
+The example that I'll
+walk through is that
+
+5
+00:00:12,810 --> 00:00:15,210
+of our employee engagement
+survey, but you could
+
+6
+00:00:15,210 --> 00:00:17,250
+imagine that this process
+applies to just about
+
+7
+00:00:17,250 --> 00:00:18,545
+any data analysis that you're
+
+8
+00:00:18,545 --> 00:00:20,355
+going to conduct as an analyst.
+
+9
+00:00:20,355 --> 00:00:22,560
+The first thing you
+want to do is ask.
+
+10
+00:00:22,560 --> 00:00:24,090
+You want to ask all of
+
+11
+00:00:24,090 --> 00:00:25,410
+the right questions at
+
+12
+00:00:25,410 --> 00:00:27,690
+the beginning of the
+engagement so that
+
+13
+00:00:27,690 --> 00:00:29,940
+you better understand what
+
+14
+00:00:29,940 --> 00:00:33,060
+your leaders and stakeholders
+need from this analysis.
+
+15
+00:00:33,060 --> 00:00:36,810
+The types of questions that
+I generally ask are around,
+
+16
+00:00:36,810 --> 00:00:39,945
+what is the problem that
+we're trying to solve?
+
+17
+00:00:39,945 --> 00:00:42,780
+What is the purpose
+of this analysis?
+
+18
+00:00:42,780 --> 00:00:44,835
+What are we hoping
+to learn from it?
+
+19
+00:00:44,835 --> 00:00:46,220
+After you've asked all the
+
+20
+00:00:46,220 --> 00:00:47,810
+right questions
+and you've wrapped
+
+21
+00:00:47,810 --> 00:00:49,040
+your arms around the scope of
+
+22
+00:00:49,040 --> 00:00:50,900
+the analysis you need to conduct,
+
+23
+00:00:50,900 --> 00:00:52,915
+the next step is to prepare.
+
+24
+00:00:52,915 --> 00:00:55,400
+We need to be thinking
+about what type of
+
+25
+00:00:55,400 --> 00:00:57,800
+data we need to answer
+those key questions.
+
+26
+00:00:57,800 --> 00:00:59,630
+This could be anything from
+
+27
+00:00:59,630 --> 00:01:02,030
+quantitative data or
+qualitative data.
+
+28
+00:01:02,030 --> 00:01:04,850
+It could be cross-sectional
+or points in
+
+29
+00:01:04,850 --> 00:01:08,815
+time versus longitudinal
+over a long period of time.
+
+30
+00:01:08,815 --> 00:01:11,000
+We need to be thinking
+about the type of data
+
+31
+00:01:11,000 --> 00:01:13,100
+we need in order to
+answer the questions
+
+32
+00:01:13,100 --> 00:01:15,320
+that we've set out
+to answer based on
+
+33
+00:01:15,320 --> 00:01:17,995
+what we learned when we
+asked the right questions.
+
+34
+00:01:17,995 --> 00:01:19,850
+We also need to be thinking about
+
+35
+00:01:19,850 --> 00:01:21,760
+how we're going to
+collect that data
+
+36
+00:01:21,760 --> 00:01:24,005
+or if we need to
+collect that data.
+
+37
+00:01:24,005 --> 00:01:25,790
+It may be the case that
+
+38
+00:01:25,790 --> 00:01:28,075
+we need to collect
+this data brand-new.
+
+39
+00:01:28,075 --> 00:01:29,780
+So we need to think
+about what type of
+
+40
+00:01:29,780 --> 00:01:31,955
+data we're going to be
+collecting and how.
+
+41
+00:01:31,955 --> 00:01:34,175
+For our employee engagement survey,
+
+42
+00:01:34,175 --> 00:01:35,750
+we do that via survey of
+
+43
+00:01:35,750 --> 00:01:38,840
+both quantitative and
+qualitative questions.
+
+44
+00:01:38,840 --> 00:01:41,810
+But it may actually be the
+case that for many analyses,
+
+45
+00:01:41,810 --> 00:01:44,720
+the data that you're
+looking for already exist.
+
+46
+00:01:44,720 --> 00:01:46,280
+Then it's a question of working
+
+47
+00:01:46,280 --> 00:01:47,840
+with those data
+owners to make sure
+
+48
+00:01:47,840 --> 00:01:48,950
+that you are able to leverage
+
+49
+00:01:48,950 --> 00:01:51,170
+that data and use it responsibly.
+
+50
+00:01:51,170 --> 00:01:54,395
+After you've done all the hard
+work to collect your data,
+
+51
+00:01:54,395 --> 00:01:56,885
+now you need to
+process that data.
+
+52
+00:01:56,885 --> 00:01:58,930
+It begins with cleaning.
+
+53
+00:01:58,930 --> 00:02:01,280
+This to me is the most fun part
+
+54
+00:02:01,280 --> 00:02:03,755
+of the data analytics process.
+
+55
+00:02:03,755 --> 00:02:06,740
+We can think of it as
+the initial introduction
+
+56
+00:02:06,740 --> 00:02:08,180
+or the handshake,
+
+57
+00:02:08,180 --> 00:02:09,755
+hello, to your data.
+
+58
+00:02:09,755 --> 00:02:11,060
+This is where you get a chance
+
+59
+00:02:11,060 --> 00:02:13,280
+to understand its structure,
+
+60
+00:02:13,280 --> 00:02:15,470
+its quirks, its nuances,
+
+61
+00:02:15,470 --> 00:02:17,750
+and you really get a
+chance to understand
+
+62
+00:02:17,750 --> 00:02:20,090
+deeply what type of
+data you're going to
+
+63
+00:02:20,090 --> 00:02:22,220
+be working with and understanding
+
+64
+00:02:22,220 --> 00:02:23,810
+what potential that data has
+
+65
+00:02:23,810 --> 00:02:25,880
+to answer all of your questions.
+
+66
+00:02:25,880 --> 00:02:28,085
+This is such an important
+part, too,
+
+67
+00:02:28,085 --> 00:02:29,810
+where we're running
+through all of
+
+68
+00:02:29,810 --> 00:02:31,760
+our quality assurance checks.
+
+69
+00:02:31,760 --> 00:02:33,980
+For example, do we have all of
+
+70
+00:02:33,980 --> 00:02:36,620
+the data that we
+anticipated we would have?
+
+71
+00:02:36,620 --> 00:02:39,830
+Are we missing data at
+random or is it missing in
+
+72
+00:02:39,830 --> 00:02:41,780
+a systematic way such that
+
+73
+00:02:41,780 --> 00:02:42,980
+maybe something went wrong with
+
+74
+00:02:42,980 --> 00:02:44,650
+our data collection effort?
+
+75
+00:02:44,650 --> 00:02:48,185
+If needed, did we code all
+of our data the right way?
+
+76
+00:02:48,185 --> 00:02:51,755
+Are there any outliers that
+we need to treat differently?
+
+77
+00:02:51,755 --> 00:02:54,200
+This is the part
+where we spend a lot of
+
+78
+00:02:54,200 --> 00:02:57,440
+time really digging deeply into
+
+79
+00:02:57,440 --> 00:03:00,380
+the structure and nuance of
+the data to make sure that
+
+80
+00:03:00,380 --> 00:03:01,550
+you're able to analyze
+
+81
+00:03:01,550 --> 00:03:03,755
+it appropriately
+and responsibly.
+
+82
+00:03:03,755 --> 00:03:05,630
+After cleaning our
+data and running
+
+83
+00:03:05,630 --> 00:03:07,730
+all of our quality
+assurance checks,
+
+84
+00:03:07,730 --> 00:03:10,595
+now is the point where
+we analyze our data,
+
+85
+00:03:10,595 --> 00:03:12,485
+making sure to do so in as
+
+86
+00:03:12,485 --> 00:03:15,475
+objective and unbiased
+a way as possible.
+
+87
+00:03:15,475 --> 00:03:17,810
+To do this, the first
+thing we do is run
+
+88
+00:03:17,810 --> 00:03:20,135
+through a series of
+analyses that we've
+
+89
+00:03:20,135 --> 00:03:22,640
+already planned
+ahead of time based
+
+90
+00:03:22,640 --> 00:03:24,020
+on the questions that we know we
+
+91
+00:03:24,020 --> 00:03:25,400
+want to answer from the very,
+
+92
+00:03:25,400 --> 00:03:27,110
+very beginning of the process.
+
+93
+00:03:27,110 --> 00:03:28,220
+One thing that's probably the
+
+94
+00:03:28,220 --> 00:03:30,410
+hardest about this
+particular process,
+
+95
+00:03:30,410 --> 00:03:32,405
+the hardest thing
+about analyzing data,
+
+96
+00:03:32,405 --> 00:03:37,015
+is that we as analysts are
+trained to look for patterns.
+
+97
+00:03:37,015 --> 00:03:40,580
+Over time as we become better
+and better at our jobs,
+
+98
+00:03:40,580 --> 00:03:42,650
+what we'll often find
+is that we can start to
+
+99
+00:03:42,650 --> 00:03:45,110
+intuit what we might
+see in the data.
+
+100
+00:03:45,110 --> 00:03:46,850
+We might have a
+sneaking suspicion
+
+101
+00:03:46,850 --> 00:03:48,760
+as to what the data
+are going to tell us.
+
+102
+00:03:48,760 --> 00:03:51,200
+This is the point where
+we have to take a step
+
+103
+00:03:51,200 --> 00:03:54,310
+back and let the data
+speak for itself.
+
+104
+00:03:54,310 --> 00:03:57,365
+As data analysts, we
+are storytellers,
+
+105
+00:03:57,365 --> 00:03:59,210
+but we also have to
+keep in mind that it
+
+106
+00:03:59,210 --> 00:04:01,190
+is not our story to tell.
+
+107
+00:04:01,190 --> 00:04:03,335
+That story belongs to the data,
+
+108
+00:04:03,335 --> 00:04:06,920
+and it is our job as
+analysts to amplify and
+
+109
+00:04:06,920 --> 00:04:08,360
+tell that story in
+
+110
+00:04:08,360 --> 00:04:10,790
+as unbiased and objective
+a way as possible.
+
+111
+00:04:10,790 --> 00:04:13,370
+The next step is to share
+all of the data and
+
+112
+00:04:13,370 --> 00:04:16,115
+insights that you've
+generated from your analyses.
+
+113
+00:04:16,115 --> 00:04:18,800
+Now typically for employee
+engagement survey,
+
+114
+00:04:18,800 --> 00:04:20,750
+we start by sharing the
+high-level findings
+
+115
+00:04:20,750 --> 00:04:22,340
+with our executive team.
+
+116
+00:04:22,340 --> 00:04:24,230
+We want them to have
+a landscape view of
+
+117
+00:04:24,230 --> 00:04:26,090
+how the organization is feeling,
+
+118
+00:04:26,090 --> 00:04:27,530
+and we want to make sure
+that there aren't
+
+119
+00:04:27,530 --> 00:04:29,300
+any surprises as they dig
+
+120
+00:04:29,300 --> 00:04:31,160
+deeper and deeper
+into the data to
+
+121
+00:04:31,160 --> 00:04:33,305
+understand how teams are feeling
+
+122
+00:04:33,305 --> 00:04:35,675
+and how individual
+employees are feeling.
+
+123
+00:04:35,675 --> 00:04:37,310
+All of this work
+
+124
+00:04:37,310 --> 00:04:41,075
+from asking the right questions
+to collecting your data,
+
+125
+00:04:41,075 --> 00:04:43,130
+to analyzing and sharing,
+
+126
+00:04:43,130 --> 00:04:44,720
+doesn't mean much of anything
+
+127
+00:04:44,720 --> 00:04:48,205
+if we aren't taking action
+on what we've just learned.
+
+128
+00:04:48,205 --> 00:04:51,410
+This to me is the
+most critical part,
+
+129
+00:04:51,410 --> 00:04:54,080
+especially of our employee
+engagement survey.
+
+130
+00:04:54,080 --> 00:04:57,319
+I like to say that the survey
+is actually the easy part,
+
+131
+00:04:57,319 --> 00:04:58,790
+and acting on the results is
+
+132
+00:04:58,790 --> 00:05:01,145
+really where the
+real work begins.
+
+133
+00:05:01,145 --> 00:05:04,490
+This is where we use all of
+those data-driven insights to
+
+134
+00:05:04,490 --> 00:05:08,090
+decide what types of interventions
+we want to introduce,
+
+135
+00:05:08,090 --> 00:05:09,830
+not only at the
+organizational level,
+
+136
+00:05:09,830 --> 00:05:12,175
+but also at the
+team level as well.
+
+137
+00:05:12,175 --> 00:05:14,060
+We might find, for example,
+
+138
+00:05:14,060 --> 00:05:16,700
+that the organization is
+working on a series of
+
+139
+00:05:16,700 --> 00:05:18,980
+interventions to help improve
+
+140
+00:05:18,980 --> 00:05:20,825
+part of the employee experience,
+
+141
+00:05:20,825 --> 00:05:22,370
+whereas individual teams have
+
+142
+00:05:22,370 --> 00:05:24,965
+additional roles,
+responsibilities to play,
+
+143
+00:05:24,965 --> 00:05:28,970
+to either bolster some of
+those efforts or to introduce
+
+144
+00:05:28,970 --> 00:05:31,250
+new ones to better
+meet their team
+
+145
+00:05:31,250 --> 00:05:33,970
+where their strengths and
+opportunity areas are.
+
+146
+00:05:33,970 --> 00:05:37,430
+The data analysis
+process is rigorous,
+
+147
+00:05:37,430 --> 00:05:39,180
+but it is lengthy.
+
+148
+00:05:39,180 --> 00:05:43,790
+I can completely appreciate
+that we as data analysts,
+
+149
+00:05:43,790 --> 00:05:46,595
+get so excited about just
+
+150
+00:05:46,595 --> 00:05:50,785
+diving right into the data
+and doing what we do best.
+
+151
+00:05:50,785 --> 00:05:53,300
+The challenge is that if we don't
+
+152
+00:05:53,300 --> 00:05:55,910
+work through the process
+in its entirety,
+
+153
+00:05:55,910 --> 00:05:57,965
+if we try to skip steps,
+
+154
+00:05:57,965 --> 00:05:59,930
+we're not going to
+be able to elicit
+
+155
+00:05:59,930 --> 00:06:02,425
+the insights that
+we're looking for.
+
+156
+00:06:02,425 --> 00:06:03,970
+I absolutely love my job.
+
+157
+00:06:03,970 --> 00:06:07,555
+I have such a deep
+appreciation for
+
+158
+00:06:07,555 --> 00:06:10,130
+data and what it can do and
+
+159
+00:06:10,130 --> 00:06:13,560
+what type of insight
+we can derive from it.

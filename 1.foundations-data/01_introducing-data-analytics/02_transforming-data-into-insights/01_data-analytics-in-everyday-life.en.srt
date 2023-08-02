@@ -1,0 +1,321 @@
+1
+00:00:01,117 --> 00:00:02,216
+Welcome back.
+
+2
+00:00:02,216 --> 00:00:06,527
+At this point, you've been introduced
+to the world of data analytics and
+
+3
+00:00:06,527 --> 00:00:07,928
+what data analysts do.
+
+4
+00:00:07,928 --> 00:00:11,247
+You've also learned how this
+course will prepare you for
+
+5
+00:00:11,247 --> 00:00:13,331
+a successful career as an analyst.
+
+6
+00:00:13,331 --> 00:00:16,863
+Coming up, you'll learn all
+the ways data can be used, and
+
+7
+00:00:16,863 --> 00:00:20,625
+you'll discover why data
+analysts are in such high demand.
+
+8
+00:00:20,625 --> 00:00:25,211
+I'm not exaggerating when I say every
+goal and success that my team and
+
+9
+00:00:25,211 --> 00:00:28,877
+I have achieved couldn't
+have been done without data.
+
+10
+00:00:28,877 --> 00:00:32,105
+Here at Google,
+all of our products are built on data and
+
+11
+00:00:32,105 --> 00:00:34,038
+data-driven decision making.
+
+12
+00:00:34,038 --> 00:00:36,452
+From concept to development to launch,
+
+13
+00:00:36,452 --> 00:00:41,001
+we're using data to figure out the best
+way forward. And we're not alone.
+
+14
+00:00:41,001 --> 00:00:45,021
+Countless other organizations also
+see the incredible value in data
+
+15
+00:00:45,021 --> 00:00:48,696
+and, of course, the data analysts
+who help them make use of it.
+
+16
+00:00:48,696 --> 00:00:52,678
+So we know data opens up
+a lot of opportunities.
+
+17
+00:00:52,678 --> 00:00:57,232
+But to help you wrap your head around
+all the ways you can actually use data,
+
+18
+00:00:57,232 --> 00:01:00,281
+let's go over a few examples
+from everyday life.
+
+19
+00:01:00,281 --> 00:01:03,766
+You might not realize it, but
+people analyze data all the time.
+
+20
+00:01:03,766 --> 00:01:06,084
+For instance, I'm a morning person.
+
+21
+00:01:06,084 --> 00:01:09,025
+A long time ago,
+I realized that I'm happier and
+
+22
+00:01:09,025 --> 00:01:12,344
+more productive if I get to bed
+early and wake up early.
+
+23
+00:01:12,344 --> 00:01:17,097
+I came to this conclusion after noticing
+a pattern in my day-to-day experiences.
+
+24
+00:01:17,097 --> 00:01:22,248
+When I got seven hours of sleep and woke
+up at 6:30, I was the most successful.
+
+25
+00:01:22,248 --> 00:01:27,015
+So I thought about the relationship
+between this pattern and my daily life,
+
+26
+00:01:27,015 --> 00:01:31,943
+and I predicted that early to bed early
+to rise would be the right choice for me.
+
+27
+00:01:31,943 --> 00:01:35,744
+And I'm definitely my best self
+when I wake up bright and early.
+
+28
+00:01:35,744 --> 00:01:39,611
+I bet you've identified patterns and
+relationships in your life, too.
+
+29
+00:01:39,611 --> 00:01:44,667
+Maybe about your own sleep cycle or
+how you feel after eating certain foods,
+
+30
+00:01:44,667 --> 00:01:47,285
+or what time of day you like to workout.
+
+31
+00:01:47,285 --> 00:01:51,977
+All of these are great examples of
+real life patterns and relationships
+
+32
+00:01:51,977 --> 00:01:56,745
+that you can use to make predictions
+about the right actions to take, and
+
+33
+00:01:56,745 --> 00:01:59,973
+that is a huge part of
+data analysis right there.
+
+34
+00:01:59,973 --> 00:02:03,468
+Now, let's put this process
+into a business setting.
+
+35
+00:02:03,468 --> 00:02:08,220
+You may remember from an earlier video
+that there's a ton of data out there.
+
+36
+00:02:08,220 --> 00:02:13,091
+And every minute of every hour of
+every day, more data is being created.
+
+37
+00:02:13,091 --> 00:02:15,999
+Businesses need a way to
+control all that data so
+
+38
+00:02:15,999 --> 00:02:20,652
+they can use it to improve processes,
+identify opportunities and trends,
+
+39
+00:02:20,652 --> 00:02:25,253
+launch new products, serve customers,
+and make thoughtful decisions.
+
+40
+00:02:25,253 --> 00:02:28,016
+For businesses to be on
+top of the competition,
+
+41
+00:02:28,016 --> 00:02:30,096
+they need to be on top of their data.
+
+42
+00:02:30,096 --> 00:02:34,755
+That's why these companies hire data
+analysts to control the waves of data they
+
+43
+00:02:34,755 --> 00:02:39,917
+collect every day, makes sense of it, and
+then draw conclusions or make predictions.
+
+44
+00:02:39,917 --> 00:02:43,436
+This is the process of turning
+data into insights, and
+
+45
+00:02:43,436 --> 00:02:47,729
+it's how analysts help businesses
+put all their data to good use.
+
+46
+00:02:47,729 --> 00:02:52,819
+This is actually a good way to think about
+analysis: turning data into insights.
+
+47
+00:02:52,819 --> 00:02:56,749
+As a reminder, the more detailed
+definition you learned earlier is
+
+48
+00:02:56,749 --> 00:03:00,252
+that data analysis is the collection,
+transformation,
+
+49
+00:03:00,252 --> 00:03:03,611
+and organization of data in
+order to draw conclusions,
+
+50
+00:03:03,611 --> 00:03:07,271
+make predictions, and
+drive informed decision-making.
+
+51
+00:03:07,271 --> 00:03:11,651
+So after analysts have created
+insights from data, what happens?
+
+52
+00:03:11,651 --> 00:03:13,043
+Well, a lot.
+
+53
+00:03:13,043 --> 00:03:17,044
+Those insights are shared with others,
+decisions are made, and
+
+54
+00:03:17,044 --> 00:03:18,652
+businesses take action.
+
+55
+00:03:18,652 --> 00:03:21,038
+And here's where it can
+get really exciting.
+
+56
+00:03:21,038 --> 00:03:26,152
+Data analytics can help organizations
+completely rethink something they do or
+
+57
+00:03:26,152 --> 00:03:28,681
+point them in a totally new direction.
+
+58
+00:03:28,681 --> 00:03:33,097
+For example, maybe data leads them to
+a new product or unique service, or
+
+59
+00:03:33,097 --> 00:03:37,958
+maybe it helps them find a new way to
+deliver an incredible customer experience.
+
+60
+00:03:37,958 --> 00:03:43,209
+It's these kinds of aha moments that
+can help businesses reach another level,
+
+61
+00:03:43,209 --> 00:03:46,521
+and that makes data analysts
+vital to any business.
+
+62
+00:03:46,521 --> 00:03:50,779
+Now that you know more of the amazing
+ways data is being used every day,
+
+63
+00:03:50,779 --> 00:03:54,040
+you can see why data analysts
+are in such high demand.
+
+64
+00:03:54,040 --> 00:03:58,887
+We'll continue exploring how analysts can
+transform data into insights that lead to
+
+65
+00:03:58,887 --> 00:03:59,431
+action.
+
+66
+00:03:59,431 --> 00:04:03,967
+And before you know it, you'll be ready
+to help any organization find new and
+
+67
+00:04:03,967 --> 00:04:06,420
+exciting ways to transform their data.

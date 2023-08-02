@@ -1,0 +1,567 @@
+1
+00:00:00,260 --> 00:00:02,820
+Now that you know
+the five essential
+
+2
+00:00:02,820 --> 00:00:04,590
+skills of a data analyst,
+
+3
+00:00:04,590 --> 00:00:06,150
+you're ready to learn more
+
+4
+00:00:06,150 --> 00:00:08,490
+about what it means to
+think analytically.
+
+5
+00:00:08,490 --> 00:00:11,145
+People don't often
+think about thinking.
+
+6
+00:00:11,145 --> 00:00:13,650
+Thinking is second nature to us.
+
+7
+00:00:13,650 --> 00:00:16,620
+It just happens automatically, but
+
+8
+00:00:16,620 --> 00:00:20,055
+there are actually many
+different ways to think.
+
+9
+00:00:20,055 --> 00:00:22,215
+Some people think creatively,
+
+10
+00:00:22,215 --> 00:00:24,135
+some think critically,
+
+11
+00:00:24,135 --> 00:00:26,850
+and some people think
+in abstract ways.
+
+12
+00:00:26,850 --> 00:00:29,145
+Let's talk about
+analytical thinking.
+
+13
+00:00:29,145 --> 00:00:31,890
+Analytical thinking
+involves identifying
+
+14
+00:00:31,890 --> 00:00:33,770
+and defining a problem and then
+
+15
+00:00:33,770 --> 00:00:35,900
+solving it by using data in
+
+16
+00:00:35,900 --> 00:00:38,795
+an organized, step-by-step manner.
+
+17
+00:00:38,795 --> 00:00:42,475
+As data analysts, how do
+we think analytically?
+
+18
+00:00:42,475 --> 00:00:44,375
+Well, to answer that question,
+
+19
+00:00:44,375 --> 00:00:47,270
+we will now talk about
+a second set of five.
+
+20
+00:00:47,270 --> 00:00:50,815
+The five key aspects to
+analytical thinking.
+
+21
+00:00:50,815 --> 00:00:55,350
+They are visualization,
+strategy, problem-orientation,
+
+22
+00:00:55,350 --> 00:00:57,750
+correlation, and finally,
+
+23
+00:00:57,750 --> 00:01:00,135
+big-picture and
+detail-oriented thinking.
+
+24
+00:01:00,135 --> 00:01:01,965
+Let's start with visualization.
+
+25
+00:01:01,965 --> 00:01:04,810
+In data analytics, visualization
+
+26
+00:01:04,810 --> 00:01:07,900
+is the graphical
+representation of information.
+
+27
+00:01:07,900 --> 00:01:09,909
+Some examples include graphs,
+
+28
+00:01:09,909 --> 00:01:12,395
+maps, or other design elements.
+
+29
+00:01:12,395 --> 00:01:16,310
+Visualization is important
+because visuals can help
+
+30
+00:01:16,310 --> 00:01:18,320
+data analysts understand and
+
+31
+00:01:18,320 --> 00:01:20,345
+explain information
+more effectively.
+
+32
+00:01:20,345 --> 00:01:22,395
+Think about it like this.
+
+33
+00:01:22,395 --> 00:01:25,880
+If you are trying to explain
+the Grand Canyon to someone,
+
+34
+00:01:25,880 --> 00:01:27,560
+using words would be much
+
+35
+00:01:27,560 --> 00:01:29,975
+more challenging than
+showing them a picture.
+
+36
+00:01:29,975 --> 00:01:32,510
+A visualization of the
+Grand Canyon would
+
+37
+00:01:32,510 --> 00:01:35,000
+help you make your
+point much quicker.
+
+38
+00:01:35,000 --> 00:01:37,220
+Now let's talk about
+the second part of
+
+39
+00:01:37,220 --> 00:01:40,095
+analytical thinking,
+being strategic.
+
+40
+00:01:40,095 --> 00:01:42,004
+With so much data available,
+
+41
+00:01:42,004 --> 00:01:43,715
+having a strategic mindset is
+
+42
+00:01:43,715 --> 00:01:46,415
+key to staying
+focused and on track.
+
+43
+00:01:46,415 --> 00:01:49,250
+Strategizing helps data
+analysts see what they
+
+44
+00:01:49,250 --> 00:01:52,705
+want to achieve with the data
+and how they can get there.
+
+45
+00:01:52,705 --> 00:01:54,560
+Strategy also helps improve
+
+46
+00:01:54,560 --> 00:01:57,590
+the quality and usefulness
+of the data we collect.
+
+47
+00:01:57,590 --> 00:02:00,710
+By strategizing, we
+know all our data is
+
+48
+00:02:00,710 --> 00:02:03,800
+valuable and can help us
+accomplish our goals.
+
+49
+00:02:03,800 --> 00:02:06,580
+Next step on the analytical
+thinking checklist:
+
+50
+00:02:06,580 --> 00:02:08,655
+being problem-oriented.
+
+51
+00:02:08,655 --> 00:02:11,420
+Data analysts use a problem-
+
+52
+00:02:11,420 --> 00:02:13,970
+oriented approach in
+order to identify,
+
+53
+00:02:13,970 --> 00:02:16,520
+describe, and solve problems.
+
+54
+00:02:16,520 --> 00:02:18,470
+It's all about keeping
+the problem top of
+
+55
+00:02:18,470 --> 00:02:20,930
+mind throughout the
+entire project.
+
+56
+00:02:20,930 --> 00:02:24,500
+For example, say a data
+analyst is told about
+
+57
+00:02:24,500 --> 00:02:26,165
+the problem of a warehouse
+
+58
+00:02:26,165 --> 00:02:28,300
+constantly running
+out of supplies.
+
+59
+00:02:28,300 --> 00:02:29,750
+They would move forward with
+
+60
+00:02:29,750 --> 00:02:31,595
+different strategies
+and processes.
+
+61
+00:02:31,595 --> 00:02:34,040
+But the number one
+goal would always be
+
+62
+00:02:34,040 --> 00:02:37,655
+solving the problem of keeping
+inventory on the shelves.
+
+63
+00:02:37,655 --> 00:02:40,945
+Data analysts also ask
+a lot of questions.
+
+64
+00:02:40,945 --> 00:02:43,130
+This helps improve
+communication and
+
+65
+00:02:43,130 --> 00:02:45,760
+saves time while
+working on a solution.
+
+66
+00:02:45,760 --> 00:02:47,495
+An example of that would be
+
+67
+00:02:47,495 --> 00:02:50,075
+surveying customers about
+their experiences
+
+68
+00:02:50,075 --> 00:02:52,430
+using a product and
+building insights from
+
+69
+00:02:52,430 --> 00:02:54,950
+those questions to
+improve their product.
+
+70
+00:02:54,950 --> 00:02:56,780
+This leads us to
+the fourth quality
+
+71
+00:02:56,780 --> 00:02:58,165
+of analytical thinking:
+
+72
+00:02:58,165 --> 00:02:59,945
+being able to identify
+
+73
+00:02:59,945 --> 00:03:02,975
+a correlation between two
+or more pieces of data.
+
+74
+00:03:02,975 --> 00:03:06,020
+A correlation is
+like a relationship.
+
+75
+00:03:06,020 --> 00:03:09,130
+You can find all kinds
+of correlations in data.
+
+76
+00:03:09,130 --> 00:03:11,690
+Maybe it's the relationship
+between the length of
+
+77
+00:03:11,690 --> 00:03:14,360
+your hair and the amount
+of shampoo you need.
+
+78
+00:03:14,360 --> 00:03:16,865
+Or maybe you notice a
+correlation between
+
+79
+00:03:16,865 --> 00:03:18,680
+a rainier season leading to
+
+80
+00:03:18,680 --> 00:03:21,185
+a high number of
+umbrellas being sold.
+
+81
+00:03:21,185 --> 00:03:24,620
+But as you start identifying
+correlations in data,
+
+82
+00:03:24,620 --> 00:03:27,005
+there's one thing you always
+want to keep in mind:
+
+83
+00:03:27,005 --> 00:03:30,535
+Correlation does not
+equal causation.
+
+84
+00:03:30,535 --> 00:03:33,020
+In other words, just
+because two pieces of
+
+85
+00:03:33,020 --> 00:03:35,509
+data are both trending
+in the same direction,
+
+86
+00:03:35,509 --> 00:03:38,815
+that doesn't necessarily
+mean they are all related.
+
+87
+00:03:38,815 --> 00:03:40,740
+We'll learn more
+about that later.
+
+88
+00:03:40,740 --> 00:03:43,190
+Now the final piece of
+
+89
+00:03:43,190 --> 00:03:46,735
+the analytical thinking
+puzzle: big-picture thinking.
+
+90
+00:03:46,735 --> 00:03:48,200
+This means being able to see
+
+91
+00:03:48,200 --> 00:03:50,480
+the big picture as
+well as the details.
+
+92
+00:03:50,480 --> 00:03:53,195
+A jigsaw puzzle is a great
+way to think about this.
+
+93
+00:03:53,195 --> 00:03:54,950
+Big-picture thinking is like
+
+94
+00:03:54,950 --> 00:03:56,525
+looking at a complete puzzle.
+
+95
+00:03:56,525 --> 00:03:58,940
+You can enjoy the
+whole picture without
+
+96
+00:03:58,940 --> 00:04:00,110
+getting stuck on every tiny
+
+97
+00:04:00,110 --> 00:04:01,930
+piece that went into making it.
+
+98
+00:04:01,930 --> 00:04:05,224
+If you only focus on
+individual pieces,
+
+99
+00:04:05,224 --> 00:04:07,985
+you wouldn't be able
+to see past that,
+
+100
+00:04:07,985 --> 00:04:11,735
+which is why big-picture
+thinking is so important.
+
+101
+00:04:11,735 --> 00:04:13,760
+It helps you zoom out and
+
+102
+00:04:13,760 --> 00:04:16,180
+see possibilities
+and opportunities.
+
+103
+00:04:16,180 --> 00:04:19,805
+This leads to exciting
+new ideas or innovations.
+
+104
+00:04:19,805 --> 00:04:23,240
+On the flip side, detail-oriented
+thinking is all about
+
+105
+00:04:23,240 --> 00:04:24,980
+figuring out all of the aspects
+
+106
+00:04:24,980 --> 00:04:26,900
+that will help you
+execute a plan.
+
+107
+00:04:26,900 --> 00:04:30,505
+In other words, the pieces
+that make up your puzzle.
+
+108
+00:04:30,505 --> 00:04:32,390
+There are all kinds
+of problems in
+
+109
+00:04:32,390 --> 00:04:34,430
+the business world
+that can benefit from
+
+110
+00:04:34,430 --> 00:04:36,920
+employees who have
+both a big-picture
+
+111
+00:04:36,920 --> 00:04:38,780
+and a detail-oriented
+way of thinking.
+
+112
+00:04:38,780 --> 00:04:41,425
+Most of us are naturally
+better at one or the other.
+
+113
+00:04:41,425 --> 00:04:42,860
+But you can always develop
+
+114
+00:04:42,860 --> 00:04:45,350
+the skills to fit
+both pieces together.
+
+115
+00:04:45,350 --> 00:04:47,330
+Now that you know
+the five aspects
+
+116
+00:04:47,330 --> 00:04:48,665
+of analytical thinking,
+
+117
+00:04:48,665 --> 00:04:52,305
+visualization, strategy,
+problem-orientation,
+
+118
+00:04:52,305 --> 00:04:53,880
+correlation, and
+
+119
+00:04:53,880 --> 00:04:56,175
+big-picture and
+detail-oriented thinking,
+
+120
+00:04:56,175 --> 00:04:57,440
+you can put them to work for
+
+121
+00:04:57,440 --> 00:04:59,450
+you when you're
+working with data.
+
+122
+00:04:59,450 --> 00:05:03,510
+As you continue through this
+course, you'll learn how.

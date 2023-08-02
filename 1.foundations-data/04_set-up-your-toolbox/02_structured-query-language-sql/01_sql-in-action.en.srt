@@ -1,0 +1,306 @@
+1
+00:00:00,120 --> 00:00:03,010
+As you might remember, earlier
+
+2
+00:00:03,010 --> 00:00:05,800
+we touched on the
+query language SQL.
+
+3
+00:00:05,800 --> 00:00:08,170
+In this video, you'll see SQL in
+
+4
+00:00:08,170 --> 00:00:11,220
+action and learn what
+you can do with it,
+
+5
+00:00:11,220 --> 00:00:14,060
+with some examples
+of specific queries.
+
+6
+00:00:14,060 --> 00:00:18,190
+I guess you can call
+this the SQL sequel.
+
+7
+00:00:18,190 --> 00:00:21,980
+We'll try to make this one
+even better than the original.
+
+8
+00:00:21,980 --> 00:00:24,880
+Remember, SQL can do lots of
+
+9
+00:00:24,880 --> 00:00:28,055
+the same things with data
+that spreadsheets can do.
+
+10
+00:00:28,055 --> 00:00:29,980
+You can use it to store,
+
+11
+00:00:29,980 --> 00:00:34,195
+organize and analyze your
+data, among other things.
+
+12
+00:00:34,195 --> 00:00:36,400
+But like any good sequel,
+
+13
+00:00:36,400 --> 00:00:41,115
+it's on a larger scale,
+bigger, more action-packed.
+
+14
+00:00:41,115 --> 00:00:44,445
+Think of it as
+supersize spreadsheets.
+
+15
+00:00:44,445 --> 00:00:47,020
+For example, you might
+want to consider
+
+16
+00:00:47,020 --> 00:00:49,615
+a spreadsheet when you
+have a smaller dataset,
+
+17
+00:00:49,615 --> 00:00:52,285
+such as one with just 100 rows.
+
+18
+00:00:52,285 --> 00:00:55,390
+But if your data set
+seems to go on forever,
+
+19
+00:00:55,390 --> 00:00:58,615
+and your spreadsheet is
+struggling to keep up,
+
+20
+00:00:58,615 --> 00:01:01,165
+SQL would be the way to go.
+
+21
+00:01:01,165 --> 00:01:03,370
+When you use SQL, you need
+
+22
+00:01:03,370 --> 00:01:06,940
+a place where the SQL
+language is understood.
+
+23
+00:01:06,940 --> 00:01:11,260
+If you've ever gone somewhere
+and not known the language,
+
+24
+00:01:11,260 --> 00:01:13,745
+it can be challenging
+to communicate.
+
+25
+00:01:13,745 --> 00:01:15,610
+You might think
+you're asking for
+
+26
+00:01:15,610 --> 00:01:18,685
+one thing and get something
+completely different.
+
+27
+00:01:18,685 --> 00:01:21,375
+Well, SQL knows the feeling.
+
+28
+00:01:21,375 --> 00:01:25,895
+SQL needs a database that
+will understand its language.
+
+29
+00:01:25,895 --> 00:01:28,600
+Let's talk. There are a number
+
+30
+00:01:28,600 --> 00:01:31,315
+of databases out
+there that use SQL.
+
+31
+00:01:31,315 --> 00:01:33,250
+You may use several of them
+
+32
+00:01:33,250 --> 00:01:35,495
+during your time
+as a data analyst.
+
+33
+00:01:35,495 --> 00:01:37,185
+But here's the thing,
+
+34
+00:01:37,185 --> 00:01:39,340
+no matter which
+database you use,
+
+35
+00:01:39,340 --> 00:01:42,685
+SQL basically works
+for the same in each.
+
+36
+00:01:42,685 --> 00:01:46,600
+For example, in SQL,
+queries are universal.
+
+37
+00:01:46,600 --> 00:01:48,805
+We've talked about
+queries before,
+
+38
+00:01:48,805 --> 00:01:51,265
+but it never hurts
+to have a refresher.
+
+39
+00:01:51,265 --> 00:01:53,920
+A query is a request for
+
+40
+00:01:53,920 --> 00:01:57,145
+data or information
+from a database.
+
+41
+00:01:57,145 --> 00:01:59,920
+Here's the structure
+of a basic query.
+
+42
+00:01:59,920 --> 00:02:02,650
+You can see that
+with this query we
+
+43
+00:02:02,650 --> 00:02:05,020
+can select specific data from
+
+44
+00:02:05,020 --> 00:02:07,840
+a table by adding where we can
+
+45
+00:02:07,840 --> 00:02:11,495
+filter the data based
+on certain conditions.
+
+46
+00:02:11,495 --> 00:02:15,790
+Let's get started. We'll open
+our database and see how
+
+47
+00:02:15,790 --> 00:02:20,380
+SQL can communicate with it
+to do some simple data task.
+
+48
+00:02:20,380 --> 00:02:23,665
+First, let's select
+our dataset.
+
+49
+00:02:23,665 --> 00:02:25,330
+We'll use an asterisk to
+
+50
+00:02:25,330 --> 00:02:28,000
+select all of the
+data from the table.
+
+51
+00:02:28,000 --> 00:02:30,010
+With that simple query,
+
+52
+00:02:30,010 --> 00:02:33,920
+the database calls up
+the table we need.
+
+53
+00:02:40,310 --> 00:02:47,615
+Magic. Let's add Where
+
+54
+00:02:47,615 --> 00:02:52,130
+to our query to show how that
+changes what data we get.
+
+55
+00:02:56,440 --> 00:02:59,870
+You can see the data
+now only shows,
+
+56
+00:02:59,870 --> 00:03:03,230
+movies that are in
+the action genre.
+
+57
+00:03:03,230 --> 00:03:07,305
+That's it, a basic query in SQL.
+
+58
+00:03:07,305 --> 00:03:10,370
+Pretty cool, huh? Soon you'll
+
+59
+00:03:10,370 --> 00:03:13,165
+learn about building
+more complex queries.
+
+60
+00:03:13,165 --> 00:03:15,380
+For now, though,
+we can celebrate
+
+61
+00:03:15,380 --> 00:03:18,670
+learning about the structure
+of a basic SQL query,
+
+62
+00:03:18,670 --> 00:03:21,840
+select, from, and where.
+
+63
+00:03:21,840 --> 00:03:24,005
+As you continue the program,
+
+64
+00:03:24,005 --> 00:03:27,455
+you have the opportunity
+to use SQL yourself.
+
+65
+00:03:27,455 --> 00:03:29,360
+I hope this video was
+
+66
+00:03:29,360 --> 00:03:33,000
+a useful sneak peek at
+what's coming later.

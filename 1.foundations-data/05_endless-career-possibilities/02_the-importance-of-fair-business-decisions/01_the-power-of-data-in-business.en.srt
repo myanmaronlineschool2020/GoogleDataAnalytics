@@ -1,0 +1,456 @@
+1
+00:00:00,260 --> 00:00:02,460
+As a data analyst,
+
+2
+00:00:02,460 --> 00:00:04,620
+you'll be tackling
+business tasks that help
+
+3
+00:00:04,620 --> 00:00:07,410
+companies use data. Coming up,
+
+4
+00:00:07,410 --> 00:00:11,130
+we'll talk more about what a
+business task actually is,
+
+5
+00:00:11,130 --> 00:00:12,870
+and some examples of
+what they might look
+
+6
+00:00:12,870 --> 00:00:15,060
+like in real data analyst jobs.
+
+7
+00:00:15,060 --> 00:00:16,590
+Let's take a second and think
+
+8
+00:00:16,590 --> 00:00:18,300
+back on the real examples of
+
+9
+00:00:18,300 --> 00:00:20,190
+businesses using data analytics
+
+10
+00:00:20,190 --> 00:00:22,410
+and their operation
+we've seen before.
+
+11
+00:00:22,410 --> 00:00:24,615
+You might have noticed
+a common theme
+
+12
+00:00:24,615 --> 00:00:26,115
+across every example.
+
+13
+00:00:26,115 --> 00:00:28,470
+They all have issues to explore,
+
+14
+00:00:28,470 --> 00:00:31,680
+questions to answer,
+or problems to solve.
+
+15
+00:00:31,680 --> 00:00:34,415
+It's easy for these
+things to get mixed up.
+
+16
+00:00:34,415 --> 00:00:36,770
+Here's a way to keep
+them straight when we
+
+17
+00:00:36,770 --> 00:00:39,080
+talk about them in
+data analytics.
+
+18
+00:00:39,080 --> 00:00:42,685
+An issue is a topic or
+subject to investigate.
+
+19
+00:00:42,685 --> 00:00:46,880
+A question is designed to
+discover information and
+
+20
+00:00:46,880 --> 00:00:48,860
+a problem is an obstacle or
+
+21
+00:00:48,860 --> 00:00:51,415
+complication that needs
+to be worked out.
+
+22
+00:00:51,415 --> 00:00:54,375
+Coca-Cola had a question
+about new products.
+
+23
+00:00:54,375 --> 00:00:56,615
+Data analysis gave them insights
+
+24
+00:00:56,615 --> 00:00:59,320
+into new flavors
+customers already like.
+
+25
+00:00:59,320 --> 00:01:02,870
+The City Zoo and Aquarium
+had a problem with staffing.
+
+26
+00:01:02,870 --> 00:01:06,950
+Data, helped them figure out
+the best staffing strategy.
+
+27
+00:01:06,950 --> 00:01:09,200
+These questions and
+problems become
+
+28
+00:01:09,200 --> 00:01:12,100
+the foundation for all
+kinds of business tasks,
+
+29
+00:01:12,100 --> 00:01:14,945
+that you'll help solve
+as a data analyst.
+
+30
+00:01:14,945 --> 00:01:17,540
+A business task is
+the question or
+
+31
+00:01:17,540 --> 00:01:21,100
+problem data analysis
+answers for business.
+
+32
+00:01:21,100 --> 00:01:22,940
+This is where you focus a lot of
+
+33
+00:01:22,940 --> 00:01:25,925
+your efforts in the work you'll
+do for future employers.
+
+34
+00:01:25,925 --> 00:01:28,550
+Let's stick with our zoo
+example and see if we can
+
+35
+00:01:28,550 --> 00:01:32,015
+imagine what a business task
+for a zoo might look like.
+
+36
+00:01:32,015 --> 00:01:33,650
+We know the problem,
+
+37
+00:01:33,650 --> 00:01:35,540
+unpredictable weather
+was making it
+
+38
+00:01:35,540 --> 00:01:38,630
+hard for the zoo to
+anticipate staffing needs.
+
+39
+00:01:38,630 --> 00:01:42,020
+Maybe the business task
+could be something like,
+
+40
+00:01:42,020 --> 00:01:43,760
+analyze weather data from
+
+41
+00:01:43,760 --> 00:01:47,050
+the last decade to identify
+predictable patterns.
+
+42
+00:01:47,050 --> 00:01:48,710
+The data analysts could then
+
+43
+00:01:48,710 --> 00:01:50,855
+plan out the best way to gather,
+
+44
+00:01:50,855 --> 00:01:53,210
+analyze, and present
+the data needed
+
+45
+00:01:53,210 --> 00:01:55,865
+to solve this task and
+meet the zoos goals.
+
+46
+00:01:55,865 --> 00:01:58,430
+Then, using data, the zoo
+would be able to make
+
+47
+00:01:58,430 --> 00:02:01,315
+informed decisions about
+their daily staffing.
+
+48
+00:02:01,315 --> 00:02:03,440
+We talked a little
+about data-driven
+
+49
+00:02:03,440 --> 00:02:05,735
+decision making in
+previous videos.
+
+50
+00:02:05,735 --> 00:02:09,220
+But just in case you need
+a refresher, here it is.
+
+51
+00:02:09,220 --> 00:02:12,890
+Data-driven decision-making
+is when facts that have been
+
+52
+00:02:12,890 --> 00:02:14,870
+discovered through data analysis
+
+53
+00:02:14,870 --> 00:02:17,210
+are used to guide
+business strategy.
+
+54
+00:02:17,210 --> 00:02:19,520
+The simplest way to think
+about decision-making
+
+55
+00:02:19,520 --> 00:02:22,340
+is that it's a choice
+between consequences,
+
+56
+00:02:22,340 --> 00:02:25,475
+good, bad, or a
+combination of both.
+
+57
+00:02:25,475 --> 00:02:27,125
+In our zoo example,
+
+58
+00:02:27,125 --> 00:02:29,600
+the zoo had the data
+they needed to make
+
+59
+00:02:29,600 --> 00:02:32,450
+an informed decision that
+solved their problem.
+
+60
+00:02:32,450 --> 00:02:35,150
+But what if they had made
+this decision without data?
+
+61
+00:02:35,150 --> 00:02:38,345
+Let's say they just
+relied on observation
+
+62
+00:02:38,345 --> 00:02:39,470
+and memory to track
+
+63
+00:02:39,470 --> 00:02:41,840
+the weather and make
+staffing schedules.
+
+64
+00:02:41,840 --> 00:02:43,970
+Well, we already know that
+
+65
+00:02:43,970 --> 00:02:46,130
+wouldn't have solve
+their problem long-term.
+
+66
+00:02:46,130 --> 00:02:49,280
+Data analytics gave them
+the information they needed
+
+67
+00:02:49,280 --> 00:02:52,720
+to find the best possible
+solution to their problem.
+
+68
+00:02:52,720 --> 00:02:54,540
+That's the power of data.
+
+69
+00:02:54,540 --> 00:02:56,930
+Observation and intuition are
+
+70
+00:02:56,930 --> 00:02:58,880
+powerful tools in
+decision-making,
+
+71
+00:02:58,880 --> 00:03:01,790
+but they can only take
+us so far when we make
+
+72
+00:03:01,790 --> 00:03:05,330
+decisions based on just
+observation and gut feelings,
+
+73
+00:03:05,330 --> 00:03:07,805
+we're only seeing
+part of the picture.
+
+74
+00:03:07,805 --> 00:03:10,450
+Data helps us see
+the whole thing.
+
+75
+00:03:10,450 --> 00:03:11,960
+With data, we have
+
+76
+00:03:11,960 --> 00:03:15,065
+a complete picture of the
+problem and its causes,
+
+77
+00:03:15,065 --> 00:03:16,400
+which lets us find
+
+78
+00:03:16,400 --> 00:03:18,260
+new and surprising solutions
+
+79
+00:03:18,260 --> 00:03:20,530
+we never would've been
+able to see before.
+
+80
+00:03:20,530 --> 00:03:24,230
+Data analytics helps businesses
+make better decisions.
+
+81
+00:03:24,230 --> 00:03:25,820
+It all starts with
+
+82
+00:03:25,820 --> 00:03:29,150
+a business task and the
+question it's trying to answer.
+
+83
+00:03:29,150 --> 00:03:32,015
+With the skills you'll learn
+throughout this program,
+
+84
+00:03:32,015 --> 00:03:34,339
+you'll be able to ask
+the right questions,
+
+85
+00:03:34,339 --> 00:03:37,805
+plan out the best way to
+gather and analyze data,
+
+86
+00:03:37,805 --> 00:03:40,940
+and then present it visually
+to arm your team so
+
+87
+00:03:40,940 --> 00:03:44,215
+they can make an informed,
+data-driven decision.
+
+88
+00:03:44,215 --> 00:03:46,250
+That makes you critical to
+
+89
+00:03:46,250 --> 00:03:49,295
+the success of any
+business you work for.
+
+90
+00:03:49,295 --> 00:03:51,440
+Data is a powerful tool.
+
+91
+00:03:51,440 --> 00:03:53,720
+With great power comes, well,
+
+92
+00:03:53,720 --> 00:03:55,790
+you know the rest.
+And you're doing
+
+93
+00:03:55,790 --> 00:03:59,210
+a super job taking in
+all of this information.
+
+94
+00:03:59,210 --> 00:04:01,970
+Up next, we'll talk about
+your responsibility
+
+95
+00:04:01,970 --> 00:04:04,700
+as a data analyst to make
+sure you're gathering,
+
+96
+00:04:04,700 --> 00:04:07,430
+analyzing, and presenting
+data in a way that's
+
+97
+00:04:07,430 --> 00:04:11,430
+fair to the people being
+represented by that data.

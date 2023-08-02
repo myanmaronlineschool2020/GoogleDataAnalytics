@@ -1,0 +1,349 @@
+1
+00:00:01,400 --> 00:00:03,030
+Here's a question for you.
+
+2
+00:00:03,030 --> 00:00:07,510
+When you think about a life cycle,
+what's the first thing that comes to mind?
+
+3
+00:00:07,510 --> 00:00:12,910
+Now I'm not a mind reader, but
+I know whatever you're thinking is right.
+
+4
+00:00:12,910 --> 00:00:17,550
+There's actually no wrong answer
+because everything has a life cycle.
+
+5
+00:00:17,550 --> 00:00:21,540
+One of the most well known examples
+of a life cycle is a butterfly.
+
+6
+00:00:21,540 --> 00:00:28,100
+Butterflies begin as eggs, hatch into
+caterpillars and then become a chrysalis.
+
+7
+00:00:28,100 --> 00:00:31,020
+That's where the real magic happens.
+
+8
+00:00:31,020 --> 00:00:33,520
+Data has a life cycle of its own too.
+
+9
+00:00:33,520 --> 00:00:37,770
+In this video, we're going to talk about
+each of the stages in that life cycle
+
+10
+00:00:37,770 --> 00:00:41,860
+to help you understand the individual
+phases data goes through.
+
+11
+00:00:41,860 --> 00:00:46,300
+The life cycle of data is plan,
+capture, manage,
+
+12
+00:00:46,300 --> 00:00:49,690
+analyze, archive and destroy.
+
+13
+00:00:49,690 --> 00:00:52,670
+Let's start with the first phase,
+planning.
+
+14
+00:00:52,670 --> 00:00:56,800
+This actually happens well before
+starting an analysis project.
+
+15
+00:00:56,800 --> 00:01:01,150
+During planning, a business decides
+what kind of data it needs,
+
+16
+00:01:01,150 --> 00:01:03,571
+how it will be managed
+throughout its life cycle,
+
+17
+00:01:03,571 --> 00:01:07,940
+who will be responsible for
+it, and the optimal outcomes.
+
+18
+00:01:07,940 --> 00:01:12,640
+For example, let's say an electricity
+provider wanted to gain insights
+
+19
+00:01:12,640 --> 00:01:15,000
+into how to save people energy.
+
+20
+00:01:15,000 --> 00:01:19,040
+In the planning phase, they might decide
+to capture information on how much
+
+21
+00:01:19,040 --> 00:01:21,350
+electricity its customers use each year,
+
+22
+00:01:21,350 --> 00:01:24,240
+what types of buildings are being powered,
+and
+
+23
+00:01:24,240 --> 00:01:28,500
+what types of devices are being powered
+inside of them. The electricity company
+
+24
+00:01:28,500 --> 00:01:32,880
+would also decide which team members will
+be responsible for collecting, storing,
+
+25
+00:01:32,880 --> 00:01:36,600
+and sharing that data.
+All of this happens during planning, and
+
+26
+00:01:36,600 --> 00:01:42,270
+it helps set up the rest of the project.
+The next phase is when you capture data.
+
+27
+00:01:42,270 --> 00:01:46,770
+This is where data is collected from
+a variety of different sources and
+
+28
+00:01:46,770 --> 00:01:48,510
+brought into the organization.
+
+29
+00:01:48,510 --> 00:01:50,890
+With so much data being created everyday,
+
+30
+00:01:50,890 --> 00:01:53,920
+the ways to collect
+it are truly endless.
+
+31
+00:01:53,920 --> 00:01:58,690
+One common method is getting data
+from outside resources. For example,
+
+32
+00:01:58,690 --> 00:02:02,560
+if you were doing data analysis on weather
+patterns, you'd probably get data from
+
+33
+00:02:02,560 --> 00:02:07,730
+a publicly available dataset like
+the National Climatic Data Center.
+
+34
+00:02:07,730 --> 00:02:11,310
+Another way to get data is from
+a company's own documents and files,
+
+35
+00:02:11,310 --> 00:02:15,720
+which are usually stored inside a
+database. While we've mentioned databases
+
+36
+00:02:15,720 --> 00:02:20,340
+before, we haven't gone into too
+much detail about what they are.
+
+37
+00:02:20,340 --> 00:02:24,690
+A database is a collection of
+data stored in a computer system.
+
+38
+00:02:24,690 --> 00:02:29,780
+In the case of our electricity provider,
+the business would probably measure data
+
+39
+00:02:29,780 --> 00:02:35,070
+usage among its customers within
+a database that it owns. As a quick note,
+
+40
+00:02:35,070 --> 00:02:39,580
+when you maintain a database of customer
+information, ensuring data integrity,
+
+41
+00:02:39,580 --> 00:02:43,845
+credibility, and
+privacy are all important concerns.
+
+42
+00:02:43,845 --> 00:02:46,950
+You'll learn a lot more
+about that later on.
+
+43
+00:02:46,950 --> 00:02:49,000
+Now that we've captured our data,
+
+44
+00:02:49,000 --> 00:02:53,140
+we'll move on to the next phase of
+the data life cycle, manage.
+
+45
+00:02:53,140 --> 00:02:55,760
+Here we're talking about how we care for
+our data,
+
+46
+00:02:55,760 --> 00:02:58,050
+how and where it's stored,
+
+47
+00:02:58,050 --> 00:03:00,840
+the tools used to keep it safe and
+secure, and
+
+48
+00:03:00,840 --> 00:03:04,730
+the actions taken to make sure
+that it's maintained properly.
+
+49
+00:03:04,730 --> 00:03:10,440
+This phase is very important to data
+cleansing, which we'll cover later on.
+
+50
+00:03:10,440 --> 00:03:16,470
+Next it's time to analyze your data.
+This is where data analysts really shine.
+
+51
+00:03:16,470 --> 00:03:21,100
+In this phase, the data is used to solve
+problems, make great decisions, and
+
+52
+00:03:21,100 --> 00:03:22,919
+support business goals.
+
+53
+00:03:22,919 --> 00:03:27,463
+For example, one of our electricity
+company's goals might be to find ways
+
+54
+00:03:27,463 --> 00:03:29,466
+to help customers save energy.
+
+55
+00:03:29,466 --> 00:03:34,850
+Moving along the data life cycle
+now evolves to the archive phase.
+
+56
+00:03:34,850 --> 00:03:38,900
+Archiving means storing data in a place
+where it's still available, but
+
+57
+00:03:38,900 --> 00:03:40,925
+may not be used again.
+
+58
+00:03:40,925 --> 00:03:45,290
+During analysis,
+analysts handle huge amounts of data.
+
+59
+00:03:45,290 --> 00:03:49,030
+Can you imagine if we had to sort through
+all of the available data that's out
+
+60
+00:03:49,030 --> 00:03:54,240
+there, even if it was no longer useful and
+relevant to our work?
+
+61
+00:03:54,240 --> 00:03:58,100
+It makes way more sense to archive
+it than to keep it around.
+
+62
+00:03:58,100 --> 00:04:03,000
+And finally, the last step of the data
+life cycle, the destroy phase.
+
+63
+00:04:03,000 --> 00:04:08,030
+Yes, it sounds sad, but when you
+destroy data, it won't hurt a bit.
+
+64
+00:04:08,030 --> 00:04:11,670
+So let's get back to our
+electricity provider example.
+
+65
+00:04:11,670 --> 00:04:14,653
+They would have data stored
+on multiple hard drives.
+
+66
+00:04:14,653 --> 00:04:19,940
+To destroy it, the company would
+use a secure data erasure software.
+
+67
+00:04:19,940 --> 00:04:23,850
+If there were any paper files,
+they would be shredded too.
+
+68
+00:04:23,850 --> 00:04:27,740
+This is important for protecting
+a company's private information, as well
+
+69
+00:04:27,740 --> 00:04:30,690
+as private data about its customers.
+
+70
+00:04:30,690 --> 00:04:34,060
+And there you have it,
+the data life cycle.
+
+71
+00:04:34,060 --> 00:04:37,813
+And now that you understand the different
+phases data goes through during its life
+
+72
+00:04:37,813 --> 00:04:42,890
+cycle, you can better understand how
+to approach the data analysis process,
+
+73
+00:04:42,890 --> 00:04:44,240
+which we'll talk about soon.

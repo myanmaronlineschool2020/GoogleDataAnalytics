@@ -1,0 +1,214 @@
+1
+00:00:00,200 --> 00:00:03,885
+Welcome back. In the
+next few videos,
+
+2
+00:00:03,885 --> 00:00:05,200
+you'll continue to explore
+
+3
+00:00:05,200 --> 00:00:08,195
+the data analytics tools
+we discussed earlier,
+
+4
+00:00:08,195 --> 00:00:09,940
+and you'll get the chance to see
+
+5
+00:00:09,940 --> 00:00:11,815
+them in action a little bit.
+
+6
+00:00:11,815 --> 00:00:13,765
+This will give you
+a clearer picture
+
+7
+00:00:13,765 --> 00:00:15,655
+of how to use these tools.
+
+8
+00:00:15,655 --> 00:00:17,320
+The rest of the program will
+
+9
+00:00:17,320 --> 00:00:19,495
+build on from what
+you learn here.
+
+10
+00:00:19,495 --> 00:00:22,640
+We'll start with a closer
+look at spreadsheets.
+
+11
+00:00:22,640 --> 00:00:25,900
+We'll break spreadsheets
+down to their basics to
+
+12
+00:00:25,900 --> 00:00:29,185
+better understand a few of
+their features and functions.
+
+13
+00:00:29,185 --> 00:00:31,480
+You'll also learn how
+you might want to use
+
+14
+00:00:31,480 --> 00:00:34,015
+them in your work
+as a data analyst.
+
+15
+00:00:34,015 --> 00:00:35,890
+For example, how do you
+
+16
+00:00:35,890 --> 00:00:38,515
+sort data to make
+it easier to use?
+
+17
+00:00:38,515 --> 00:00:42,040
+We'll find out. Next, we'll see
+
+18
+00:00:42,040 --> 00:00:44,660
+SQL in action. Data analysts
+
+19
+00:00:44,660 --> 00:00:47,435
+use SQL in their
+work all the time.
+
+20
+00:00:47,435 --> 00:00:49,970
+Like when they need a
+large amount of data in
+
+21
+00:00:49,970 --> 00:00:53,224
+seconds to help answer a
+quick business question.
+
+22
+00:00:53,224 --> 00:00:58,110
+Chances are, you're not
+familiar with SQL. That's okay.
+
+23
+00:00:58,110 --> 00:01:00,830
+You'll learn how using
+SQL is just like
+
+24
+00:01:00,830 --> 00:01:03,860
+ordering food at a super
+speedy restaurant.
+
+25
+00:01:03,860 --> 00:01:06,380
+Your SQL query might not be as
+
+26
+00:01:06,380 --> 00:01:07,970
+delicious but you won't
+
+27
+00:01:07,970 --> 00:01:10,240
+have to wait long
+to get your order.
+
+28
+00:01:10,240 --> 00:01:14,100
+Speaking of food, what
+better topic than dessert?
+
+29
+00:01:14,100 --> 00:01:16,580
+You can think of data
+visualization as
+
+30
+00:01:16,580 --> 00:01:19,820
+the dessert to the meal
+of data analytics.
+
+31
+00:01:19,820 --> 00:01:21,380
+It's served at the end of
+
+32
+00:01:21,380 --> 00:01:23,570
+your analysis after
+you've done what you
+
+33
+00:01:23,570 --> 00:01:27,475
+need to get the right data
+for a question or task.
+
+34
+00:01:27,475 --> 00:01:29,240
+We've already seen that
+
+35
+00:01:29,240 --> 00:01:31,805
+visualizations come
+in a lot of forms,
+
+36
+00:01:31,805 --> 00:01:33,815
+like graphs or charts.
+
+37
+00:01:33,815 --> 00:01:37,300
+Just like dessert, they're
+a treat to look at.
+
+38
+00:01:37,300 --> 00:01:40,340
+You'll learn more about
+these visual representations
+
+39
+00:01:40,340 --> 00:01:43,220
+and see other examples
+of how they might look.
+
+40
+00:01:43,220 --> 00:01:46,160
+Then you'll get to talk
+about visualizations
+
+41
+00:01:46,160 --> 00:01:49,295
+with other future data
+analysts just like yourself.
+
+42
+00:01:49,295 --> 00:01:51,850
+We'll wrap things up
+with an assessment,
+
+43
+00:01:51,850 --> 00:01:53,180
+but you'll have time to
+
+44
+00:01:53,180 --> 00:01:55,580
+review what you've
+learned before then.
+
+45
+00:01:55,580 --> 00:01:58,220
+Okay, let's keep going.
+
+46
+00:01:58,220 --> 00:02:02,010
+By the way, is anyone
+else hungry now?

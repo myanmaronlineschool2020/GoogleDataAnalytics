@@ -1,0 +1,320 @@
+1
+00:00:03,950 --> 00:00:07,530
+My name is Samah Moid,
+and I'm a recruiter
+
+2
+00:00:07,530 --> 00:00:10,230
+here at Google for the
+large customer sales team.
+
+3
+00:00:10,230 --> 00:00:12,795
+Basically, I hire talent
+for the sales team here.
+
+4
+00:00:12,795 --> 00:00:14,580
+Even within the sales
+recruiting space,
+
+5
+00:00:14,580 --> 00:00:15,990
+I recruit specifically for
+
+6
+00:00:15,990 --> 00:00:18,960
+the analytical lead
+roles here at Google.
+
+7
+00:00:18,960 --> 00:00:21,615
+I want the candidate to be
+as comfortable as possible.
+
+8
+00:00:21,615 --> 00:00:24,090
+As a recruiter I'm
+also their advocate.
+
+9
+00:00:24,090 --> 00:00:25,740
+If they're a good
+fit for the team,
+
+10
+00:00:25,740 --> 00:00:27,390
+I'd like to present
+them in the best light.
+
+11
+00:00:27,390 --> 00:00:30,525
+As a recruiter some
+advice I would give for
+
+12
+00:00:30,525 --> 00:00:33,820
+a data analyst that's
+starting to look for a job.
+
+13
+00:00:33,820 --> 00:00:35,070
+Think about a time where you've
+
+14
+00:00:35,070 --> 00:00:36,765
+used data to solve a problem,
+
+15
+00:00:36,765 --> 00:00:39,610
+whether it's in your professional
+or personal projects.
+
+16
+00:00:39,610 --> 00:00:41,030
+Another tip, I would say
+
+17
+00:00:41,030 --> 00:00:43,010
+for a data analyst that's looking
+
+18
+00:00:43,010 --> 00:00:46,745
+for a new job is to increase
+your professional network.
+
+19
+00:00:46,745 --> 00:00:48,200
+There are many ways to increase
+
+20
+00:00:48,200 --> 00:00:49,230
+your professional network.
+
+21
+00:00:49,230 --> 00:00:52,250
+One of them is to increase
+your online footprint,
+
+22
+00:00:52,250 --> 00:00:54,845
+reach out to other
+analysts on LinkedIn,
+
+23
+00:00:54,845 --> 00:00:58,250
+join local meet-ups with
+other data scientists.
+
+24
+00:00:58,250 --> 00:01:01,670
+Sometimes when we're looking
+for a unique skill set,
+
+25
+00:01:01,670 --> 00:01:04,380
+recruiters are going on
+websites like LinkedIn,
+
+26
+00:01:04,380 --> 00:01:06,650
+and GitHub, and trying to
+find that talent themselves.
+
+27
+00:01:06,650 --> 00:01:08,210
+It's really important
+to have your LinkedIn
+
+28
+00:01:08,210 --> 00:01:10,820
+updated along with
+websites like GitHub,
+
+29
+00:01:10,820 --> 00:01:12,260
+where you can showcase a lot of
+
+30
+00:01:12,260 --> 00:01:14,245
+the data analysts
+projects you've done.
+
+31
+00:01:14,245 --> 00:01:16,100
+Another tip I would say for
+
+32
+00:01:16,100 --> 00:01:17,270
+an in-person interview is to
+
+33
+00:01:17,270 --> 00:01:19,385
+prepare questions
+for the interviewer.
+
+34
+00:01:19,385 --> 00:01:22,030
+Make sure they're
+not broad questions.
+
+35
+00:01:22,030 --> 00:01:24,500
+They should be questions that
+will help you understand
+
+36
+00:01:24,500 --> 00:01:27,170
+the team and the job better.
+
+37
+00:01:27,170 --> 00:01:29,270
+If you're given a case
+study in an interview,
+
+38
+00:01:29,270 --> 00:01:30,530
+you should expect to be given
+
+39
+00:01:30,530 --> 00:01:32,930
+a business problem along
+with the sample data set.
+
+40
+00:01:32,930 --> 00:01:35,420
+Then you'd be asked to
+take that sample data set,
+
+41
+00:01:35,420 --> 00:01:38,045
+analyze it, and come
+up with a solution.
+
+42
+00:01:38,045 --> 00:01:40,520
+One of the things you can do
+to help prepare yourself for
+
+43
+00:01:40,520 --> 00:01:42,950
+this is to ensure
+
+44
+00:01:42,950 --> 00:01:45,260
+you are analyzing the data
+
+45
+00:01:45,260 --> 00:01:46,400
+and coming up with a solution
+
+46
+00:01:46,400 --> 00:01:47,855
+that relates back to that data.
+
+47
+00:01:47,855 --> 00:01:49,715
+Sometimes there is
+no right answer,
+
+48
+00:01:49,715 --> 00:01:51,890
+and a lot of times interviewers
+are looking to see
+
+49
+00:01:51,890 --> 00:01:53,060
+your thought process and the way
+
+50
+00:01:53,060 --> 00:01:54,740
+you get to your solution.
+
+51
+00:01:54,740 --> 00:01:56,360
+I highly encourage that if you
+
+52
+00:01:56,360 --> 00:01:57,860
+find a role that
+you're interested in,
+
+53
+00:01:57,860 --> 00:02:00,020
+not only apply to it,
+but go the next step.
+
+54
+00:02:00,020 --> 00:02:01,340
+Look for the recruiter. Look for
+
+55
+00:02:01,340 --> 00:02:02,450
+the hiring manager online.
+
+56
+00:02:02,450 --> 00:02:04,460
+See if you can reach
+out to them and set up
+
+57
+00:02:04,460 --> 00:02:07,285
+a coffee chat or send them
+your resume directly.
+
+58
+00:02:07,285 --> 00:02:08,930
+Online applications could be
+
+59
+00:02:08,930 --> 00:02:11,870
+a really big black hole where
+
+60
+00:02:11,870 --> 00:02:15,185
+you never hear back from
+the recruiter or the team.
+
+61
+00:02:15,185 --> 00:02:16,460
+When you reach out directly to
+
+62
+00:02:16,460 --> 00:02:17,750
+a hiring manager or recruiter,
+
+63
+00:02:17,750 --> 00:02:19,985
+it really shows your eagerness
+
+64
+00:02:19,985 --> 00:02:22,770
+for the role and your
+interests for the role.
+
+65
+00:02:22,770 --> 00:02:24,440
+Even if sometimes you don't
+
+66
+00:02:24,440 --> 00:02:26,255
+get a response from reaching out,
+
+67
+00:02:26,255 --> 00:02:29,630
+you never know, you try
+multiple different times.
+
+68
+00:02:29,630 --> 00:02:31,130
+That one time you get a response
+
+69
+00:02:31,130 --> 00:02:32,960
+back from a recruiter
+or hiring manager,
+
+70
+00:02:32,960 --> 00:02:36,090
+could be the time you get the
+job that you really wanted.

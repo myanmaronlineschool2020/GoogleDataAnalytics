@@ -1,0 +1,591 @@
+1
+00:00:00,280 --> 00:00:02,930
+So far, we've covered the
+
+2
+00:00:02,930 --> 00:00:05,240
+different roles data
+analysts play in
+
+3
+00:00:05,240 --> 00:00:08,090
+business environments
+and the kinds of tasks
+
+4
+00:00:08,090 --> 00:00:09,785
+that come with those roles.
+
+5
+00:00:09,785 --> 00:00:13,295
+But data analysts have another
+important responsibility:
+
+6
+00:00:13,295 --> 00:00:16,445
+making sure that their
+analyses are fair.
+
+7
+00:00:16,445 --> 00:00:19,565
+Now, I know what you're
+probably thinking,
+
+8
+00:00:19,565 --> 00:00:22,325
+data is based on
+collected facts,
+
+9
+00:00:22,325 --> 00:00:24,515
+how can it be unfair?
+
+10
+00:00:24,515 --> 00:00:27,405
+Well, that's a good question.
+
+11
+00:00:27,405 --> 00:00:30,380
+Let's learn what fairness
+means when we talk about
+
+12
+00:00:30,380 --> 00:00:32,750
+data analysis and why
+it's important for
+
+13
+00:00:32,750 --> 00:00:35,425
+you as an analyst
+to keep in mind.
+
+14
+00:00:35,425 --> 00:00:37,460
+Fairness means ensuring that
+
+15
+00:00:37,460 --> 00:00:41,180
+your analysis doesn't
+create or reinforce bias.
+
+16
+00:00:41,180 --> 00:00:43,545
+In other words, as
+a data analyst,
+
+17
+00:00:43,545 --> 00:00:45,500
+you want to help create systems
+
+18
+00:00:45,500 --> 00:00:47,930
+that are fair and
+inclusive to everyone.
+
+19
+00:00:47,930 --> 00:00:49,980
+Sounds simple enough?
+
+20
+00:00:49,980 --> 00:00:52,190
+Well, here's the tough part
+
+21
+00:00:52,190 --> 00:00:54,350
+about fairness in
+data analytics.
+
+22
+00:00:54,350 --> 00:00:57,275
+There isn't one standard
+definition of it,
+
+23
+00:00:57,275 --> 00:01:00,620
+but hopefully the way we've
+just described it can
+
+24
+00:01:00,620 --> 00:01:04,610
+give you one way to think
+about fairness for right now,
+
+25
+00:01:04,610 --> 00:01:07,280
+but it's about to
+get a bit trickier.
+
+26
+00:01:07,280 --> 00:01:10,070
+Sometimes conclusions based on
+
+27
+00:01:10,070 --> 00:01:13,220
+data can be true and unfair.
+
+28
+00:01:13,220 --> 00:01:15,550
+What can you do then?
+
+29
+00:01:15,550 --> 00:01:18,645
+Well, let's find out
+with an example.
+
+30
+00:01:18,645 --> 00:01:20,540
+Let's say we have
+a company that's
+
+31
+00:01:20,540 --> 00:01:23,315
+kind of notorious for being a boys club.
+
+32
+00:01:23,315 --> 00:01:26,430
+There isn't much representation
+of other genders.
+
+33
+00:01:26,430 --> 00:01:29,560
+This company wants to see which
+employees are doing well,
+
+34
+00:01:29,560 --> 00:01:31,670
+so they start gathering data on
+
+35
+00:01:31,670 --> 00:01:34,865
+employee performance and
+their own company culture.
+
+36
+00:01:34,865 --> 00:01:36,920
+The data shows that men are
+
+37
+00:01:36,920 --> 00:01:39,445
+the only people succeeding
+at this company.
+
+38
+00:01:39,445 --> 00:01:43,145
+Their conclusion? That they
+should hire more men.
+
+39
+00:01:43,145 --> 00:01:46,625
+After all, they're
+doing really well here, right?
+
+40
+00:01:46,625 --> 00:01:50,955
+But that's not a fair conclusion
+for a couple of reasons.
+
+41
+00:01:50,955 --> 00:01:53,390
+First, it doesn't even consider
+
+42
+00:01:53,390 --> 00:01:56,660
+all of the available
+data on company culture,
+
+43
+00:01:56,660 --> 00:01:59,165
+so it paints an
+incomplete picture.
+
+44
+00:01:59,165 --> 00:02:01,820
+Second, it doesn't think about
+
+45
+00:02:01,820 --> 00:02:03,650
+the other surrounding
+factors that
+
+46
+00:02:03,650 --> 00:02:06,185
+impact the data,
+or in other words,
+
+47
+00:02:06,185 --> 00:02:08,270
+the conclusion doesn't consider
+
+48
+00:02:08,270 --> 00:02:10,430
+the difficulties that people of
+
+49
+00:02:10,430 --> 00:02:12,440
+different gender identities have
+
+50
+00:02:12,440 --> 00:02:15,570
+trying to navigate a
+toxic work environment.
+
+51
+00:02:15,570 --> 00:02:18,589
+If the company only looks
+at this conclusion,
+
+52
+00:02:18,589 --> 00:02:19,970
+they won't acknowledge and
+
+53
+00:02:19,970 --> 00:02:22,910
+address how harmful
+their culture is
+
+54
+00:02:22,910 --> 00:02:24,860
+and they won't understand why
+
+55
+00:02:24,860 --> 00:02:27,920
+certain people are set
+up to fail within it.
+
+56
+00:02:27,920 --> 00:02:30,085
+That's why it's
+important to keep
+
+57
+00:02:30,085 --> 00:02:32,790
+fairness in mind
+when analyzing data.
+
+58
+00:02:32,790 --> 00:02:34,970
+The conclusion that only men are
+
+59
+00:02:34,970 --> 00:02:37,265
+succeeding at this
+company is true,
+
+60
+00:02:37,265 --> 00:02:40,535
+but it ignores other
+systematic factors
+
+61
+00:02:40,535 --> 00:02:43,195
+that are contributing
+to this problem.
+
+62
+00:02:43,195 --> 00:02:45,020
+But don't worry, there's
+
+63
+00:02:45,020 --> 00:02:47,515
+a way to make a fair
+conclusion here.
+
+64
+00:02:47,515 --> 00:02:49,490
+An ethical data analyst
+
+65
+00:02:49,490 --> 00:02:51,260
+can look at the
+data gathered and
+
+66
+00:02:51,260 --> 00:02:53,120
+conclude that the
+company culture is
+
+67
+00:02:53,120 --> 00:02:55,700
+preventing some employees
+from succeeding,
+
+68
+00:02:55,700 --> 00:02:57,680
+and the company needs to address
+
+69
+00:02:57,680 --> 00:03:00,605
+those problems to
+boost performance.
+
+70
+00:03:00,605 --> 00:03:02,930
+See how this conclusion paints
+
+71
+00:03:02,930 --> 00:03:06,055
+a much more complete
+and fair picture.
+
+72
+00:03:06,055 --> 00:03:09,140
+It recognizes the
+fact that some people
+
+73
+00:03:09,140 --> 00:03:11,990
+aren't doing as well in
+this company and factors in
+
+74
+00:03:11,990 --> 00:03:15,140
+why that
+could be instead of
+
+75
+00:03:15,140 --> 00:03:17,000
+discriminating
+against a huge number
+
+76
+00:03:17,000 --> 00:03:19,165
+of applicants in the future.
+
+77
+00:03:19,165 --> 00:03:21,250
+As a data analyst it's
+
+78
+00:03:21,250 --> 00:03:24,590
+your responsibility to
+make sure your analysis is
+
+79
+00:03:24,590 --> 00:03:26,330
+fair and factors in
+
+80
+00:03:26,330 --> 00:03:28,520
+the complicated social context
+
+81
+00:03:28,520 --> 00:03:31,550
+that could create bias
+in your conclusions.
+
+82
+00:03:31,550 --> 00:03:33,200
+It's important to think about
+
+83
+00:03:33,200 --> 00:03:35,600
+fairness from the moment
+you start collecting
+
+84
+00:03:35,600 --> 00:03:37,940
+data for a business task to
+
+85
+00:03:37,940 --> 00:03:39,230
+the time you present
+
+86
+00:03:39,230 --> 00:03:41,330
+your conclusions to
+your stakeholders.
+
+87
+00:03:41,330 --> 00:03:43,610
+We'll learn more about bias in
+
+88
+00:03:43,610 --> 00:03:47,000
+the data analysis process
+later on in another course.
+
+89
+00:03:47,000 --> 00:03:50,120
+For now, let's check
+out an example of
+
+90
+00:03:50,120 --> 00:03:51,950
+a data analysis that does
+
+91
+00:03:51,950 --> 00:03:55,735
+a good job of considering
+fairness in its conclusion.
+
+92
+00:03:55,735 --> 00:03:58,490
+A team of Harvard
+data scientists were
+
+93
+00:03:58,490 --> 00:04:01,520
+developing a mobile
+platform to track patients
+
+94
+00:04:01,520 --> 00:04:04,160
+at risk of cardiovascular
+disease in
+
+95
+00:04:04,160 --> 00:04:07,580
+an area of the United States
+called the Stroke Belt.
+
+96
+00:04:07,580 --> 00:04:11,390
+It's important to call out
+that there were a variety of
+
+97
+00:04:11,390 --> 00:04:15,340
+reasons people living in this
+area might be more at risk.
+
+98
+00:04:15,340 --> 00:04:16,800
+With that in mind,
+
+99
+00:04:16,800 --> 00:04:19,040
+these data scientists
+recognized that
+
+100
+00:04:19,040 --> 00:04:22,265
+fairness needed to be a
+priority for this project,
+
+101
+00:04:22,265 --> 00:04:25,090
+so they built fairness
+into their models.
+
+102
+00:04:25,090 --> 00:04:27,380
+The team took several
+fairness measures
+
+103
+00:04:27,380 --> 00:04:29,300
+to make sure they
+were being as fair
+
+104
+00:04:29,300 --> 00:04:31,070
+as possible when examining
+
+105
+00:04:31,070 --> 00:04:33,815
+sensitive and
+potentially biased data.
+
+106
+00:04:33,815 --> 00:04:36,650
+First, they teamed analysts
+
+107
+00:04:36,650 --> 00:04:38,720
+with social scientists
+who could provide
+
+108
+00:04:38,720 --> 00:04:40,700
+insights on human bias
+
+109
+00:04:40,700 --> 00:04:44,150
+and the social context
+that created them.
+
+110
+00:04:44,150 --> 00:04:47,270
+They also collected
+self reported data in
+
+111
+00:04:47,270 --> 00:04:51,260
+a separate system to avoid the
+potential for racial bias,
+
+112
+00:04:51,260 --> 00:04:53,510
+which might skew the results of
+
+113
+00:04:53,510 --> 00:04:56,630
+their study and unfairly
+represent patients.
+
+114
+00:04:56,630 --> 00:05:00,335
+To make sure this sample
+population was representative,
+
+115
+00:05:00,335 --> 00:05:03,155
+they oversampled
+non-dominant groups
+
+116
+00:05:03,155 --> 00:05:05,985
+to ensure the model
+was including them.
+
+117
+00:05:05,985 --> 00:05:08,340
+It's clear that the
+team made fairness a
+
+118
+00:05:08,340 --> 00:05:11,220
+top priority every
+step of the way.
+
+119
+00:05:11,220 --> 00:05:14,670
+This helped them collect data
+and create conclusions that
+
+120
+00:05:14,670 --> 00:05:16,170
+didn't negatively impact
+
+121
+00:05:16,170 --> 00:05:18,315
+the communities
+they were studying.
+
+122
+00:05:18,315 --> 00:05:20,460
+Hopefully these
+examples have given you
+
+123
+00:05:20,460 --> 00:05:24,435
+a better idea of what fairness
+means in data analysis.
+
+124
+00:05:24,435 --> 00:05:25,740
+But we're going to keep
+
+125
+00:05:25,740 --> 00:05:27,870
+building on our
+understanding of fairness
+
+126
+00:05:27,870 --> 00:05:30,030
+throughout this program and
+
+127
+00:05:30,030 --> 00:05:33,310
+you'll get to practice
+with some activities.

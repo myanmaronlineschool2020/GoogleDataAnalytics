@@ -1,0 +1,391 @@
+1
+00:00:01,260 --> 00:00:06,031
+In an earlier video, you learned about
+five essential analytical skills.
+
+2
+00:00:06,031 --> 00:00:10,706
+As a reminder, they're curiosity,
+understanding context,
+
+3
+00:00:10,706 --> 00:00:15,390
+having a technical mindset,
+data design, and data strategy.
+
+4
+00:00:15,390 --> 00:00:18,139
+In the next couple of videos,
+we'll explore how these
+
+5
+00:00:18,139 --> 00:00:21,261
+abilities all become part of
+data-driven decision-making.
+
+6
+00:00:21,261 --> 00:00:25,779
+But first, let's look at the concept
+of data-driven decision-making and
+
+7
+00:00:25,779 --> 00:00:29,090
+why it's more likely to lead
+to successful outcomes.
+
+8
+00:00:29,090 --> 00:00:33,199
+You might remember that data-driven
+decision-making involved using facts to
+
+9
+00:00:33,199 --> 00:00:34,641
+guide business strategy.
+
+10
+00:00:34,641 --> 00:00:39,513
+Data analysts can tap into the power of
+data to do all kinds of amazing things.
+
+11
+00:00:39,513 --> 00:00:44,391
+With data, they can gain valuable
+insights, verify their theories or
+
+12
+00:00:44,391 --> 00:00:48,052
+assumptions, better
+understand opportunities and
+
+13
+00:00:48,052 --> 00:00:52,950
+challenges, support an objective,
+help make a plan, and much more.
+
+14
+00:00:52,950 --> 00:00:53,744
+In business,
+
+15
+00:00:53,744 --> 00:00:58,321
+data-driven decision-making can improve
+the results in a lot of different ways.
+
+16
+00:00:58,321 --> 00:01:03,007
+For example, say a dairy farmer wants
+to start making and selling ice cream.
+
+17
+00:01:03,007 --> 00:01:05,862
+They could guess what flavors
+customers would like, but
+
+18
+00:01:05,862 --> 00:01:08,190
+there's a better way to
+get the information.
+
+19
+00:01:08,190 --> 00:01:13,142
+The farmer could survey people and
+ask them what flavors they prefer.
+
+20
+00:01:13,142 --> 00:01:18,018
+This gives the farmer the data they need
+to pick ice cream flavors people will
+
+21
+00:01:18,018 --> 00:01:18,560
+enjoy.
+
+22
+00:01:18,560 --> 00:01:20,128
+Here's another example.
+
+23
+00:01:20,128 --> 00:01:24,754
+Let's say the president of an organization
+is curious about what perks employees
+
+24
+00:01:24,754 --> 00:01:25,498
+value most.
+
+25
+00:01:25,498 --> 00:01:30,812
+She asked the human resources director
+who says people value casual dress code.
+
+26
+00:01:30,812 --> 00:01:35,722
+It's a gut feeling, but the HR director
+backs it up with the fact that he sees
+
+27
+00:01:35,722 --> 00:01:38,690
+a lot of people wearing jeans and
+t-shirts.
+
+28
+00:01:38,690 --> 00:01:43,762
+But what if this company were to use a
+more structured employee feedback process,
+
+29
+00:01:43,762 --> 00:01:44,874
+such as a survey?
+
+30
+00:01:44,874 --> 00:01:49,414
+It might reveal that employees actually
+enjoy free public transportation
+
+31
+00:01:49,414 --> 00:01:50,430
+cards the most.
+
+32
+00:01:50,430 --> 00:01:55,503
+The human resources director just didn't
+realize that because he drives to work.
+
+33
+00:01:55,503 --> 00:01:59,805
+These are just some of the benefits
+of data-driven decision-making.
+
+34
+00:01:59,805 --> 00:02:02,466
+It gives you greater confidence
+about your choice and
+
+35
+00:02:02,466 --> 00:02:04,958
+your abilities to address
+business challenges.
+
+36
+00:02:04,958 --> 00:02:09,509
+It helps you become more proactive when
+an opportunity presents itself, and
+
+37
+00:02:09,509 --> 00:02:12,880
+it saves you time and
+effort when working towards a goal.
+
+38
+00:02:12,880 --> 00:02:17,193
+Now let's learn more about how these five
+skills help you tap into all the potential
+
+39
+00:02:17,193 --> 00:02:19,047
+of data-driven decision-making.
+
+40
+00:02:19,047 --> 00:02:22,740
+First, think about curiosity and context.
+
+41
+00:02:22,740 --> 00:02:25,116
+The more you learn about
+the power of data,
+
+42
+00:02:25,116 --> 00:02:27,559
+the more curious you're likely to become.
+
+43
+00:02:27,559 --> 00:02:30,912
+You'll start to see patterns and
+relationships in everyday life,
+
+44
+00:02:30,912 --> 00:02:34,139
+whether you're reading the news,
+watching a movie, or
+
+45
+00:02:34,139 --> 00:02:36,299
+going to an appointment across town.
+
+46
+00:02:36,299 --> 00:02:40,871
+The analysts take their thinking
+a step further by using context to make
+
+47
+00:02:40,871 --> 00:02:43,305
+predictions, research answers, and
+
+48
+00:02:43,305 --> 00:02:47,306
+eventually draw conclusions
+about what they've discovered.
+
+49
+00:02:47,306 --> 00:02:52,420
+This natural process is a great first
+step in becoming more data-driven.
+
+50
+00:02:52,420 --> 00:02:55,148
+Having a technical mindset comes next.
+
+51
+00:02:55,148 --> 00:02:56,996
+Everyone has instincts, or
+
+52
+00:02:56,996 --> 00:03:02,040
+as in the case of our human resources
+director example, gut feelings.
+
+53
+00:03:02,040 --> 00:03:04,197
+Data analysts are no different.
+
+54
+00:03:04,197 --> 00:03:06,035
+They have gut feelings too.
+
+55
+00:03:06,035 --> 00:03:09,784
+But they've trained themselves
+to build on those feelings and
+
+56
+00:03:09,784 --> 00:03:12,622
+use a more technical
+approach to explore them.
+
+57
+00:03:12,622 --> 00:03:17,287
+They do this by always seeking out
+the facts, putting them to work through
+
+58
+00:03:17,287 --> 00:03:21,971
+analysis, and using the insights they
+gain to make informed decisions.
+
+59
+00:03:21,971 --> 00:03:23,930
+Next, we come to data design,
+
+60
+00:03:23,930 --> 00:03:27,960
+which has a strong connection
+to data-driven decision-making.
+
+61
+00:03:27,960 --> 00:03:30,561
+To put it simply, designing your data so
+
+62
+00:03:30,561 --> 00:03:35,457
+that it is organized in a logical way makes
+it easy for data analysts to access,
+
+63
+00:03:35,457 --> 00:03:39,297
+understand, and
+make the most of available information.
+
+64
+00:03:39,297 --> 00:03:43,990
+And it's important to keep in mind
+that data design doesn't just apply to
+
+65
+00:03:43,990 --> 00:03:44,830
+databases.
+
+66
+00:03:44,830 --> 00:03:49,999
+This kind of thinking can work with
+all sorts of real-life situations too.
+
+67
+00:03:49,999 --> 00:03:52,770
+The basic idea is this.
+
+68
+00:03:52,770 --> 00:03:55,917
+If you make decisions that
+are informed by data,
+
+69
+00:03:55,917 --> 00:04:00,309
+you are more likely to make more
+informed and effective decisions.
+
+70
+00:04:00,309 --> 00:04:05,027
+The final ability is data strategy, which
+incorporates the people, processes, and
+
+71
+00:04:05,027 --> 00:04:06,760
+tools used to solve a problem.
+
+72
+00:04:06,760 --> 00:04:11,691
+This is a big one to remember because data
+strategy gives you a high-level view of
+
+73
+00:04:11,691 --> 00:04:14,695
+the path you need to take
+to achieve your goals.
+
+74
+00:04:14,695 --> 00:04:19,519
+Also, data-driven decision-making
+isn't a one-person job.
+
+75
+00:04:19,519 --> 00:04:24,470
+It's much more likely to be successful if
+everyone is on board and on the same page,
+
+76
+00:04:24,470 --> 00:04:28,893
+so it's important to make sure
+specific procedures are in place and
+
+77
+00:04:28,893 --> 00:04:33,870
+that your technology being used is
+aligned with your data-driven strategy.
+
+78
+00:04:33,870 --> 00:04:38,433
+Now you know how these five essential
+analytical skills work towards making
+
+79
+00:04:38,433 --> 00:04:40,363
+better, data-driven decisions.
+
+80
+00:04:40,363 --> 00:04:44,190
+So far, many of the examples
+you've heard are hypothetical.
+
+81
+00:04:44,190 --> 00:04:49,078
+That means they could be true in theory,
+but aren't specific real-world cases.
+
+82
+00:04:49,078 --> 00:04:51,951
+Next, we'll look at some real examples.
+
+83
+00:04:51,951 --> 00:04:56,650
+I can't wait to share how data analysts
+put data to work for amazing results.

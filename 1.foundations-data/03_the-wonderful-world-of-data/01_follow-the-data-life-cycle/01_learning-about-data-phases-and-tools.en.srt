@@ -1,0 +1,256 @@
+1
+00:00:00,260 --> 00:00:03,525
+Hey. It's great to have you back.
+
+2
+00:00:03,525 --> 00:00:05,190
+We've talked a little bit about
+
+3
+00:00:05,190 --> 00:00:07,110
+the data analysis process.
+
+4
+00:00:07,110 --> 00:00:08,640
+As a quick refresher,
+
+5
+00:00:08,640 --> 00:00:11,250
+the data analysis process phases
+
+6
+00:00:11,250 --> 00:00:14,085
+are ask, prepare, process,
+
+7
+00:00:14,085 --> 00:00:16,845
+analyze, share, and act.
+
+8
+00:00:16,845 --> 00:00:19,140
+You might remember
+me saying earlier
+
+9
+00:00:19,140 --> 00:00:22,485
+that this entire program is
+modeled after these steps.
+
+10
+00:00:22,485 --> 00:00:25,350
+Now, we're going
+to really dig in
+
+11
+00:00:25,350 --> 00:00:28,065
+and explore how each of
+these phases work together.
+
+12
+00:00:28,065 --> 00:00:30,060
+But I'm getting a
+little ahead of myself.
+
+13
+00:00:30,060 --> 00:00:32,205
+First, let's spend a little time
+
+14
+00:00:32,205 --> 00:00:34,350
+understanding the data life cycle.
+
+15
+00:00:34,350 --> 00:00:37,340
+No, data isn't actually alive,
+
+16
+00:00:37,340 --> 00:00:39,675
+but it does have a life cycle.
+
+17
+00:00:39,675 --> 00:00:41,735
+How do data analysts
+
+18
+00:00:41,735 --> 00:00:43,310
+bring data to life?
+
+19
+00:00:43,310 --> 00:00:46,825
+Well, it starts with the
+right data analysis tool.
+
+20
+00:00:46,825 --> 00:00:50,015
+These include
+spreadsheets, databases,
+
+21
+00:00:50,015 --> 00:00:53,560
+query languages, and
+visualization software.
+
+22
+00:00:53,560 --> 00:00:56,700
+Don't worry if you don't
+know how these work,
+
+23
+00:00:56,700 --> 00:00:58,490
+or even what they are.
+
+24
+00:00:58,490 --> 00:01:00,920
+At one point, every data analyst
+
+25
+00:01:00,920 --> 00:01:03,020
+has been right where
+you are right now,
+
+26
+00:01:03,020 --> 00:01:07,370
+and they probably had a
+lot of the same questions.
+
+27
+00:01:07,370 --> 00:01:09,200
+I remember when I first started
+
+28
+00:01:09,200 --> 00:01:10,745
+learning about spreadsheets.
+
+29
+00:01:10,745 --> 00:01:12,470
+I was a young intern,
+
+30
+00:01:12,470 --> 00:01:14,240
+and the company I
+was working for
+
+31
+00:01:14,240 --> 00:01:16,625
+was in the middle of
+a big systems change.
+
+32
+00:01:16,625 --> 00:01:19,010
+That meant, we had
+to move tons of
+
+33
+00:01:19,010 --> 00:01:22,225
+reports from the old
+system to the new one.
+
+34
+00:01:22,225 --> 00:01:23,835
+After a few weeks,
+
+35
+00:01:23,835 --> 00:01:25,740
+I noticed that even the people
+
+36
+00:01:25,740 --> 00:01:27,685
+who were further
+in their careers
+
+37
+00:01:27,685 --> 00:01:31,205
+were not as technically
+minded as I was.
+
+38
+00:01:31,205 --> 00:01:35,300
+That became a great opportunity
+for me to add value.
+
+39
+00:01:35,300 --> 00:01:37,580
+My aha spreadsheet moment
+
+40
+00:01:37,580 --> 00:01:39,890
+came when I started
+researching shortcuts
+
+41
+00:01:39,890 --> 00:01:41,090
+that I could use to work with
+
+42
+00:01:41,090 --> 00:01:42,785
+the spreadsheets
+more efficiently.
+
+43
+00:01:42,785 --> 00:01:44,990
+This would really
+streamline the process of
+
+44
+00:01:44,990 --> 00:01:47,765
+getting those reports moved
+over to the new system.
+
+45
+00:01:47,765 --> 00:01:49,625
+Once everything started flowing,
+
+46
+00:01:49,625 --> 00:01:51,080
+I remember getting emails from
+
+47
+00:01:51,080 --> 00:01:53,000
+other finance analysts
+at the company.
+
+48
+00:01:53,000 --> 00:01:54,530
+They were so grateful
+
+49
+00:01:54,530 --> 00:01:55,790
+that someone had come in
+
+50
+00:01:55,790 --> 00:01:57,790
+and fixed a problem
+that no one else could.
+
+51
+00:01:57,790 --> 00:01:59,850
+That inspired me to
+go even further
+
+52
+00:01:59,850 --> 00:02:01,450
+and learn how to
+use spreadsheets
+
+53
+00:02:01,450 --> 00:02:03,920
+in all sorts of incredible ways.
+
+54
+00:02:03,920 --> 00:02:06,020
+As you continue
+through this course,
+
+55
+00:02:06,020 --> 00:02:08,690
+I bet you'll be just
+as impressed as I was.
+
+56
+00:02:08,690 --> 00:02:10,580
+And before you know
+it, you'll bring data
+
+57
+00:02:10,580 --> 00:02:13,630
+to life too. Let's get started.

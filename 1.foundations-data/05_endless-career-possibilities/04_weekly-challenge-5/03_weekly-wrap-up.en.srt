@@ -1,0 +1,46 @@
+1
+00:00:00,110 --> 00:00:02,565
+We're at the end of this course,
+
+2
+00:00:02,565 --> 00:00:05,280
+which means it's time to show
+off what you've learned.
+
+3
+00:00:05,280 --> 00:00:08,070
+We've covered the different
+kinds of industries using
+
+4
+00:00:08,070 --> 00:00:11,220
+data to drive decisions
+and how you can help them.
+
+5
+00:00:11,220 --> 00:00:13,670
+How to promote fairness
+in your data work,
+
+6
+00:00:13,670 --> 00:00:15,720
+and opportunities that are out
+
+7
+00:00:15,720 --> 00:00:18,150
+there in the world
+of data analytics.
+
+8
+00:00:18,150 --> 00:00:19,845
+I know you've got this.
+
+9
+00:00:19,845 --> 00:00:22,185
+Once you finish the
+course challenge,
+
+10
+00:00:22,185 --> 00:00:26,080
+I'll be right here to introduce
+you to the next course.

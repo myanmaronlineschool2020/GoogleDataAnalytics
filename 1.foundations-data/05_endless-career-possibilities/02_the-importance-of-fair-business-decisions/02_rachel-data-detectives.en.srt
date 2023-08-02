@@ -1,0 +1,259 @@
+1
+00:00:03,730 --> 00:00:06,080
+Hi, my name is Rachel,
+
+2
+00:00:06,080 --> 00:00:07,310
+and I'm the Business systems and
+
+3
+00:00:07,310 --> 00:00:08,825
+analytics lead at Verily.
+
+4
+00:00:08,825 --> 00:00:10,610
+There are a lot of
+different types of
+
+5
+00:00:10,610 --> 00:00:12,620
+problems that a data
+analyst can solve.
+
+6
+00:00:12,620 --> 00:00:14,840
+I've been lucky
+enough over my career
+
+7
+00:00:14,840 --> 00:00:17,360
+to have seen a lot of them and
+
+8
+00:00:17,360 --> 00:00:20,150
+to take in a lot of
+very different types of
+
+9
+00:00:20,150 --> 00:00:23,225
+data and help turn that
+into meaningful answers.
+
+10
+00:00:23,225 --> 00:00:24,260
+I think one of the most
+
+11
+00:00:24,260 --> 00:00:25,490
+important things
+to remember about
+
+12
+00:00:25,490 --> 00:00:28,100
+data analytics is
+that data is data.
+
+13
+00:00:28,100 --> 00:00:31,010
+I'm a finance data analyst and so
+
+14
+00:00:31,010 --> 00:00:32,570
+my role at Verily is to take
+
+15
+00:00:32,570 --> 00:00:34,250
+all of our financial information,
+
+16
+00:00:34,250 --> 00:00:35,870
+all of the information of
+
+17
+00:00:35,870 --> 00:00:38,405
+the money we're spending
+and the money we're making,
+
+18
+00:00:38,405 --> 00:00:41,090
+and turn that into
+reports and insights
+
+19
+00:00:41,090 --> 00:00:42,350
+so that our business leads
+
+20
+00:00:42,350 --> 00:00:43,880
+can understand what we're doing.
+
+21
+00:00:43,880 --> 00:00:45,665
+One of the most important
+things I've done
+
+22
+00:00:45,665 --> 00:00:47,420
+at Verily recently was help
+
+23
+00:00:47,420 --> 00:00:49,130
+create what's called
+a profit and loss
+
+24
+00:00:49,130 --> 00:00:51,230
+statement for each of
+our business units.
+
+25
+00:00:51,230 --> 00:00:53,795
+That means that in real time,
+
+26
+00:00:53,795 --> 00:00:55,880
+our teams can see
+what their budget
+
+27
+00:00:55,880 --> 00:00:58,795
+is and how they're spending
+against that budget.
+
+28
+00:00:58,795 --> 00:01:01,940
+What that does is that
+helps our teams keep to
+
+29
+00:01:01,940 --> 00:01:04,940
+that budget by either increasing
+
+30
+00:01:04,940 --> 00:01:06,530
+their revenue streams
+so that they have
+
+31
+00:01:06,530 --> 00:01:08,840
+more money to play
+with or pulling
+
+32
+00:01:08,840 --> 00:01:10,490
+back their spending so that they
+
+33
+00:01:10,490 --> 00:01:13,220
+can keep themselves
+within that budget.
+
+34
+00:01:13,220 --> 00:01:15,410
+All of that really
+helps keep us on
+
+35
+00:01:15,410 --> 00:01:16,880
+track as a company in
+
+36
+00:01:16,880 --> 00:01:18,515
+making sure that we're
+hitting our goals.
+
+37
+00:01:18,515 --> 00:01:22,220
+I found that data acts like a
+living and breathing thing.
+
+38
+00:01:22,220 --> 00:01:24,695
+When you have a ton
+of data points,
+
+39
+00:01:24,695 --> 00:01:26,390
+it can be overwhelming
+
+40
+00:01:26,390 --> 00:01:28,510
+when you first sit down
+to make sense of it.
+
+41
+00:01:28,510 --> 00:01:30,320
+You have tons of columns,
+
+42
+00:01:30,320 --> 00:01:33,560
+tons of records, tons of
+different types of data,
+
+43
+00:01:33,560 --> 00:01:36,380
+and finding a way to make
+sense of that is really
+
+44
+00:01:36,380 --> 00:01:37,880
+hard and that's where
+
+45
+00:01:37,880 --> 00:01:39,990
+the expertise of a
+data analyst comes in.
+
+46
+00:01:39,990 --> 00:01:41,390
+It has been some of the most
+
+47
+00:01:41,390 --> 00:01:43,190
+frustrating moments of my career,
+
+48
+00:01:43,190 --> 00:01:45,350
+but also some of the
+most rewarding work I've
+
+49
+00:01:45,350 --> 00:01:47,510
+ever done when it
+finally comes together.
+
+50
+00:01:47,510 --> 00:01:48,980
+The best advice I have for
+
+51
+00:01:48,980 --> 00:01:51,215
+any data analyst starting
+out is keep at it.
+
+52
+00:01:51,215 --> 00:01:52,670
+If the angle you're
+taking doesn't
+
+53
+00:01:52,670 --> 00:01:54,140
+work, try to find another one.
+
+54
+00:01:54,140 --> 00:01:55,520
+Try to come at it
+in a different way,
+
+55
+00:01:55,520 --> 00:01:56,750
+try to ask a different question,
+
+56
+00:01:56,750 --> 00:01:58,460
+and eventually the data will
+
+57
+00:01:58,460 --> 00:02:01,970
+yield and you'll get the
+insights you're looking for.

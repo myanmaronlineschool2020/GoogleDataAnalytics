@@ -1,0 +1,683 @@
+1
+00:00:00,200 --> 00:00:03,720
+By now, we know that
+there are all kinds of
+
+2
+00:00:03,720 --> 00:00:07,085
+jobs in different industries
+available for data analysts.
+
+3
+00:00:07,085 --> 00:00:08,970
+But now it's time to think
+
+4
+00:00:08,970 --> 00:00:10,875
+about something
+just as important,
+
+5
+00:00:10,875 --> 00:00:13,650
+how can you tell if a
+job is a good fit for
+
+6
+00:00:13,650 --> 00:00:16,965
+you and your career
+goals? Tough one.
+
+7
+00:00:16,965 --> 00:00:19,140
+Don't worry, that's exactly what
+
+8
+00:00:19,140 --> 00:00:20,505
+we'll cover in this video.
+
+9
+00:00:20,505 --> 00:00:22,560
+There's a lot of
+important factors to
+
+10
+00:00:22,560 --> 00:00:24,885
+think about when searching
+for your dream job.
+
+11
+00:00:24,885 --> 00:00:28,005
+Let's talk about some of the
+most common factors first,
+
+12
+00:00:28,005 --> 00:00:33,210
+industry, tools, location,
+travel, and culture.
+
+13
+00:00:33,210 --> 00:00:35,130
+Data is already being used by
+
+14
+00:00:35,130 --> 00:00:38,250
+countless industries in all
+kinds of different ways,
+
+15
+00:00:38,250 --> 00:00:41,615
+tech, marketing,
+finance, health care,
+
+16
+00:00:41,615 --> 00:00:43,625
+the list goes on.
+
+17
+00:00:43,625 --> 00:00:46,250
+But one thing that's
+important to keep in mind,
+
+18
+00:00:46,250 --> 00:00:49,115
+every industry has
+specific data needs
+
+19
+00:00:49,115 --> 00:00:50,300
+that have to be addressed
+
+20
+00:00:50,300 --> 00:00:52,525
+differently by their
+data analysts.
+
+21
+00:00:52,525 --> 00:00:54,650
+The same revenue
+data can be used in
+
+22
+00:00:54,650 --> 00:00:56,030
+three different ways by
+
+23
+00:00:56,030 --> 00:00:58,595
+data analysts in three
+different industries,
+
+24
+00:00:58,595 --> 00:01:01,925
+financial services,
+Telecom, and tech.
+
+25
+00:01:01,925 --> 00:01:04,370
+For example, a finance analyst at
+
+26
+00:01:04,370 --> 00:01:06,710
+a bank post public
+revenue data of
+
+27
+00:01:06,710 --> 00:01:09,920
+Telecom company X to
+create a forecast that
+
+28
+00:01:09,920 --> 00:01:11,810
+predicts where
+revenues will be in
+
+29
+00:01:11,810 --> 00:01:13,940
+the future to recommend
+the stock price.
+
+30
+00:01:13,940 --> 00:01:16,965
+The business analyst
+at Telecom company X
+
+31
+00:01:16,965 --> 00:01:20,750
+uses that same data to
+advise the sales team.
+
+32
+00:01:20,750 --> 00:01:23,225
+Then a data analyst
+at the company
+
+33
+00:01:23,225 --> 00:01:25,760
+who created a customer
+management tool for
+
+34
+00:01:25,760 --> 00:01:28,310
+Telecom company X will use that
+
+35
+00:01:28,310 --> 00:01:30,140
+revenue data to determine how
+
+36
+00:01:30,140 --> 00:01:32,905
+efficiently the
+software is performing.
+
+37
+00:01:32,905 --> 00:01:35,875
+Finance, telecom, and tech,
+
+38
+00:01:35,875 --> 00:01:37,904
+all use data differently,
+
+39
+00:01:37,904 --> 00:01:41,045
+so they need analysts who
+have different skills.
+
+40
+00:01:41,045 --> 00:01:44,060
+It all comes down to what the
+needs of the industry are.
+
+41
+00:01:44,060 --> 00:01:48,470
+Those needs will determine
+what task you'll be given,
+
+42
+00:01:48,470 --> 00:01:50,510
+the questions you'll
+be answering and
+
+43
+00:01:50,510 --> 00:01:52,670
+even how you'll
+approach job searching.
+
+44
+00:01:52,670 --> 00:01:54,140
+If you're just starting out,
+
+45
+00:01:54,140 --> 00:01:56,210
+a great way to guide
+your search is to
+
+46
+00:01:56,210 --> 00:01:59,005
+think first about what
+you're interested in.
+
+47
+00:01:59,005 --> 00:02:00,800
+Does helping people get
+
+48
+00:02:00,800 --> 00:02:02,585
+healthier sound
+meaningful to you?
+
+49
+00:02:02,585 --> 00:02:04,160
+Maybe you want to focus on using
+
+50
+00:02:04,160 --> 00:02:06,380
+data to improve
+hospital admissions.
+
+51
+00:02:06,380 --> 00:02:09,835
+What about helping people
+save for a happy retirement?
+
+52
+00:02:09,835 --> 00:02:12,560
+You might want a job
+that uses data to
+
+53
+00:02:12,560 --> 00:02:15,245
+determine risk factors in
+financial investments.
+
+54
+00:02:15,245 --> 00:02:17,030
+Or maybe you're
+interested in helping
+
+55
+00:02:17,030 --> 00:02:18,985
+journalism grow in your city.
+
+56
+00:02:18,985 --> 00:02:21,410
+A job using data to help find
+
+57
+00:02:21,410 --> 00:02:23,360
+your local news website find
+
+58
+00:02:23,360 --> 00:02:26,840
+more subscribers could be
+the perfect role for you.
+
+59
+00:02:26,840 --> 00:02:28,790
+The key is to think about
+
+60
+00:02:28,790 --> 00:02:31,585
+your interests early
+in your job search.
+
+61
+00:02:31,585 --> 00:02:34,044
+That'll lead you in
+the right direction,
+
+62
+00:02:34,044 --> 00:02:36,515
+and it will help you
+in interviews too.
+
+63
+00:02:36,515 --> 00:02:38,630
+Potential employers
+will want to know
+
+64
+00:02:38,630 --> 00:02:40,820
+why you're interested
+in their company,
+
+65
+00:02:40,820 --> 00:02:42,910
+and how you can
+address their needs,
+
+66
+00:02:42,910 --> 00:02:44,270
+so if you can speak about
+
+67
+00:02:44,270 --> 00:02:45,890
+your motivation to work in
+
+68
+00:02:45,890 --> 00:02:47,675
+data analytics during interviews,
+
+69
+00:02:47,675 --> 00:02:50,270
+you'll make yourself
+stand out in a great way.
+
+70
+00:02:50,270 --> 00:02:52,730
+You'll have options
+when it comes to
+
+71
+00:02:52,730 --> 00:02:55,880
+where you work and
+who you work for.
+
+72
+00:02:55,880 --> 00:02:59,300
+But remember, you want
+to enjoy what you do,
+
+73
+00:02:59,300 --> 00:03:01,040
+so it's a good idea to think
+
+74
+00:03:01,040 --> 00:03:03,335
+about how you want
+to use your skills.
+
+75
+00:03:03,335 --> 00:03:06,440
+Then search for jobs that
+allow you to do that.
+
+76
+00:03:06,440 --> 00:03:08,240
+Next on the list
+of things to think
+
+77
+00:03:08,240 --> 00:03:10,560
+about, location and travel.
+
+78
+00:03:10,560 --> 00:03:12,320
+When you start your job search,
+
+79
+00:03:12,320 --> 00:03:13,640
+you need to make some decisions
+
+80
+00:03:13,640 --> 00:03:15,125
+about where you want to live,
+
+81
+00:03:15,125 --> 00:03:17,870
+so it helps to ask
+yourself some questions,
+
+82
+00:03:17,870 --> 00:03:19,535
+does your preferred industry have
+
+83
+00:03:19,535 --> 00:03:21,610
+opportunities in your area?
+
+84
+00:03:21,610 --> 00:03:23,480
+Are you trying to stay local
+
+85
+00:03:23,480 --> 00:03:25,520
+or would you be happy relocating?
+
+86
+00:03:25,520 --> 00:03:28,970
+How long are you willing to
+commute to work every day?
+
+87
+00:03:28,970 --> 00:03:30,605
+Will you drive to work,
+
+88
+00:03:30,605 --> 00:03:33,275
+walk, take public transport?
+
+89
+00:03:33,275 --> 00:03:35,420
+Is that possible year-round?
+
+90
+00:03:35,420 --> 00:03:37,915
+How do you feel about
+working remotely?
+
+91
+00:03:37,915 --> 00:03:41,160
+Does working from home
+excite you or bore you?
+
+92
+00:03:41,160 --> 00:03:44,390
+Of course, you'll want to
+consider cost of living,
+
+93
+00:03:44,390 --> 00:03:46,220
+and whether or not you want
+
+94
+00:03:46,220 --> 00:03:49,400
+the convenience of city living
+or a quiet suburban home,
+
+95
+00:03:49,400 --> 00:03:51,515
+and it's not just about
+where you'll be based,
+
+96
+00:03:51,515 --> 00:03:53,525
+some jobs may ask you to travel,
+
+97
+00:03:53,525 --> 00:03:55,340
+which could be an
+exciting chance to see
+
+98
+00:03:55,340 --> 00:03:57,625
+the world or a deal-breaker.
+
+99
+00:03:57,625 --> 00:04:00,215
+It's all about what you
+want out of this job,
+
+100
+00:04:00,215 --> 00:04:02,915
+so start asking yourself
+some of these questions.
+
+101
+00:04:02,915 --> 00:04:04,820
+Figuring out the
+answers can help you
+
+102
+00:04:04,820 --> 00:04:06,960
+narrow down your
+search even further,
+
+103
+00:04:06,960 --> 00:04:10,705
+so you're only looking at
+jobs you'd actually accept.
+
+104
+00:04:10,705 --> 00:04:13,204
+Once you've answered
+enough questions,
+
+105
+00:04:13,204 --> 00:04:14,420
+you'll be able to identify
+
+106
+00:04:14,420 --> 00:04:17,360
+some specific companies
+that fit your needs.
+
+107
+00:04:17,360 --> 00:04:20,060
+At this point, it's a
+good time to think about
+
+108
+00:04:20,060 --> 00:04:21,380
+your values and what
+
+109
+00:04:21,380 --> 00:04:24,605
+company culture is
+a good fit for you.
+
+110
+00:04:24,605 --> 00:04:27,739
+Ready, here comes
+some more questions,
+
+111
+00:04:27,739 --> 00:04:31,265
+do you work best in a
+team or by yourself?
+
+112
+00:04:31,265 --> 00:04:34,310
+Do you like to have a
+set routine or do you
+
+113
+00:04:34,310 --> 00:04:37,825
+enjoy taking a new project
+and trying new things?
+
+114
+00:04:37,825 --> 00:04:40,695
+Do your values match
+the company's values?
+
+115
+00:04:40,695 --> 00:04:43,130
+You'll want to pay attention
+to these things during
+
+116
+00:04:43,130 --> 00:04:45,490
+your job search and
+interview process,
+
+117
+00:04:45,490 --> 00:04:47,300
+so you can be sure you fully
+
+118
+00:04:47,300 --> 00:04:49,720
+invested in the
+company you work for.
+
+119
+00:04:49,720 --> 00:04:51,710
+That's the best way
+to start building
+
+120
+00:04:51,710 --> 00:04:53,945
+an exciting and
+fulfilling career.
+
+121
+00:04:53,945 --> 00:04:56,150
+This program will help you learn
+
+122
+00:04:56,150 --> 00:04:59,335
+the core skills for data
+analytics in any setting,
+
+123
+00:04:59,335 --> 00:05:02,180
+it's up to you where
+you want to take them,
+
+124
+00:05:02,180 --> 00:05:05,599
+whether that means starting
+in a completely new industry,
+
+125
+00:05:05,599 --> 00:05:07,790
+or moving into an
+analyst position in
+
+126
+00:05:07,790 --> 00:05:10,730
+an industry you already
+have experience in.
+
+127
+00:05:10,730 --> 00:05:13,460
+Hopefully what we've
+covered here has helped
+
+128
+00:05:13,460 --> 00:05:16,495
+you get on track for
+your future job search.
+
+129
+00:05:16,495 --> 00:05:19,730
+After this, you have a
+few activities to do,
+
+130
+00:05:19,730 --> 00:05:21,110
+and then you'll be
+able to move on to
+
+131
+00:05:21,110 --> 00:05:22,780
+the next part of this course.
+
+132
+00:05:22,780 --> 00:05:24,785
+We learned a lot so far,
+
+133
+00:05:24,785 --> 00:05:27,080
+like what opportunities
+are out there
+
+134
+00:05:27,080 --> 00:05:29,465
+for data analysts in
+different industries.
+
+135
+00:05:29,465 --> 00:05:33,170
+How data analysts help businesses
+make better decisions.
+
+136
+00:05:33,170 --> 00:05:35,965
+The importance of fairness
+and data analytics,
+
+137
+00:05:35,965 --> 00:05:38,390
+and the potential
+questions you can start
+
+138
+00:05:38,390 --> 00:05:41,230
+asking yourself before
+your future job search,
+
+139
+00:05:41,230 --> 00:05:43,070
+and you can always look back at
+
+140
+00:05:43,070 --> 00:05:45,445
+these lessons if
+you want to review.
+
+141
+00:05:45,445 --> 00:05:47,045
+In an upcoming course,
+
+142
+00:05:47,045 --> 00:05:49,730
+we'll look at the skills all
+successful data analysts
+
+143
+00:05:49,730 --> 00:05:51,290
+have and you'll learn how
+
+144
+00:05:51,290 --> 00:05:53,180
+you can start
+practicing them too.
+
+145
+00:05:53,180 --> 00:05:56,060
+But before that, you'll
+have an assessment.
+
+146
+00:05:56,060 --> 00:05:59,220
+Good luck, and I'll
+see you later.

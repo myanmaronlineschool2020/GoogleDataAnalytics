@@ -1,0 +1,528 @@
+1
+00:00:00,350 --> 00:00:06,540
+"Data! Data! Data! I can't
+make bricks without clay."
+
+2
+00:00:06,540 --> 00:00:10,350
+Any guesses who said this?
+I'll give you a hint.
+
+3
+00:00:10,350 --> 00:00:12,975
+It wasn't a famous tech CEO,
+
+4
+00:00:12,975 --> 00:00:14,580
+or a data analyst.
+
+5
+00:00:14,580 --> 00:00:16,740
+The person who said this lived
+
+6
+00:00:16,740 --> 00:00:19,615
+long before the tech
+companies even existed.
+
+7
+00:00:19,615 --> 00:00:22,545
+But I bet you've
+still heard of him.
+
+8
+00:00:22,545 --> 00:00:25,215
+This line was said
+by Sherlock Holmes,
+
+9
+00:00:25,215 --> 00:00:29,250
+the famous detective created
+by Sir Arthur Conan Doyle.
+
+10
+00:00:29,250 --> 00:00:31,470
+What Doyle meant was that
+
+11
+00:00:31,470 --> 00:00:34,070
+Holmes couldn't draw
+any conclusions,
+
+12
+00:00:34,070 --> 00:00:36,440
+which would be the
+bricks he mentioned
+
+13
+00:00:36,440 --> 00:00:39,350
+without data, or the clay.
+
+14
+00:00:39,350 --> 00:00:40,940
+You're probably
+not here to become
+
+15
+00:00:40,940 --> 00:00:42,500
+a world famous detective,
+
+16
+00:00:42,500 --> 00:00:45,440
+but data is still the building
+block that you'll use
+
+17
+00:00:45,440 --> 00:00:48,875
+for everything you do in your
+new data analyst career,
+
+18
+00:00:48,875 --> 00:00:50,890
+Sherlock Holmes would agree.
+
+19
+00:00:50,890 --> 00:00:52,760
+By starting this program,
+
+20
+00:00:52,760 --> 00:00:54,620
+you've shown that you and
+
+21
+00:00:54,620 --> 00:00:56,945
+Sherlock Holmes have
+something in common,
+
+22
+00:00:56,945 --> 00:00:59,530
+you both have an interest
+in learning more.
+
+23
+00:00:59,530 --> 00:01:01,640
+That's one of the most
+important qualities
+
+24
+00:01:01,640 --> 00:01:03,215
+that data analysts can have.
+
+25
+00:01:03,215 --> 00:01:06,800
+Now, there are a bunch of
+different ways to explore data,
+
+26
+00:01:06,800 --> 00:01:09,980
+but one of the great things
+about data analytics is that
+
+27
+00:01:09,980 --> 00:01:13,550
+you can often learn how
+you want, when you want.
+
+28
+00:01:13,550 --> 00:01:16,370
+That might mean doing
+your own research,
+
+29
+00:01:16,370 --> 00:01:18,305
+talking with people
+in the industry,
+
+30
+00:01:18,305 --> 00:01:20,900
+or taking online courses.
+
+31
+00:01:20,900 --> 00:01:24,805
+With that said, welcome
+to your first course.
+
+32
+00:01:24,805 --> 00:01:26,630
+This is your introduction to
+
+33
+00:01:26,630 --> 00:01:29,255
+the wonderful world
+of data analytics.
+
+34
+00:01:29,255 --> 00:01:32,300
+Since data analytics is
+the science of data,
+
+35
+00:01:32,300 --> 00:01:36,790
+you'll use this course to
+begin to learn all about data.
+
+36
+00:01:36,790 --> 00:01:39,335
+Data is basically a
+collection of facts
+
+37
+00:01:39,335 --> 00:01:41,840
+or information, and
+through analysis,
+
+38
+00:01:41,840 --> 00:01:45,080
+you'll learn how to use the
+data to draw conclusions,
+
+39
+00:01:45,080 --> 00:01:47,875
+and make predictions,
+and decisions.
+
+40
+00:01:47,875 --> 00:01:50,030
+Personally, I didn't jump
+
+41
+00:01:50,030 --> 00:01:52,255
+right into the data
+analytics field.
+
+42
+00:01:52,255 --> 00:01:55,985
+I thought data analysis was
+for computer engineers.
+
+43
+00:01:55,985 --> 00:02:00,064
+Instead, I started off with
+dreams of working in finance.
+
+44
+00:02:00,064 --> 00:02:02,225
+Once I got through an
+internship though,
+
+45
+00:02:02,225 --> 00:02:05,965
+I realized it wasn't the
+career path I wanted to take.
+
+46
+00:02:05,965 --> 00:02:09,380
+I started to learn about
+financial planning and analysis,
+
+47
+00:02:09,380 --> 00:02:10,475
+and all of the work
+
+48
+00:02:10,475 --> 00:02:12,830
+finance analysts were
+doing with data.
+
+49
+00:02:12,830 --> 00:02:15,920
+I realized that finance
+analysts are really
+
+50
+00:02:15,920 --> 00:02:19,045
+just data analysts working
+in a finance department.
+
+51
+00:02:19,045 --> 00:02:21,440
+These analysts were
+helping to guide
+
+52
+00:02:21,440 --> 00:02:25,045
+business decisions by
+knowing how to use data.
+
+53
+00:02:25,045 --> 00:02:28,445
+It was then I realized
+how powerful data is,
+
+54
+00:02:28,445 --> 00:02:30,325
+and I started to embrace it.
+
+55
+00:02:30,325 --> 00:02:32,900
+Soon enough, I realized I could
+
+56
+00:02:32,900 --> 00:02:35,870
+do this data analysis myself.
+
+57
+00:02:35,870 --> 00:02:40,100
+Data analytics is a big
+open world of opportunity.
+
+58
+00:02:40,100 --> 00:02:43,580
+There are so many areas that
+your analysis skills can be
+
+59
+00:02:43,580 --> 00:02:47,335
+applied and in all
+different ways.
+
+60
+00:02:47,335 --> 00:02:49,460
+If you're new to this world,
+
+61
+00:02:49,460 --> 00:02:51,770
+you'll learn how to
+identify which path and
+
+62
+00:02:51,770 --> 00:02:54,140
+industry might suit your skills,
+
+63
+00:02:54,140 --> 00:02:56,350
+and your interests the best.
+
+64
+00:02:56,350 --> 00:02:59,779
+For those of you who already
+have some experience,
+
+65
+00:02:59,779 --> 00:03:01,655
+we'll help you open doors
+
+66
+00:03:01,655 --> 00:03:03,970
+to new and exciting
+opportunities.
+
+67
+00:03:03,970 --> 00:03:05,780
+One of the skills
+you'll gain from
+
+68
+00:03:05,780 --> 00:03:07,820
+the program is how to follow
+
+69
+00:03:07,820 --> 00:03:09,530
+the best practices that analysts
+
+70
+00:03:09,530 --> 00:03:12,400
+use to help make
+data-driven decisions.
+
+71
+00:03:12,400 --> 00:03:14,870
+Computers are one
+part of the process,
+
+72
+00:03:14,870 --> 00:03:18,380
+but analysts rely on so much
+more to make decisions.
+
+73
+00:03:18,380 --> 00:03:20,540
+That's why learning how
+to think analytically,
+
+74
+00:03:20,540 --> 00:03:22,760
+and using your other
+skills and traits
+
+75
+00:03:22,760 --> 00:03:25,570
+on the job will make
+your work easier.
+
+76
+00:03:25,570 --> 00:03:28,700
+I know you already know how
+to make good decisions,
+
+77
+00:03:28,700 --> 00:03:30,700
+you chose to be here after all.
+
+78
+00:03:30,700 --> 00:03:32,420
+In this first course,
+
+79
+00:03:32,420 --> 00:03:34,340
+you'll learn more
+about each phase
+
+80
+00:03:34,340 --> 00:03:36,455
+of the data analysis process.
+
+81
+00:03:36,455 --> 00:03:41,710
+Ask, prepare, process,
+analyze, share, and act.
+
+82
+00:03:41,710 --> 00:03:43,215
+As a data analyst,
+
+83
+00:03:43,215 --> 00:03:45,050
+you'll go through
+these steps as you
+
+84
+00:03:45,050 --> 00:03:47,300
+use data to inform
+your decisions.
+
+85
+00:03:47,300 --> 00:03:49,220
+Eventually, you'll see how
+
+86
+00:03:49,220 --> 00:03:51,770
+this program itself is in a way,
+
+87
+00:03:51,770 --> 00:03:53,785
+its own version of this process.
+
+88
+00:03:53,785 --> 00:03:56,400
+While I know you'll enjoy
+watching these videos,
+
+89
+00:03:56,400 --> 00:03:57,860
+your trip to the first course
+
+90
+00:03:57,860 --> 00:03:59,645
+will include a whole lot more.
+
+91
+00:03:59,645 --> 00:04:02,315
+Other videos will take
+the form of vignettes,
+
+92
+00:04:02,315 --> 00:04:05,165
+where you'll learn from data
+analytics professionals,
+
+93
+00:04:05,165 --> 00:04:07,960
+who are already established
+in their careers.
+
+94
+00:04:07,960 --> 00:04:10,970
+They'll offer words of
+wisdom as well as tales of
+
+95
+00:04:10,970 --> 00:04:14,810
+their own experiences starting
+off on their career path.
+
+96
+00:04:14,810 --> 00:04:17,300
+You'll start your own data
+journal that will help
+
+97
+00:04:17,300 --> 00:04:18,410
+you keep track of what you've
+
+98
+00:04:18,410 --> 00:04:19,925
+learned throughout the course.
+
+99
+00:04:19,925 --> 00:04:22,400
+You'll also add your own
+thoughts about what you're
+
+100
+00:04:22,400 --> 00:04:24,710
+learning as well,
+throughout the program.
+
+101
+00:04:24,710 --> 00:04:26,270
+You'll read up on how to navigate
+
+102
+00:04:26,270 --> 00:04:29,150
+this program in the
+world of data analytics.
+
+103
+00:04:29,150 --> 00:04:31,640
+You'll complete
+activities, including some
+
+104
+00:04:31,640 --> 00:04:34,475
+that will help you get in the
+mindset of a data analyst.
+
+105
+00:04:34,475 --> 00:04:36,770
+Along the way, you'll also have
+
+106
+00:04:36,770 --> 00:04:39,020
+the chance to connect with
+your fellow learners.
+
+107
+00:04:39,020 --> 00:04:40,430
+Discussion prompts will give you
+
+108
+00:04:40,430 --> 00:04:41,870
+a chance to share your thoughts,
+
+109
+00:04:41,870 --> 00:04:43,820
+and at the same time see
+
+110
+00:04:43,820 --> 00:04:46,435
+what your peers think about
+all that you're learning.
+
+111
+00:04:46,435 --> 00:04:48,650
+These prompts will help you build
+
+112
+00:04:48,650 --> 00:04:52,785
+a community support system to
+use throughout the program.
+
+113
+00:04:52,785 --> 00:04:57,415
+Enough talking, let's get
+started on this exciting path.
+
+114
+00:04:57,415 --> 00:05:00,110
+Your next step awaits.

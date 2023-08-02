@@ -1,0 +1,350 @@
+1
+00:00:01,090 --> 00:00:04,890
+Hello again. You've already learned
+about being a data analyst
+
+2
+00:00:04,890 --> 00:00:09,110
+and how this program will help
+prepare you for your future career.
+
+3
+00:00:09,110 --> 00:00:12,000
+Now, it's time to explore
+the data ecosystem,
+
+4
+00:00:12,000 --> 00:00:16,290
+find out where data analytics fits into
+that system, and go over some common
+
+5
+00:00:16,290 --> 00:00:21,180
+misconceptions you might run into
+in the field of data analytics.
+
+6
+00:00:21,180 --> 00:00:25,800
+To put it simply, an ecosystem is a group
+of elements that interact with one
+
+7
+00:00:25,800 --> 00:00:31,440
+another. Ecosystems can be large,
+like the jungle in a tropical rainforest
+
+8
+00:00:31,440 --> 00:00:33,710
+or the Australian outback.
+
+9
+00:00:33,710 --> 00:00:38,780
+Or, tiny, like tadpoles in a puddle,
+or bacteria on your skin.
+
+10
+00:00:38,780 --> 00:00:43,520
+And just like the kangaroos and
+koala bears in the Australian outback,
+
+11
+00:00:43,520 --> 00:00:46,286
+data lives inside its own ecosystem too.
+
+12
+00:00:46,286 --> 00:00:51,878
+Data ecosystems are made up of various
+elements that interact with one another
+
+13
+00:00:51,878 --> 00:00:57,480
+in order to produce, manage, store,
+organize, analyze, and share data.
+
+14
+00:00:57,480 --> 00:01:00,840
+These elements include hardware and
+software tools, and
+
+15
+00:01:00,840 --> 00:01:02,350
+the people who use them.
+
+16
+00:01:02,350 --> 00:01:03,700
+People like you.
+
+17
+00:01:03,700 --> 00:01:06,720
+Data can also be found in
+something called the cloud.
+
+18
+00:01:06,720 --> 00:01:11,780
+The cloud is a place to keep data online,
+rather than on a computer hard drive.
+
+19
+00:01:11,780 --> 00:01:15,852
+So instead of storing data somewhere
+inside your organization's network,
+
+20
+00:01:15,852 --> 00:01:18,052
+that data is accessed over the internet.
+
+21
+00:01:18,052 --> 00:01:22,220
+So the cloud is just a term we use
+to describe the virtual location.
+
+22
+00:01:22,220 --> 00:01:26,590
+The cloud plays a big part in the data
+ecosystem, and as a data analyst, it's
+
+23
+00:01:26,590 --> 00:01:31,400
+your job to harness the power of that data
+ecosystem, find the right information,
+
+24
+00:01:31,400 --> 00:01:35,300
+and provide the team with analysis
+that helps them make smart decisions.
+
+25
+00:01:35,300 --> 00:01:38,860
+For example, you could tap into
+your retail store's database,
+
+26
+00:01:38,860 --> 00:01:43,070
+which is an ecosystem filled
+with customer names, addresses,
+
+27
+00:01:43,070 --> 00:01:45,770
+previous purchases, and customer reviews.
+
+28
+00:01:45,770 --> 00:01:49,620
+As a data analyst, you could use this
+information to predict what these
+
+29
+00:01:49,620 --> 00:01:51,540
+customers will buy in the future,
+
+30
+00:01:51,540 --> 00:01:55,950
+and make sure the store has the products
+and stock when they're needed.
+
+31
+00:01:55,950 --> 00:01:57,490
+As another example,
+
+32
+00:01:57,490 --> 00:02:02,070
+let's think about a data ecosystem
+used by a human resources department.
+
+33
+00:02:02,070 --> 00:02:06,540
+This ecosystem would include information
+like postings from job websites,
+
+34
+00:02:06,540 --> 00:02:09,180
+stats on the current labor market,
+
+35
+00:02:09,180 --> 00:02:13,720
+employment rates, and social media
+data on prospective employees.
+
+36
+00:02:13,720 --> 00:02:18,140
+A data analyst could use this information
+to help their team recruit new workers
+
+37
+00:02:18,140 --> 00:02:21,800
+and improve employee engagement and
+retention rates.
+
+38
+00:02:21,800 --> 00:02:27,620
+But data ecosystems aren't just for stores
+and offices. They work on farms, too.
+
+39
+00:02:27,620 --> 00:02:31,310
+Agricultural companies regularly
+use data ecosystems that
+
+40
+00:02:31,310 --> 00:02:35,890
+include information including geological
+patterns in weather movements.
+
+41
+00:02:35,890 --> 00:02:41,280
+Data analysts can use this data to
+help farmers predict crop yields.
+
+42
+00:02:41,280 --> 00:02:45,550
+Some data analysts are even using
+data ecosystems to save real
+
+43
+00:02:45,550 --> 00:02:48,090
+environmental ecosystems.
+
+44
+00:02:48,090 --> 00:02:52,760
+At the Scripps Institution of
+Oceanography, coral reefs all over
+
+45
+00:02:52,760 --> 00:02:58,530
+the world are monitored digitally, so they
+can see how organisms change over time,
+
+46
+00:02:58,530 --> 00:03:01,570
+track their growth, and
+measure any increases or
+
+47
+00:03:01,570 --> 00:03:03,820
+declines in individual colonies.
+
+48
+00:03:03,820 --> 00:03:06,195
+The possibilities are endless.
+
+49
+00:03:06,195 --> 00:03:11,235
+Okay, now let's talk about some common
+misconceptions you might come across.
+
+50
+00:03:11,235 --> 00:03:15,960
+First is the difference between
+data scientists and data analysts.
+
+51
+00:03:15,960 --> 00:03:20,700
+It's easy to confuse the two, but
+what they do is actually very different.
+
+52
+00:03:20,700 --> 00:03:24,280
+Data science is defined as
+creating new ways of modeling and
+
+53
+00:03:24,280 --> 00:03:27,670
+understanding the unknown
+by using raw data.
+
+54
+00:03:27,670 --> 00:03:30,050
+Here's a good way to think about it.
+
+55
+00:03:30,050 --> 00:03:33,940
+Data scientists create new questions
+using data, while analysts find
+
+56
+00:03:33,940 --> 00:03:38,530
+answers to existing questions by
+creating insights from data sources.
+
+57
+00:03:38,530 --> 00:03:40,090
+There are also many words and
+
+58
+00:03:40,090 --> 00:03:44,060
+phrases you'll hear throughout this course,
+that are easy to get mixed up.
+
+59
+00:03:44,060 --> 00:03:48,890
+For example, data analysis and
+data analytics sound the same,
+
+60
+00:03:48,890 --> 00:03:53,056
+but they're actually very different
+things. Let's start with analysis.
+
+61
+00:03:53,056 --> 00:03:57,889
+You've already learned that data analysis
+is the collection, transformation,
+
+62
+00:03:57,889 --> 00:04:01,134
+and organization of data in
+order to draw conclusions,
+
+63
+00:04:01,134 --> 00:04:04,536
+make predictions, and
+drive informed decision-making.
+
+64
+00:04:04,536 --> 00:04:09,140
+Data analytics in the simplest
+terms is the science of data.
+
+65
+00:04:09,140 --> 00:04:13,580
+It's a very broad concept that encompasses
+everything from the job of managing and
+
+66
+00:04:13,580 --> 00:04:18,510
+using data to the tools and methods that
+data workers use each and every day.
+
+67
+00:04:18,510 --> 00:04:22,070
+So when you think about data,
+data analysis and
+
+68
+00:04:22,070 --> 00:04:26,540
+the data ecosystem, it's important
+to understand that all of these
+
+69
+00:04:26,540 --> 00:04:30,150
+things fit under the data
+analytics umbrella.
+
+70
+00:04:30,150 --> 00:04:34,300
+All right, now that you know a little
+more about the data ecosystem and
+
+71
+00:04:34,300 --> 00:04:37,760
+the differences between data analysis and
+data analytics,
+
+72
+00:04:37,760 --> 00:04:42,310
+you're ready to explore how data is
+used to make effective decisions.
+
+73
+00:04:42,310 --> 00:04:45,480
+You'll get to see data-driven
+decision-making, in action.

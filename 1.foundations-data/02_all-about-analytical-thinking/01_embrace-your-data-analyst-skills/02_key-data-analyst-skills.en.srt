@@ -1,0 +1,652 @@
+1
+00:00:00,410 --> 00:00:03,405
+Earlier, I told you that
+
+2
+00:00:03,405 --> 00:00:06,135
+you already have
+analytical skills.
+
+3
+00:00:06,135 --> 00:00:07,980
+You just might not know it yet.
+
+4
+00:00:07,980 --> 00:00:10,635
+When learning new
+things, sometimes
+
+5
+00:00:10,635 --> 00:00:12,690
+people overlook their own skills,
+
+6
+00:00:12,690 --> 00:00:14,070
+but it's important you take
+
+7
+00:00:14,070 --> 00:00:16,125
+the time to acknowledge them,
+
+8
+00:00:16,125 --> 00:00:18,765
+especially since these skills
+are going to help you
+
+9
+00:00:18,765 --> 00:00:20,160
+as a data analyst.
+
+10
+00:00:20,160 --> 00:00:23,415
+In fact, you're probably more
+prepared than you think.
+
+11
+00:00:23,415 --> 00:00:24,840
+Don't believe me?
+
+12
+00:00:24,840 --> 00:00:26,565
+Well, let me prove it.
+
+13
+00:00:26,565 --> 00:00:28,380
+Let's start by defining
+
+14
+00:00:28,380 --> 00:00:29,835
+what I'm talking about here.
+
+15
+00:00:29,835 --> 00:00:33,585
+Analytical skills are
+qualities and characteristics
+
+16
+00:00:33,585 --> 00:00:36,540
+associated with solving
+problems using facts.
+
+17
+00:00:36,540 --> 00:00:39,030
+There are a lot of aspects
+to analytical skills,
+
+18
+00:00:39,030 --> 00:00:42,440
+but, we'll focus on
+five essential points.
+
+19
+00:00:42,440 --> 00:00:45,895
+They are curiosity,
+understanding context,
+
+20
+00:00:45,895 --> 00:00:50,660
+having technical mindset, data
+design, and data strategy.
+
+21
+00:00:50,660 --> 00:00:53,135
+Now, you may be thinking,
+
+22
+00:00:53,135 --> 00:00:55,160
+"I don't have these
+kinds of skills,"
+
+23
+00:00:55,160 --> 00:00:58,180
+or "I only have a couple of them."
+
+24
+00:00:58,180 --> 00:01:01,680
+But stay with me, and I bet
+you'll change your mind.
+
+25
+00:01:01,680 --> 00:01:03,660
+Let's start with curiosity.
+
+26
+00:01:03,660 --> 00:01:06,915
+Curiosity is all about
+wanting to learn something.
+
+27
+00:01:06,915 --> 00:01:08,990
+Curious people usually seek out
+
+28
+00:01:08,990 --> 00:01:11,120
+new challenges and experiences.
+
+29
+00:01:11,120 --> 00:01:12,620
+This leads to knowledge.
+
+30
+00:01:12,620 --> 00:01:15,920
+The very fact that you're
+here with me right now
+
+31
+00:01:15,920 --> 00:01:19,590
+demonstrates that
+you have curiosity.
+
+32
+00:01:19,700 --> 00:01:22,275
+That was an easy one.
+
+33
+00:01:22,275 --> 00:01:25,600
+Now think about
+understanding context.
+
+34
+00:01:25,600 --> 00:01:27,830
+Context is the condition in
+
+35
+00:01:27,830 --> 00:01:29,795
+which something
+exists or happens.
+
+36
+00:01:29,795 --> 00:01:31,760
+This can be a structure
+or an environment.
+
+37
+00:01:31,760 --> 00:01:34,339
+A simple way of
+understanding context
+
+38
+00:01:34,339 --> 00:01:36,035
+is by counting to 5.
+
+39
+00:01:36,035 --> 00:01:41,770
+One, two, three, four, five.
+
+40
+00:01:41,770 --> 00:01:43,730
+All of those numbers exist in
+
+41
+00:01:43,730 --> 00:01:46,240
+the context of one through five.
+
+42
+00:01:46,240 --> 00:01:48,010
+But what if a friend of yours
+
+43
+00:01:48,010 --> 00:01:49,360
+said to you, one,
+
+44
+00:01:49,360 --> 00:01:51,475
+two, four, five, three?
+
+45
+00:01:51,475 --> 00:01:54,095
+Well, the three will
+be out of context.
+
+46
+00:01:54,095 --> 00:01:57,695
+Simple, right? But it can
+be a little tricky.
+
+47
+00:01:57,695 --> 00:02:00,260
+There's a good chance that
+you might not even notice
+
+48
+00:02:00,260 --> 00:02:02,660
+the three being out of context
+
+49
+00:02:02,660 --> 00:02:05,075
+if you aren't paying
+close attention.
+
+50
+00:02:05,075 --> 00:02:07,280
+That's why listening and trying
+
+51
+00:02:07,280 --> 00:02:09,755
+to understand the full
+picture is critical.
+
+52
+00:02:09,755 --> 00:02:11,780
+In your own life, you put
+
+53
+00:02:11,780 --> 00:02:13,955
+things into context all the time.
+
+54
+00:02:13,955 --> 00:02:17,145
+For example, let's think
+about your grocery list.
+
+55
+00:02:17,145 --> 00:02:20,420
+If you group together
+items like flour, sugar,
+
+56
+00:02:20,420 --> 00:02:24,715
+and yeast, that's you adding
+context to your groceries.
+
+57
+00:02:24,715 --> 00:02:26,415
+This saves you time
+
+58
+00:02:26,415 --> 00:02:28,895
+when you're at the baking
+aisle at the grocery store.
+
+59
+00:02:28,895 --> 00:02:30,710
+Let's look at another example.
+
+60
+00:02:30,710 --> 00:02:32,230
+Have you ever shuffled a deck of
+
+61
+00:02:32,230 --> 00:02:33,920
+cards and noticed the joker?
+
+62
+00:02:33,920 --> 00:02:36,845
+If you're playing a game
+that doesn't include jokers,
+
+63
+00:02:36,845 --> 00:02:38,720
+identifying that card means
+
+64
+00:02:38,720 --> 00:02:40,895
+you understand it's
+out of context.
+
+65
+00:02:40,895 --> 00:02:42,740
+Remove it, and you're much
+
+66
+00:02:42,740 --> 00:02:45,360
+more likely to play
+a successful game.
+
+67
+00:02:45,360 --> 00:02:48,570
+Now we know you have
+both curiosity
+
+68
+00:02:48,570 --> 00:02:50,975
+and the ability to
+understand context.
+
+69
+00:02:50,975 --> 00:02:54,925
+Let's move on to the third
+skill, a technical mindset.
+
+70
+00:02:54,925 --> 00:02:58,100
+A technical mindset
+involves the ability to
+
+71
+00:02:58,100 --> 00:03:01,280
+break things down into
+smaller steps or pieces
+
+72
+00:03:01,280 --> 00:03:04,310
+and work with them in an
+orderly and logical way.
+
+73
+00:03:04,310 --> 00:03:07,085
+For instance, when
+paying your bills,
+
+74
+00:03:07,085 --> 00:03:09,050
+you probably already break down
+
+75
+00:03:09,050 --> 00:03:11,075
+the process into smaller steps.
+
+76
+00:03:11,075 --> 00:03:13,070
+Maybe you start by sorting them
+
+77
+00:03:13,070 --> 00:03:14,465
+by the date they're due.
+
+78
+00:03:14,465 --> 00:03:16,940
+Next, you might add them up and
+
+79
+00:03:16,940 --> 00:03:20,155
+compare that amount to the
+balance in your bank account.
+
+80
+00:03:20,155 --> 00:03:23,930
+This would help you see if
+you can pay your bills now,
+
+81
+00:03:23,930 --> 00:03:26,405
+or if you should wait
+until the next paycheck.
+
+82
+00:03:26,405 --> 00:03:29,335
+Finally, you'd pay them.
+
+83
+00:03:29,335 --> 00:03:32,375
+When you take something that
+seems like a single task,
+
+84
+00:03:32,375 --> 00:03:33,650
+like paying your bills,
+
+85
+00:03:33,650 --> 00:03:35,600
+and break it into smaller steps
+
+86
+00:03:35,600 --> 00:03:37,310
+with an orderly process,
+
+87
+00:03:37,310 --> 00:03:39,875
+that's using a technical mindset.
+
+88
+00:03:39,875 --> 00:03:42,005
+Now let's explore the fourth part
+
+89
+00:03:42,005 --> 00:03:43,790
+of an analytical skill set,
+
+90
+00:03:43,790 --> 00:03:48,320
+data design. Data design is
+how you organize information.
+
+91
+00:03:48,320 --> 00:03:50,615
+As a data analyst, design
+
+92
+00:03:50,615 --> 00:03:53,515
+typically has to do
+with an actual database.
+
+93
+00:03:53,515 --> 00:03:55,210
+But, again,
+
+94
+00:03:55,210 --> 00:03:58,895
+the same skills can easily
+be applied to everyday life.
+
+95
+00:03:58,895 --> 00:04:01,160
+For example, think about
+
+96
+00:04:01,160 --> 00:04:03,635
+the way you organize the
+contacts in your phone.
+
+97
+00:04:03,635 --> 00:04:06,190
+That's actually a
+type of data design.
+
+98
+00:04:06,190 --> 00:04:10,040
+Maybe you list them by
+first name instead of last,
+
+99
+00:04:10,040 --> 00:04:12,985
+or maybe you use email addresses
+instead of their names.
+
+100
+00:04:12,985 --> 00:04:15,700
+What you're really doing
+is designing a clear,
+
+101
+00:04:15,700 --> 00:04:17,900
+logical list that
+lets you call or
+
+102
+00:04:17,900 --> 00:04:20,840
+text a contact in a
+quick and simple way.
+
+103
+00:04:20,840 --> 00:04:23,750
+The last, but
+definitely not least,
+
+104
+00:04:23,750 --> 00:04:25,430
+the fifth and final element of
+
+105
+00:04:25,430 --> 00:04:27,815
+analytical skills
+is data strategy.
+
+106
+00:04:27,815 --> 00:04:30,605
+Data strategy is the
+management of the people,
+
+107
+00:04:30,605 --> 00:04:34,165
+processes, and tools
+used in data analysis.
+
+108
+00:04:34,165 --> 00:04:35,905
+Let's break that down.
+
+109
+00:04:35,905 --> 00:04:37,790
+You manage people
+by making sure they
+
+110
+00:04:37,790 --> 00:04:39,700
+know how to use the right data
+
+111
+00:04:39,700 --> 00:04:42,535
+to find solutions to the
+problem you're working on.
+
+112
+00:04:42,535 --> 00:04:45,155
+For processes, it's
+about making sure
+
+113
+00:04:45,155 --> 00:04:48,145
+the path to that solution
+is clear and accessible.
+
+114
+00:04:48,145 --> 00:04:50,630
+For tools, you make sure
+
+115
+00:04:50,630 --> 00:04:53,500
+the right technology is
+being used for the job.
+
+116
+00:04:53,500 --> 00:04:56,350
+Now, you may be
+doubting my ability
+
+117
+00:04:56,350 --> 00:04:57,530
+to give you an example from
+
+118
+00:04:57,530 --> 00:04:59,755
+real life that demonstrates
+data strategy.
+
+119
+00:04:59,755 --> 00:05:02,275
+But check this out.
+Imagine mowing a lawn.
+
+120
+00:05:02,275 --> 00:05:06,050
+Step 1 would be reading the
+owner's manual for the mower.
+
+121
+00:05:06,050 --> 00:05:09,155
+That's making sure the
+people involved, or you,
+
+122
+00:05:09,155 --> 00:05:12,545
+in this example, know how
+to use the data available.
+
+123
+00:05:12,545 --> 00:05:14,600
+The manual would
+instruct you to put on
+
+124
+00:05:14,600 --> 00:05:17,005
+protective eyewear
+and closed-toe shoes.
+
+125
+00:05:17,005 --> 00:05:19,360
+Then, it's on to step 2:
+
+126
+00:05:19,360 --> 00:05:23,740
+making the process, the
+path, clear and accessible.
+
+127
+00:05:23,740 --> 00:05:26,510
+This will involve you
+walking around the lawn,
+
+128
+00:05:26,510 --> 00:05:27,710
+picking up large sticks or
+
+129
+00:05:27,710 --> 00:05:29,465
+rocks that might get in your way.
+
+130
+00:05:29,465 --> 00:05:31,960
+Finally, for step 3,
+
+131
+00:05:31,960 --> 00:05:34,485
+you check the lawn
+mower, your tool,
+
+132
+00:05:34,485 --> 00:05:37,235
+to make sure it has
+enough gas and oil,
+
+133
+00:05:37,235 --> 00:05:39,080
+and is in working condition,
+
+134
+00:05:39,080 --> 00:05:40,925
+so the lawn can be mowed safely.
+
+135
+00:05:40,925 --> 00:05:43,580
+There you have it. Now you know
+
+136
+00:05:43,580 --> 00:05:46,625
+the five essential skills
+of a data analyst.
+
+137
+00:05:46,625 --> 00:05:50,165
+Curiosity, understanding context,
+
+138
+00:05:50,165 --> 00:05:52,415
+having a technical mindset,
+
+139
+00:05:52,415 --> 00:05:55,670
+data design, and data strategy.
+
+140
+00:05:55,670 --> 00:05:58,900
+I told you that you are
+already an analytical thinker.
+
+141
+00:05:58,900 --> 00:06:02,960
+Now, you can start actively
+practicing these skills
+
+142
+00:06:02,960 --> 00:06:05,120
+as you move through the
+rest of this course.
+
+143
+00:06:05,120 --> 00:06:07,010
+Curious about what's next?
+
+144
+00:06:07,010 --> 00:06:09,630
+Move on to the next video.

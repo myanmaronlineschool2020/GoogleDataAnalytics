@@ -1,0 +1,303 @@
+1
+00:00:03,740 --> 00:00:07,590
+Hi, I'm Alex. I'm a research
+scientist at Google.
+
+2
+00:00:07,590 --> 00:00:10,575
+My team is called
+the ethical AI team,
+
+3
+00:00:10,575 --> 00:00:13,170
+we're a group of folks that
+really are concerned not only
+
+4
+00:00:13,170 --> 00:00:15,870
+about how AI the
+technology operates,
+
+5
+00:00:15,870 --> 00:00:19,170
+but how it interacts
+with society and how it
+
+6
+00:00:19,170 --> 00:00:23,775
+might help or harm
+marginalized communities.
+
+7
+00:00:23,775 --> 00:00:25,350
+When we talk about data ethics,
+
+8
+00:00:25,350 --> 00:00:27,245
+we think about what is
+
+9
+00:00:27,245 --> 00:00:30,160
+the good and right
+way of using data?
+
+10
+00:00:30,160 --> 00:00:32,025
+What are going to be ways that
+
+11
+00:00:32,025 --> 00:00:34,880
+uses of data are going to
+be beneficial to people?
+
+12
+00:00:34,880 --> 00:00:36,170
+When it comes to data ethics,
+
+13
+00:00:36,170 --> 00:00:38,510
+it's not just about
+minimizing harm but it's
+
+14
+00:00:38,510 --> 00:00:41,375
+actually this concept
+of beneficence.
+
+15
+00:00:41,375 --> 00:00:43,070
+How do we actually
+improve the lives
+
+16
+00:00:43,070 --> 00:00:45,215
+of people by using data?
+
+17
+00:00:45,215 --> 00:00:48,710
+When we think about data
+ethics we're thinking about,
+
+18
+00:00:48,710 --> 00:00:50,300
+who's collecting the data?
+
+19
+00:00:50,300 --> 00:00:51,710
+Why are they collecting it?
+
+20
+00:00:51,710 --> 00:00:54,100
+How are they collecting
+it and for what purpose?
+
+21
+00:00:54,100 --> 00:00:55,610
+Because of the way that
+
+22
+00:00:55,610 --> 00:00:58,970
+organizations have
+imperatives to make
+
+23
+00:00:58,970 --> 00:01:04,105
+money or to report to somebody
+or provide some analysis,
+
+24
+00:01:04,105 --> 00:01:06,575
+we also have to keep
+strongly in mind
+
+25
+00:01:06,575 --> 00:01:07,820
+how this is actually going to
+
+26
+00:01:07,820 --> 00:01:09,910
+benefit people at
+the end of the day.
+
+27
+00:01:09,910 --> 00:01:11,750
+Are the people represented in
+
+28
+00:01:11,750 --> 00:01:14,150
+this data going to be
+benefited by this?
+
+29
+00:01:14,150 --> 00:01:17,150
+I think that's the
+thing you never want to
+
+30
+00:01:17,150 --> 00:01:20,210
+lose sight of as a data
+scientist or a data analyst.
+
+31
+00:01:20,210 --> 00:01:22,340
+I think aspiring data
+analysts need to keep in
+
+32
+00:01:22,340 --> 00:01:24,575
+mind that a lot of the data that
+
+33
+00:01:24,575 --> 00:01:27,730
+you're going to encounter is
+data that comes from people
+
+34
+00:01:27,730 --> 00:01:31,915
+so at the end of the
+day, data are people.
+
+35
+00:01:31,915 --> 00:01:35,345
+You want to have a responsibility
+
+36
+00:01:35,345 --> 00:01:40,055
+to those people that are
+represented in those data.
+
+37
+00:01:40,055 --> 00:01:43,100
+Second, is thinking
+about how to keep
+
+38
+00:01:43,100 --> 00:01:46,430
+aspects of their data
+protected and private.
+
+39
+00:01:46,430 --> 00:01:50,765
+We don't want to go through
+our practice thinking
+
+40
+00:01:50,765 --> 00:01:52,700
+about data instances as
+
+41
+00:01:52,700 --> 00:01:55,100
+something we can just
+throw on the web.
+
+42
+00:01:55,100 --> 00:01:57,290
+No, there needs to be
+considerations about
+
+43
+00:01:57,290 --> 00:01:59,430
+how to keep that information,
+
+44
+00:01:59,430 --> 00:02:01,830
+and likenesses like their images,
+
+45
+00:02:01,830 --> 00:02:04,590
+or their voices, or their text.
+
+46
+00:02:04,590 --> 00:02:06,365
+How do we keep that private?
+
+47
+00:02:06,365 --> 00:02:10,970
+We also need to think
+about how we can have
+
+48
+00:02:10,970 --> 00:02:13,760
+mechanisms of giving users
+
+49
+00:02:13,760 --> 00:02:17,065
+and giving consumers more
+control over their data.
+
+50
+00:02:17,065 --> 00:02:19,775
+It's not going to be
+sufficient just to say,
+
+51
+00:02:19,775 --> 00:02:22,100
+we collect all this data and
+
+52
+00:02:22,100 --> 00:02:25,135
+trust us with all these data.
+
+53
+00:02:25,135 --> 00:02:27,770
+But we need to
+ensure that there's
+
+54
+00:02:27,770 --> 00:02:29,570
+actionable ways in which
+
+55
+00:02:29,570 --> 00:02:31,970
+people can consent to
+giving those data,
+
+56
+00:02:31,970 --> 00:02:33,140
+and ways that they
+
+57
+00:02:33,140 --> 00:02:36,840
+can ask for it to be
+revoked or removed.
+
+58
+00:02:37,060 --> 00:02:40,070
+Data's growing and
+at the same time,
+
+59
+00:02:40,070 --> 00:02:41,480
+we need to empower people to have
+
+60
+00:02:41,480 --> 00:02:43,090
+control over their own data.
+
+61
+00:02:43,090 --> 00:02:46,730
+The future is that data
+is always growing,
+
+62
+00:02:46,730 --> 00:02:48,380
+we haven't seen any evidence
+
+63
+00:02:48,380 --> 00:02:50,680
+that data is actually shrinking.
+
+64
+00:02:50,680 --> 00:02:53,195
+With the knowledge
+that data's growing,
+
+65
+00:02:53,195 --> 00:02:56,090
+these issues become
+more and more piqued,
+
+66
+00:02:56,090 --> 00:02:59,700
+and more and more
+important to think about.

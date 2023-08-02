@@ -1,0 +1,251 @@
+1
+00:00:03,740 --> 00:00:06,810
+For any analyst, for any person
+
+2
+00:00:06,810 --> 00:00:09,370
+that's honestly at the early
+stages of their career,
+
+3
+00:00:09,370 --> 00:00:12,030
+understanding data,
+respecting data and knowing
+
+4
+00:00:12,030 --> 00:00:15,240
+how to work with data is
+incredibly important because,
+
+5
+00:00:15,240 --> 00:00:18,120
+my vision is that every role in
+
+6
+00:00:18,120 --> 00:00:21,675
+some form or fashion will
+involve data and its use
+
+7
+00:00:21,675 --> 00:00:24,630
+in learning how to extract
+insights from it will be at
+
+8
+00:00:24,630 --> 00:00:26,280
+the core of any critical role
+
+9
+00:00:26,280 --> 00:00:27,975
+across any company organization.
+
+10
+00:00:27,975 --> 00:00:29,700
+Generally in those
+first two years,
+
+11
+00:00:29,700 --> 00:00:31,520
+you are developing the core skill
+
+12
+00:00:31,520 --> 00:00:33,905
+sets that make you a
+fantastic generalist,
+
+13
+00:00:33,905 --> 00:00:36,770
+and then in the next 2-5 years,
+
+14
+00:00:36,770 --> 00:00:38,690
+you're learning about something
+
+15
+00:00:38,690 --> 00:00:41,315
+very specific as as it
+relates to your job.
+
+16
+00:00:41,315 --> 00:00:43,550
+Whether it's the area
+that you're supporting
+
+17
+00:00:43,550 --> 00:00:45,950
+or maybe a very
+technical component.
+
+18
+00:00:45,950 --> 00:00:47,240
+Like, let's say you want to
+
+19
+00:00:47,240 --> 00:00:48,950
+become a SQL expert
+so that you can
+
+20
+00:00:48,950 --> 00:00:50,180
+manipulate large data sets
+
+21
+00:00:50,180 --> 00:00:52,015
+for financial analysis purposes.
+
+22
+00:00:52,015 --> 00:00:54,050
+Similarly, even if you come into
+
+23
+00:00:54,050 --> 00:00:56,285
+finance as a data analyst,
+
+24
+00:00:56,285 --> 00:00:59,260
+you can pop out of
+finance and go into what
+
+25
+00:00:59,260 --> 00:01:01,055
+a lot of people like
+to call the business,
+
+26
+00:01:01,055 --> 00:01:03,710
+which is typically your
+Operations Functions and
+
+27
+00:01:03,710 --> 00:01:06,755
+become a business analyst
+or a data analysts.
+
+28
+00:01:06,755 --> 00:01:09,230
+There's so many different
+paths that you can take from
+
+29
+00:01:09,230 --> 00:01:10,625
+the starting point that
+
+30
+00:01:10,625 --> 00:01:12,705
+you really can't
+predict your end.
+
+31
+00:01:12,705 --> 00:01:16,660
+I'm just deeply passionate
+about working with and
+
+32
+00:01:16,660 --> 00:01:18,670
+supporting young
+people and really
+
+33
+00:01:18,670 --> 00:01:21,445
+giving them a jumpstart
+to their career.
+
+34
+00:01:21,445 --> 00:01:25,805
+This stems from honestly my
+own personal experience,
+
+35
+00:01:25,805 --> 00:01:28,225
+where in the first two
+years of my career,
+
+36
+00:01:28,225 --> 00:01:30,640
+I had essentially zero support
+
+37
+00:01:30,640 --> 00:01:33,440
+from my manager and my
+direct management chain.
+
+38
+00:01:33,440 --> 00:01:36,085
+Having gone through that
+experience my first few years,
+
+39
+00:01:36,085 --> 00:01:37,900
+I realize and I felt
+
+40
+00:01:37,900 --> 00:01:40,180
+experience how that
+can slow you down,
+
+41
+00:01:40,180 --> 00:01:42,550
+and especially when you are
+somebody that has a lot
+
+42
+00:01:42,550 --> 00:01:44,905
+of potential and
+a lot of ability,
+
+43
+00:01:44,905 --> 00:01:47,080
+you want to be in
+an environment that
+
+44
+00:01:47,080 --> 00:01:50,275
+fosters that ability and
+really wants to see you grow.
+
+45
+00:01:50,275 --> 00:01:52,660
+I think it's incredibly
+important to
+
+46
+00:01:52,660 --> 00:01:55,275
+have programs like these that
+
+47
+00:01:55,275 --> 00:01:57,170
+take away all the barriers
+
+48
+00:01:57,170 --> 00:02:00,500
+that remove any of the
+constructs that prevent
+
+49
+00:02:00,500 --> 00:02:03,170
+people from being able
+to find out what they
+
+50
+00:02:03,170 --> 00:02:07,190
+need to be in an
+industry like this,
+
+51
+00:02:07,190 --> 00:02:10,280
+to be successful in a
+role like a data analyst,
+
+52
+00:02:10,280 --> 00:02:11,990
+so that they themselves can
+
+53
+00:02:11,990 --> 00:02:14,165
+dream about where they
+can go in their career.
+
+54
+00:02:14,165 --> 00:02:18,870
+My name is Tony. I'm a Finance
+program manager at Google.
