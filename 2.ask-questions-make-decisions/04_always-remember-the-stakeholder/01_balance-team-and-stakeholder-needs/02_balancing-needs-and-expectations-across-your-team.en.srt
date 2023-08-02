@@ -1,0 +1,522 @@
+1
+00:00:00,260 --> 00:00:02,445
+As a data analyst,
+
+2
+00:00:02,445 --> 00:00:05,850
+you'll be required to focus
+on a lot of different things,
+
+3
+00:00:05,850 --> 00:00:08,040
+And your stakeholders'
+expectations are
+
+4
+00:00:08,040 --> 00:00:09,945
+one of the most important.
+
+5
+00:00:09,945 --> 00:00:11,610
+We're going to talk about why
+
+6
+00:00:11,610 --> 00:00:14,160
+stakeholder expectations
+are so important to
+
+7
+00:00:14,160 --> 00:00:15,450
+your work and look at
+
+8
+00:00:15,450 --> 00:00:18,585
+some examples of stakeholder
+needs on a project.
+
+9
+00:00:18,585 --> 00:00:22,110
+By now you've heard me use
+the term stakeholder a lot.
+
+10
+00:00:22,110 --> 00:00:25,540
+So let's refresh ourselves
+on what a stakeholder is.
+
+11
+00:00:25,540 --> 00:00:27,560
+Stakeholders are people that
+
+12
+00:00:27,560 --> 00:00:29,960
+have invested time, interest,
+
+13
+00:00:29,960 --> 00:00:32,180
+and resources into
+the projects that
+
+14
+00:00:32,180 --> 00:00:34,730
+you'll be working on
+as a data analyst.
+
+15
+00:00:34,730 --> 00:00:38,110
+In other words, they hold
+stakes in what you're doing.
+
+16
+00:00:38,110 --> 00:00:39,965
+There's a good
+chance they'll need
+
+17
+00:00:39,965 --> 00:00:43,130
+the work you do to
+perform their own needs.
+
+18
+00:00:43,130 --> 00:00:45,590
+That's why it's so
+important to make
+
+19
+00:00:45,590 --> 00:00:48,470
+sure your work lines
+up with their needs
+
+20
+00:00:48,470 --> 00:00:50,420
+and why you need to communicate
+
+21
+00:00:50,420 --> 00:00:52,010
+effectively with all of
+
+22
+00:00:52,010 --> 00:00:54,250
+the stakeholders
+across your team.
+
+23
+00:00:54,250 --> 00:00:55,940
+Your stakeholders will want to
+
+24
+00:00:55,940 --> 00:00:58,370
+discuss things like
+the project objective,
+
+25
+00:00:58,370 --> 00:01:00,410
+what you need to reach that goal,
+
+26
+00:01:00,410 --> 00:01:03,590
+and any challenges or
+concerns you have.
+
+27
+00:01:03,590 --> 00:01:05,320
+This is a good thing.
+
+28
+00:01:05,320 --> 00:01:07,250
+These conversations help build
+
+29
+00:01:07,250 --> 00:01:09,745
+trust and confidence
+in your work.
+
+30
+00:01:09,745 --> 00:01:11,120
+Here's an example of
+
+31
+00:01:11,120 --> 00:01:13,220
+a project with
+multiple team members.
+
+32
+00:01:13,220 --> 00:01:15,920
+Let's explore what
+they might need from
+
+33
+00:01:15,920 --> 00:01:19,480
+you at different levels to
+reach the project's goal.
+
+34
+00:01:19,480 --> 00:01:21,980
+Imagine you're a data
+analyst working with
+
+35
+00:01:21,980 --> 00:01:24,545
+a company's human
+resources department.
+
+36
+00:01:24,545 --> 00:01:26,240
+The company has experienced
+
+37
+00:01:26,240 --> 00:01:28,340
+an increase in its turnover rate,
+
+38
+00:01:28,340 --> 00:01:31,520
+which is the rate at which
+employees leave a company.
+
+39
+00:01:31,520 --> 00:01:34,940
+The company's HR department
+wants to know why that
+
+40
+00:01:34,940 --> 00:01:36,740
+is and they want you to help them
+
+41
+00:01:36,740 --> 00:01:38,905
+figure out potential solutions.
+
+42
+00:01:38,905 --> 00:01:42,005
+The Vice President of
+HR at this company is
+
+43
+00:01:42,005 --> 00:01:45,140
+interested in identifying
+any shared patterns
+
+44
+00:01:45,140 --> 00:01:48,140
+across employees who quit
+and seeing if there's
+
+45
+00:01:48,140 --> 00:01:51,755
+a connection to employee
+productivity and engagement.
+
+46
+00:01:51,755 --> 00:01:53,195
+As a data analyst,
+
+47
+00:01:53,195 --> 00:01:54,860
+it's your job to focus on
+
+48
+00:01:54,860 --> 00:01:56,750
+the HR department's question and
+
+49
+00:01:56,750 --> 00:01:58,855
+help find them an answer.
+
+50
+00:01:58,855 --> 00:02:01,790
+But the VP might be
+too busy to manage
+
+51
+00:02:01,790 --> 00:02:04,880
+day-to-day tasks or might
+not be your direct contact.
+
+52
+00:02:04,880 --> 00:02:06,950
+For this task, you'll be updating
+
+53
+00:02:06,950 --> 00:02:09,200
+the project manager
+more regularly.
+
+54
+00:02:09,200 --> 00:02:11,330
+Project managers are in charge of
+
+55
+00:02:11,330 --> 00:02:13,795
+planning and executing a project.
+
+56
+00:02:13,795 --> 00:02:17,720
+Part of the project manager's
+job is keeping the project
+
+57
+00:02:17,720 --> 00:02:21,905
+on track and overseeing the
+progress of the entire team.
+
+58
+00:02:21,905 --> 00:02:26,269
+In most cases, you'll need to
+give them regular updates,
+
+59
+00:02:26,269 --> 00:02:28,610
+let them know what you
+need to succeed and
+
+60
+00:02:28,610 --> 00:02:31,730
+tell them if you have any
+problems along the way.
+
+61
+00:02:31,730 --> 00:02:34,565
+You might also be working
+with other team members.
+
+62
+00:02:34,565 --> 00:02:37,220
+For example, HR administrators
+
+63
+00:02:37,220 --> 00:02:38,900
+will need to know
+the metrics you're
+
+64
+00:02:38,900 --> 00:02:40,940
+using so that they
+can design ways
+
+65
+00:02:40,940 --> 00:02:43,460
+to effectively gather
+employee data.
+
+66
+00:02:43,460 --> 00:02:44,960
+You might even be working with
+
+67
+00:02:44,960 --> 00:02:46,340
+other data analysts who are
+
+68
+00:02:46,340 --> 00:02:48,610
+covering different
+aspects of the data.
+
+69
+00:02:48,610 --> 00:02:50,810
+It's so important
+that you know who
+
+70
+00:02:50,810 --> 00:02:53,810
+the stakeholders and
+other team members are in
+
+71
+00:02:53,810 --> 00:02:54,980
+a project so that you can
+
+72
+00:02:54,980 --> 00:02:57,620
+communicate with
+them effectively and
+
+73
+00:02:57,620 --> 00:02:59,300
+give them what they need to move
+
+74
+00:02:59,300 --> 00:03:01,960
+forward in their own
+roles on the project.
+
+75
+00:03:01,960 --> 00:03:04,190
+You're all working
+together to give
+
+76
+00:03:04,190 --> 00:03:07,220
+the company vital insights
+into this problem.
+
+77
+00:03:07,220 --> 00:03:08,795
+Back to our example.
+
+78
+00:03:08,795 --> 00:03:11,045
+By analyzing company data,
+
+79
+00:03:11,045 --> 00:03:13,970
+you see a decrease in
+employee engagement and
+
+80
+00:03:13,970 --> 00:03:18,575
+performance after their first
+13 months at the company,
+
+81
+00:03:18,575 --> 00:03:20,450
+which could mean that employees
+
+82
+00:03:20,450 --> 00:03:22,340
+started feeling demotivated or
+
+83
+00:03:22,340 --> 00:03:24,350
+disconnected from their work
+
+84
+00:03:24,350 --> 00:03:27,310
+and then often quit
+a few months later.
+
+85
+00:03:27,310 --> 00:03:29,600
+Another analyst who focuses on
+
+86
+00:03:29,600 --> 00:03:31,610
+hiring data also shares that
+
+87
+00:03:31,610 --> 00:03:33,740
+the company had a large increase
+
+88
+00:03:33,740 --> 00:03:36,340
+in hiring around 18 months ago.
+
+89
+00:03:36,340 --> 00:03:38,359
+You communicate this information
+
+90
+00:03:38,359 --> 00:03:39,980
+with all your team members and
+
+91
+00:03:39,980 --> 00:03:42,200
+stakeholders and they provide
+
+92
+00:03:42,200 --> 00:03:45,590
+feedback on how to share this
+information with your VP.
+
+93
+00:03:45,590 --> 00:03:49,880
+In the end, your VP decides
+to implement an in-depth
+
+94
+00:03:49,880 --> 00:03:52,280
+manager check-in with
+employees who are
+
+95
+00:03:52,280 --> 00:03:54,995
+about to hit their 12
+month mark at the firm
+
+96
+00:03:54,995 --> 00:03:58,070
+to identify career growth
+opportunities, which
+
+97
+00:03:58,070 --> 00:03:59,780
+reduces the employee turnover
+
+98
+00:03:59,780 --> 00:04:01,915
+starting at the
+13 month mark.
+
+99
+00:04:01,915 --> 00:04:04,580
+This is just one example
+of how you might
+
+100
+00:04:04,580 --> 00:04:07,780
+balance needs and expectations
+across your team.
+
+101
+00:04:07,780 --> 00:04:10,460
+You'll find that in
+pretty much every project
+
+102
+00:04:10,460 --> 00:04:12,320
+you work on as a data analyst,
+
+103
+00:04:12,320 --> 00:04:14,180
+different people on your team,
+
+104
+00:04:14,180 --> 00:04:17,510
+from the VP of HR to your
+fellow data analysts,
+
+105
+00:04:17,510 --> 00:04:19,460
+will need all your focus and
+
+106
+00:04:19,460 --> 00:04:22,535
+communication to carry
+the project to success.
+
+107
+00:04:22,535 --> 00:04:25,295
+Focusing on stakeholder
+expectations
+
+108
+00:04:25,295 --> 00:04:28,295
+will help you understand
+the goal of a project,
+
+109
+00:04:28,295 --> 00:04:31,115
+communicate more effectively
+across your team,
+
+110
+00:04:31,115 --> 00:04:33,010
+and build trust in your work.
+
+111
+00:04:33,010 --> 00:04:34,880
+Coming up, we'll discuss how to
+
+112
+00:04:34,880 --> 00:04:37,085
+figure out where you
+fit on your team
+
+113
+00:04:37,085 --> 00:04:38,960
+and how you can
+help move a project
+
+114
+00:04:38,960 --> 00:04:42,420
+forward with focus
+and determination.

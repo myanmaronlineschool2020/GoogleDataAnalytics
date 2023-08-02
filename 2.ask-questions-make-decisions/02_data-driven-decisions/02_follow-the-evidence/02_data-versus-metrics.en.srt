@@ -1,0 +1,270 @@
+1
+00:00:01,450 --> 00:00:05,988
+In the last video, we learned how you can
+visualize your data using reports and
+
+2
+00:00:05,988 --> 00:00:10,110
+dashboards to show off your
+findings in interesting ways.
+
+3
+00:00:10,110 --> 00:00:11,503
+In one of our examples,
+
+4
+00:00:11,503 --> 00:00:15,890
+the company wanted to see the sales
+revenue of each salesperson.
+
+5
+00:00:15,890 --> 00:00:20,230
+That specific measurement of
+data is done using metrics.
+
+6
+00:00:20,230 --> 00:00:24,623
+Now, I want to tell you a little bit more
+about the difference between data and
+
+7
+00:00:24,623 --> 00:00:25,530
+metrics.
+
+8
+00:00:25,530 --> 00:00:29,480
+And how metrics can be used to
+turn data into useful information.
+
+9
+00:00:30,780 --> 00:00:37,700
+A metric is a single, quantifiable type
+of data that can be used for measurement.
+
+10
+00:00:37,700 --> 00:00:39,220
+Think of it this way.
+
+11
+00:00:39,220 --> 00:00:43,050
+Data starts as a collection of raw facts,
+until we organize
+
+12
+00:00:43,050 --> 00:00:47,430
+them into individual metrics that
+represent a single type of data.
+
+13
+00:00:48,440 --> 00:00:52,540
+Metrics can also be combined
+into formulas that you can plug
+
+14
+00:00:52,540 --> 00:00:54,435
+your numerical data into.
+
+15
+00:00:54,435 --> 00:00:59,192
+In our earlier sales revenue example
+all that data doesn't mean much
+
+16
+00:00:59,192 --> 00:01:03,650
+unless we use a specific
+metric to organize it.
+
+17
+00:01:03,650 --> 00:01:08,570
+So let's use revenue by individual
+salesperson as our metric.
+
+18
+00:01:08,570 --> 00:01:12,193
+Now we can see whose sales
+brought in the highest revenue.
+
+19
+00:01:12,193 --> 00:01:15,610
+Metrics usually involve simple math.
+
+20
+00:01:15,610 --> 00:01:22,090
+Revenue, for example, is the number of
+sales multiplied by the sales price.
+
+21
+00:01:22,090 --> 00:01:24,400
+Choosing the right metric is key.
+
+22
+00:01:25,610 --> 00:01:30,540
+Data contains a lot of raw details
+about the problem we're exploring.
+
+23
+00:01:30,540 --> 00:01:34,860
+But we need the right metrics
+to get the answers we're looking for.
+
+24
+00:01:34,860 --> 00:01:40,550
+Different industries will use all kinds of
+metrics to measure things in a data set.
+
+25
+00:01:40,550 --> 00:01:46,140
+Let's look at some more ways businesses
+in different industries use metrics.
+
+26
+00:01:46,140 --> 00:01:49,620
+So you can see how you might apply
+metrics to your collected data.
+
+27
+00:01:50,690 --> 00:01:52,010
+Ever heard of ROI?
+
+28
+00:01:53,170 --> 00:01:56,130
+Companies use this metric all the time.
+
+29
+00:01:56,130 --> 00:02:01,351
+ROI, or Return on Investment is
+essentially a formula designed using
+
+30
+00:02:01,351 --> 00:02:06,900
+metrics that let a business know
+how well an investment is doing.
+
+31
+00:02:06,900 --> 00:02:09,315
+The ROI is made up of two metrics,
+
+32
+00:02:09,315 --> 00:02:13,902
+the net profit over a period of time and
+the cost of investment.
+
+33
+00:02:13,902 --> 00:02:19,255
+By comparing these two metrics, profit and
+cost of investment, the company
+
+34
+00:02:19,255 --> 00:02:25,150
+can analyze the data they have to see
+how well their investment is doing.
+
+35
+00:02:25,150 --> 00:02:28,900
+This can then help them decide
+how to invest in the future and
+
+36
+00:02:28,900 --> 00:02:32,130
+which investments to prioritize.
+
+37
+00:02:32,130 --> 00:02:34,565
+We see metrics used in marketing too.
+
+38
+00:02:34,565 --> 00:02:39,620
+For example, metrics can be used to
+help calculate customer retention rates,
+
+39
+00:02:39,620 --> 00:02:44,140
+or a company's ability to
+keep its customers over time.
+
+40
+00:02:44,140 --> 00:02:48,862
+Customer retention rates can help the
+company compare the number of customers at
+
+41
+00:02:48,862 --> 00:02:53,510
+the beginning and the end of a period
+to see their retention rates.
+
+42
+00:02:53,510 --> 00:02:58,270
+This way the company knows how successful
+their marketing strategies are
+
+43
+00:02:58,270 --> 00:03:01,667
+and if they need to research new
+approaches to bring back more repeat
+
+44
+00:03:01,667 --> 00:03:02,330
+customers.
+
+45
+00:03:03,390 --> 00:03:07,065
+Different industries use all
+kinds of different metrics.
+
+46
+00:03:07,065 --> 00:03:09,693
+But there's one thing
+they all have in common:
+
+47
+00:03:09,693 --> 00:03:13,185
+they're all trying to meet
+a specific goal by measuring data.
+
+48
+00:03:14,385 --> 00:03:20,915
+This metric goal is a measurable goal set
+by a company and evaluated using metrics.
+
+49
+00:03:20,915 --> 00:03:23,369
+And just like there are a lot
+of possible metrics,
+
+50
+00:03:23,369 --> 00:03:25,245
+there are lots of possible goals too.
+
+51
+00:03:26,290 --> 00:03:30,250
+Maybe an organization wants to meet
+a certain number of monthly sales,
+
+52
+00:03:30,250 --> 00:03:33,160
+or maybe a certain percentage
+of repeat customers.
+
+53
+00:03:34,220 --> 00:03:38,276
+By using metrics to focus on
+individual aspects of your data,
+
+54
+00:03:38,276 --> 00:03:42,440
+you can start to see the story
+your data is telling.
+
+55
+00:03:42,440 --> 00:03:47,090
+Metric goals and formulas are great
+ways to measure and understand data.
+
+56
+00:03:47,090 --> 00:03:49,060
+But they're not the only ways.
+
+57
+00:03:49,060 --> 00:03:52,920
+We'll talk more about how to interpret and
+understand data throughout this course.

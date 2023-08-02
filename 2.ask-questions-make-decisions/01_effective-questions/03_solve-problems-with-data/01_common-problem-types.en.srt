@@ -1,0 +1,602 @@
+1
+00:00:00,320 --> 00:00:02,445
+In a previous video,
+
+2
+00:00:02,445 --> 00:00:04,680
+I shared how data
+analysis helped a company
+
+3
+00:00:04,680 --> 00:00:07,575
+figure out where to
+advertise its services.
+
+4
+00:00:07,575 --> 00:00:09,540
+An important part
+of this process
+
+5
+00:00:09,540 --> 00:00:11,870
+was strong
+problem-solving skills.
+
+6
+00:00:11,870 --> 00:00:13,455
+As a data analyst,
+
+7
+00:00:13,455 --> 00:00:15,570
+you'll find that problems
+are at the center
+
+8
+00:00:15,570 --> 00:00:17,790
+of what you do every single day,
+
+9
+00:00:17,790 --> 00:00:19,275
+but that's a good thing.
+
+10
+00:00:19,275 --> 00:00:22,470
+Think of problems as opportunities
+to put your skills to
+
+11
+00:00:22,470 --> 00:00:26,160
+work and find creative
+and insightful solutions.
+
+12
+00:00:26,160 --> 00:00:28,920
+Problems can be small or large,
+
+13
+00:00:28,920 --> 00:00:31,020
+simple or complex,
+
+14
+00:00:31,020 --> 00:00:34,280
+no problem is like another
+and they all require
+
+15
+00:00:34,280 --> 00:00:36,155
+a slightly different approach
+
+16
+00:00:36,155 --> 00:00:38,635
+but the first step
+is always the same:
+
+17
+00:00:38,635 --> 00:00:40,910
+Understanding what kind of
+problem you're trying to
+
+18
+00:00:40,910 --> 00:00:44,170
+solve and that's what we're
+going to talk about now.
+
+19
+00:00:44,170 --> 00:00:47,060
+Data analysts work with
+a variety of problems.
+
+20
+00:00:47,060 --> 00:00:50,540
+In this video, we're going to
+focus on six common types.
+
+21
+00:00:50,540 --> 00:00:54,635
+These include: making
+predictions, categorizing things,
+
+22
+00:00:54,635 --> 00:00:58,774
+spotting something unusual,
+identifying themes,
+
+23
+00:00:58,774 --> 00:01:03,250
+discovering connections,
+and finding patterns.
+
+24
+00:01:03,250 --> 00:01:06,090
+Let's define each of these now.
+
+25
+00:01:06,090 --> 00:01:08,220
+First, making predictions.
+
+26
+00:01:08,220 --> 00:01:11,480
+This problem type involves
+using data to make
+
+27
+00:01:11,480 --> 00:01:13,040
+an informed decision about
+
+28
+00:01:13,040 --> 00:01:15,410
+how things may be in the future.
+
+29
+00:01:15,410 --> 00:01:18,980
+For example, a hospital
+system might use
+
+30
+00:01:18,980 --> 00:01:21,230
+a remote patient monitoring to
+
+31
+00:01:21,230 --> 00:01:24,530
+predict health events for
+chronically ill patients.
+
+32
+00:01:24,530 --> 00:01:25,910
+The patients would take
+
+33
+00:01:25,910 --> 00:01:28,645
+their health vitals
+at home every day,
+
+34
+00:01:28,645 --> 00:01:33,080
+and that information combined
+with data about their age,
+
+35
+00:01:33,080 --> 00:01:36,770
+risk factors, and other
+important details could enable
+
+36
+00:01:36,770 --> 00:01:38,975
+the hospital's
+algorithm to predict
+
+37
+00:01:38,975 --> 00:01:40,670
+future health problems and
+
+38
+00:01:40,670 --> 00:01:43,510
+even reduce future
+hospitalizations.
+
+39
+00:01:43,510 --> 00:01:46,790
+The next problem type
+is categorizing things.
+
+40
+00:01:46,790 --> 00:01:49,100
+This means assigning
+information to
+
+41
+00:01:49,100 --> 00:01:53,015
+different groups or clusters
+based on common features.
+
+42
+00:01:53,015 --> 00:01:55,610
+An example of this
+problem type is
+
+43
+00:01:55,610 --> 00:01:57,560
+a manufacturer that
+reviews data on
+
+44
+00:01:57,560 --> 00:01:59,845
+shop floor employee performance.
+
+45
+00:01:59,845 --> 00:02:02,720
+An analyst may create
+a group for employees
+
+46
+00:02:02,720 --> 00:02:05,885
+who are most and least
+effective at engineering.
+
+47
+00:02:05,885 --> 00:02:08,510
+A group for employees
+who are most and least
+
+48
+00:02:08,510 --> 00:02:11,600
+effective at repair
+and maintenance,
+
+49
+00:02:11,600 --> 00:02:14,595
+most and least
+effective at assembly,
+
+50
+00:02:14,595 --> 00:02:17,360
+and many more
+groups or clusters.
+
+51
+00:02:17,360 --> 00:02:20,445
+Next, we have spotting
+something unusual.
+
+52
+00:02:20,445 --> 00:02:22,145
+In this problem type,
+
+53
+00:02:22,145 --> 00:02:24,605
+data analysts identify data
+
+54
+00:02:24,605 --> 00:02:26,675
+that is different from the norm.
+
+55
+00:02:26,675 --> 00:02:28,730
+An instance of
+spotting something
+
+56
+00:02:28,730 --> 00:02:30,920
+unusual in the real world is
+
+57
+00:02:30,920 --> 00:02:32,300
+a school system that has
+
+58
+00:02:32,300 --> 00:02:35,930
+a sudden increase in the
+number of students registered,
+
+59
+00:02:35,930 --> 00:02:37,430
+maybe as big as
+
+60
+00:02:37,430 --> 00:02:40,160
+a 30 percent jump in
+the number of students.
+
+61
+00:02:40,160 --> 00:02:42,140
+A data analyst might look into
+
+62
+00:02:42,140 --> 00:02:44,300
+this upswing and discover that
+
+63
+00:02:44,300 --> 00:02:46,880
+several new apartment
+complexes had been
+
+64
+00:02:46,880 --> 00:02:49,745
+built in the school
+district earlier that year.
+
+65
+00:02:49,745 --> 00:02:53,000
+They could use this analysis
+to make sure the school has
+
+66
+00:02:53,000 --> 00:02:56,390
+enough resources to handle
+the additional students.
+
+67
+00:02:56,390 --> 00:02:59,915
+Identifying themes is
+the next problem type.
+
+68
+00:02:59,915 --> 00:03:03,380
+Identifying themes takes
+categorization as a step
+
+69
+00:03:03,380 --> 00:03:08,060
+further by grouping information
+into broader concepts.
+
+70
+00:03:08,060 --> 00:03:11,030
+Going back to our
+manufacturer that has just
+
+71
+00:03:11,030 --> 00:03:13,990
+reviewed data on the
+shop floor employees.
+
+72
+00:03:13,990 --> 00:03:17,510
+First, these people are
+grouped by types and tasks.
+
+73
+00:03:17,510 --> 00:03:19,670
+But now a data analyst could
+
+74
+00:03:19,670 --> 00:03:21,950
+take those categories
+and group them into
+
+75
+00:03:21,950 --> 00:03:23,570
+the broader concept of
+
+76
+00:03:23,570 --> 00:03:26,620
+low productivity and
+high productivity.
+
+77
+00:03:26,620 --> 00:03:28,970
+This would make it possible
+for the business to
+
+78
+00:03:28,970 --> 00:03:32,270
+see who is most and
+least productive,
+
+79
+00:03:32,270 --> 00:03:35,540
+in order to reward
+top performers and
+
+80
+00:03:35,540 --> 00:03:37,580
+provide additional support to
+
+81
+00:03:37,580 --> 00:03:39,620
+those workers who
+need more training.
+
+82
+00:03:39,620 --> 00:03:43,220
+Now, the problem type of
+discovering connections enables
+
+83
+00:03:43,220 --> 00:03:44,480
+data analysts to find
+
+84
+00:03:44,480 --> 00:03:48,050
+similar challenges faced
+by different entities,
+
+85
+00:03:48,050 --> 00:03:51,725
+and then combine data and
+insights to address them.
+
+86
+00:03:51,725 --> 00:03:53,495
+Here's what I mean;
+
+87
+00:03:53,495 --> 00:03:55,970
+say a scooter company
+is experiencing
+
+88
+00:03:55,970 --> 00:03:59,335
+an issue with the wheels it
+gets from its wheel supplier.
+
+89
+00:03:59,335 --> 00:04:02,510
+That company would have to
+stop production until it could
+
+90
+00:04:02,510 --> 00:04:05,885
+get safe, quality
+wheels back in stock.
+
+91
+00:04:05,885 --> 00:04:08,570
+But meanwhile, the wheel
+companies encountering
+
+92
+00:04:08,570 --> 00:04:11,725
+the problem with the rubber
+it uses to make wheels,
+
+93
+00:04:11,725 --> 00:04:14,180
+turns out its rubber
+supplier could
+
+94
+00:04:14,180 --> 00:04:17,035
+not find the right
+materials either.
+
+95
+00:04:17,035 --> 00:04:19,580
+If all of these entities
+could talk about
+
+96
+00:04:19,580 --> 00:04:22,535
+the problems they're facing
+and share data openly,
+
+97
+00:04:22,535 --> 00:04:23,750
+they would find a lot of
+
+98
+00:04:23,750 --> 00:04:26,330
+similar challenges
+and better yet,
+
+99
+00:04:26,330 --> 00:04:29,125
+be able to collaborate
+to find a solution.
+
+100
+00:04:29,125 --> 00:04:32,330
+The final problem type
+is finding patterns.
+
+101
+00:04:32,330 --> 00:04:34,340
+Data analysts use data to find
+
+102
+00:04:34,340 --> 00:04:36,920
+patterns by using
+historical data to
+
+103
+00:04:36,920 --> 00:04:38,450
+understand what happened in
+
+104
+00:04:38,450 --> 00:04:42,175
+the past and is therefore
+likely to happen again.
+
+105
+00:04:42,175 --> 00:04:44,330
+Ecommerce companies use data to
+
+106
+00:04:44,330 --> 00:04:46,400
+find patterns all the time.
+
+107
+00:04:46,400 --> 00:04:49,670
+Data analysts look at
+transaction data to understand
+
+108
+00:04:49,670 --> 00:04:51,830
+customer buying habits at
+
+109
+00:04:51,830 --> 00:04:54,475
+certain points in time
+throughout the year.
+
+110
+00:04:54,475 --> 00:04:56,580
+They may find that
+customers buy more
+
+111
+00:04:56,580 --> 00:04:58,860
+canned goods right
+before a hurricane,
+
+112
+00:04:58,860 --> 00:05:01,729
+or they purchase fewer
+cold-weather accessories
+
+113
+00:05:01,729 --> 00:05:04,670
+like hats and gloves
+during warmer months.
+
+114
+00:05:04,670 --> 00:05:06,560
+The ecommerce companies can
+
+115
+00:05:06,560 --> 00:05:08,390
+use these insights to make sure
+
+116
+00:05:08,390 --> 00:05:10,100
+they stock the right amount of
+
+117
+00:05:10,100 --> 00:05:12,865
+products at these key times.
+
+118
+00:05:12,865 --> 00:05:16,130
+Alright, you've now learned six
+basic problem types
+
+119
+00:05:16,130 --> 00:05:18,530
+that data analysts
+typically face.
+
+120
+00:05:18,530 --> 00:05:20,390
+As a future data analyst,
+
+121
+00:05:20,390 --> 00:05:23,455
+this is going to be valuable
+knowledge for your career.
+
+122
+00:05:23,455 --> 00:05:25,370
+Coming up, we'll talk a bit more
+
+123
+00:05:25,370 --> 00:05:27,170
+about these problem
+types and I'll
+
+124
+00:05:27,170 --> 00:05:29,180
+provide even more
+examples of them
+
+125
+00:05:29,180 --> 00:05:31,505
+being solved by data analysts.
+
+126
+00:05:31,505 --> 00:05:34,595
+Personally, I love
+real-world examples.
+
+127
+00:05:34,595 --> 00:05:38,275
+They really help me better
+understand new concepts.
+
+128
+00:05:38,275 --> 00:05:39,780
+I can't wait to share
+
+129
+00:05:39,780 --> 00:05:43,660
+even more actual cases
+with you. See you there.

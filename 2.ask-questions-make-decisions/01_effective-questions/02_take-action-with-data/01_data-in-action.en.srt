@@ -1,0 +1,548 @@
+1
+00:00:00,220 --> 00:00:02,990
+In this video, I'm going to share
+
+2
+00:00:02,990 --> 00:00:05,345
+an interesting data
+analytics case study,
+
+3
+00:00:05,345 --> 00:00:07,250
+it will illustrate how problem
+
+4
+00:00:07,250 --> 00:00:09,455
+solving relates to each phase of
+
+5
+00:00:09,455 --> 00:00:11,840
+the data analysis
+process and shed
+
+6
+00:00:11,840 --> 00:00:15,665
+some light on how these phases
+work in the real world.
+
+7
+00:00:15,665 --> 00:00:18,290
+It's about a small
+business that used data
+
+8
+00:00:18,290 --> 00:00:21,155
+to solve a unique
+problem it was facing.
+
+9
+00:00:21,155 --> 00:00:24,590
+The business is called
+Anywhere Gaming Repair.
+
+10
+00:00:24,590 --> 00:00:27,470
+It's a service provider
+that comes to you to
+
+11
+00:00:27,470 --> 00:00:30,770
+fix your broken video game
+systems or accessories.
+
+12
+00:00:30,770 --> 00:00:33,300
+The owner wanted to
+expand his business.
+
+13
+00:00:33,300 --> 00:00:34,760
+He knew advertising is
+
+14
+00:00:34,760 --> 00:00:36,904
+a proven way to get
+more customers,
+
+15
+00:00:36,904 --> 00:00:39,505
+but he wasn't sure
+where to start.
+
+16
+00:00:39,505 --> 00:00:42,860
+There are all kinds of different
+advertising strategies,
+
+17
+00:00:42,860 --> 00:00:46,685
+including print, billboards,
+TV commercials,
+
+18
+00:00:46,685 --> 00:00:51,105
+public transportation,
+podcasts, and radio.
+
+19
+00:00:51,105 --> 00:00:54,020
+One of the key things to
+think about when choosing
+
+20
+00:00:54,020 --> 00:00:57,354
+an advertising method is
+your target audience,
+
+21
+00:00:57,354 --> 00:00:58,790
+in other words, the
+
+22
+00:00:58,790 --> 00:01:01,300
+specific people you're
+trying to reach.
+
+23
+00:01:01,300 --> 00:01:04,820
+For example, if a medical
+equipment manufacturer
+
+24
+00:01:04,820 --> 00:01:06,365
+wanted to reach doctors,
+
+25
+00:01:06,365 --> 00:01:07,670
+placing an ad in
+
+26
+00:01:07,670 --> 00:01:10,295
+a health magazine would
+be a smart choice.
+
+27
+00:01:10,295 --> 00:01:13,970
+Or if a catering company
+wanted to find new cooks,
+
+28
+00:01:13,970 --> 00:01:16,040
+it might advertise using a poster
+
+29
+00:01:16,040 --> 00:01:18,415
+at a bus stop near
+a cooking school.
+
+30
+00:01:18,415 --> 00:01:20,630
+Both of these are
+great ways to get
+
+31
+00:01:20,630 --> 00:01:22,850
+your ad seen by your
+target audience.
+
+32
+00:01:22,850 --> 00:01:25,760
+The second thing to think
+about is your budget and
+
+33
+00:01:25,760 --> 00:01:29,155
+how much the different
+advertising methods will cost.
+
+34
+00:01:29,155 --> 00:01:32,000
+For instance, a TV ad is likely
+
+35
+00:01:32,000 --> 00:01:34,640
+to be more expensive
+than a radio ad.
+
+36
+00:01:34,640 --> 00:01:36,860
+A large billboard
+will probably cost
+
+37
+00:01:36,860 --> 00:01:40,000
+more than a small poster
+on the back of a city bus.
+
+38
+00:01:40,000 --> 00:01:42,590
+The business owner
+asked a data analyst,
+
+39
+00:01:42,590 --> 00:01:44,990
+Maria, to make a recommendation.
+
+40
+00:01:44,990 --> 00:01:46,730
+She started with
+the first step in
+
+41
+00:01:46,730 --> 00:01:49,610
+the data analysis process, Ask.
+
+42
+00:01:49,610 --> 00:01:51,410
+Maria began by defining
+
+43
+00:01:51,410 --> 00:01:53,380
+the problem that
+needed to be solved.
+
+44
+00:01:53,380 --> 00:01:55,790
+To do this, she first had to zoom
+
+45
+00:01:55,790 --> 00:01:58,625
+out and look at the whole
+situation in context.
+
+46
+00:01:58,625 --> 00:02:01,670
+That way she could be sure
+that she was focusing on
+
+47
+00:02:01,670 --> 00:02:05,225
+the real problem and
+not just its symptoms.
+
+48
+00:02:05,225 --> 00:02:07,580
+This leads us to
+another important part
+
+49
+00:02:07,580 --> 00:02:09,365
+of the problem solving process,
+
+50
+00:02:09,365 --> 00:02:11,450
+collaborating with stakeholders
+
+51
+00:02:11,450 --> 00:02:13,720
+and understanding their needs.
+
+52
+00:02:13,720 --> 00:02:16,640
+For Anywhere Gaming
+Repair, stakeholders
+
+53
+00:02:16,640 --> 00:02:18,080
+included the owner,
+
+54
+00:02:18,080 --> 00:02:20,315
+the vice president
+of communications,
+
+55
+00:02:20,315 --> 00:02:23,120
+and the director of
+marketing and finance.
+
+56
+00:02:23,120 --> 00:02:25,100
+Working together, Maria and
+
+57
+00:02:25,100 --> 00:02:27,125
+the stakeholders
+agreed on the problem,
+
+58
+00:02:27,125 --> 00:02:29,220
+not knowing their target audience's
+
+59
+00:02:29,220 --> 00:02:31,745
+preferred type of advertising.
+
+60
+00:02:31,745 --> 00:02:34,245
+Next step was the prepare phase,
+
+61
+00:02:34,245 --> 00:02:36,050
+where Maria collected data for
+
+62
+00:02:36,050 --> 00:02:38,205
+the upcoming analysis process.
+
+63
+00:02:38,205 --> 00:02:40,430
+But first, she needed to better
+
+64
+00:02:40,430 --> 00:02:43,220
+understand the company's
+target audience,
+
+65
+00:02:43,220 --> 00:02:45,650
+people with video game systems.
+
+66
+00:02:45,650 --> 00:02:47,570
+After that, Maria collected
+
+67
+00:02:47,570 --> 00:02:50,245
+data on the different
+advertising methods.
+
+68
+00:02:50,245 --> 00:02:53,480
+This way, she would be able
+to determine which was
+
+69
+00:02:53,480 --> 00:02:57,390
+the most popular one with the
+company's target audience.
+
+70
+00:02:57,390 --> 00:03:00,450
+Then she moved on to
+the process step.
+
+71
+00:03:00,450 --> 00:03:03,394
+Here Maria cleaned
+the data to eliminate
+
+72
+00:03:03,394 --> 00:03:05,375
+any errors or inaccuracies
+
+73
+00:03:05,375 --> 00:03:07,795
+that could get in the
+way of the result.
+
+74
+00:03:07,795 --> 00:03:10,640
+As we've learned,
+when you clean data,
+
+75
+00:03:10,640 --> 00:03:13,085
+you transform it into
+a more useful format,
+
+76
+00:03:13,085 --> 00:03:17,605
+create more complete information
+and remove outliers.
+
+77
+00:03:17,605 --> 00:03:20,390
+Then it was time to analyze.
+
+78
+00:03:20,390 --> 00:03:24,485
+In this step, Maria wanted
+to find out two things.
+
+79
+00:03:24,485 --> 00:03:28,445
+First, who's most likely to
+own a video gaming system?
+
+80
+00:03:28,445 --> 00:03:30,560
+Second, where are these people
+
+81
+00:03:30,560 --> 00:03:32,915
+most likely to see
+an advertisement?
+
+82
+00:03:32,915 --> 00:03:36,380
+Maria, first discovered that
+people between the ages of
+
+83
+00:03:36,380 --> 00:03:38,540
+18 and 34 are most
+
+84
+00:03:38,540 --> 00:03:41,395
+likely to make video
+game related purchases.
+
+85
+00:03:41,395 --> 00:03:43,610
+She could confirm that Anywhere
+
+86
+00:03:43,610 --> 00:03:45,560
+Gaming Repair's
+target audience was
+
+87
+00:03:45,560 --> 00:03:48,545
+people 18-34 years old.
+
+88
+00:03:48,545 --> 00:03:51,275
+This was who they should
+be trying to reach.
+
+89
+00:03:51,275 --> 00:03:52,700
+With this in mind,
+
+90
+00:03:52,700 --> 00:03:55,580
+Maria then learned that
+both TV commercials and
+
+91
+00:03:55,580 --> 00:03:57,410
+podcasts are very popular
+
+92
+00:03:57,410 --> 00:03:59,360
+with people in the
+target audience.
+
+93
+00:03:59,360 --> 00:04:02,300
+Because Maria knew
+Anywhere Gaming Repair had
+
+94
+00:04:02,300 --> 00:04:04,340
+a limited budget and
+
+95
+00:04:04,340 --> 00:04:07,159
+understanding the high
+cost of TV commercials,
+
+96
+00:04:07,159 --> 00:04:09,440
+her recommendation
+was to advertise in
+
+97
+00:04:09,440 --> 00:04:12,260
+podcasts because they are
+more cost-effective.
+
+98
+00:04:12,260 --> 00:04:14,210
+Now that she had her analysis,
+
+99
+00:04:14,210 --> 00:04:16,100
+it was time for Maria to share
+
+100
+00:04:16,100 --> 00:04:18,230
+her recommendation so the company
+
+101
+00:04:18,230 --> 00:04:20,495
+could make a data
+driven decision.
+
+102
+00:04:20,495 --> 00:04:22,580
+She summarized her results using
+
+103
+00:04:22,580 --> 00:04:25,455
+clear and compelling
+visuals of the analysis.
+
+104
+00:04:25,455 --> 00:04:27,230
+This helped her stakeholders
+
+105
+00:04:27,230 --> 00:04:29,895
+understand the solution
+to the original problem.
+
+106
+00:04:29,895 --> 00:04:33,240
+Finally, Anywhere Gaming
+Repair took action,
+
+107
+00:04:33,240 --> 00:04:36,305
+they worked with a local
+podcast production agency
+
+108
+00:04:36,305 --> 00:04:39,570
+to create a 30 second ad
+about their services.
+
+109
+00:04:39,570 --> 00:04:43,430
+The ad ran on podcast for
+a month, and it worked.
+
+110
+00:04:43,430 --> 00:04:44,750
+They saw an increase in
+
+111
+00:04:44,750 --> 00:04:47,075
+customers after just
+the first week.
+
+112
+00:04:47,075 --> 00:04:48,920
+By the end of week 4,
+
+113
+00:04:48,920 --> 00:04:52,575
+they had 85 new
+customers. There you go.
+
+114
+00:04:52,575 --> 00:04:54,650
+Effective problem solving using
+
+115
+00:04:54,650 --> 00:04:57,370
+data analysis phases in action.
+
+116
+00:04:57,370 --> 00:04:59,510
+Now, you've seen
+how the six phases
+
+117
+00:04:59,510 --> 00:05:01,600
+of data analysis can
+be applied to problem
+
+118
+00:05:01,600 --> 00:05:03,640
+solving and how you can use that
+
+119
+00:05:03,640 --> 00:05:06,790
+to solve real world problems.
