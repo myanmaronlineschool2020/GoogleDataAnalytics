@@ -1,0 +1,431 @@
+1
+00:00:01,460 --> 00:00:02,771
+No matter where you work,
+
+2
+00:00:02,771 --> 00:00:07,540
+you'll probably need to communicate with
+other people as part of your day to day.
+
+3
+00:00:07,540 --> 00:00:12,354
+Every organization and every team in
+that organization will have different
+
+4
+00:00:12,354 --> 00:00:15,230
+expectations for communication. Coming up,
+
+5
+00:00:15,230 --> 00:00:20,046
+We'll learn some practical ways to help
+you adapt to those different expectations
+
+6
+00:00:20,046 --> 00:00:23,370
+and some things that you can
+carry over from team to team.
+
+7
+00:00:23,370 --> 00:00:25,440
+Let's get started.
+
+8
+00:00:25,440 --> 00:00:29,913
+When you started a new job or a new
+project, you might find yourself feeling
+
+9
+00:00:29,913 --> 00:00:34,190
+a little out of sync with the rest of
+your team and how they communicate.
+
+10
+00:00:34,190 --> 00:00:35,760
+That's totally normal.
+
+11
+00:00:35,760 --> 00:00:38,021
+You'll figure things out in no time.
+
+12
+00:00:38,021 --> 00:00:40,201
+if you're willing to learn as you go and
+
+13
+00:00:40,201 --> 00:00:43,340
+ask questions when you
+aren't sure of something.
+
+14
+00:00:43,340 --> 00:00:47,797
+For example, if you find your team uses
+acronyms you aren't familiar with,
+
+15
+00:00:47,797 --> 00:00:50,080
+don't be afraid to ask what they mean.
+
+16
+00:00:50,080 --> 00:00:54,691
+When I first started at google,
+I had no idea what L G T M
+
+17
+00:00:54,691 --> 00:00:57,930
+meant and
+I was always seeing it in comment threads.
+
+18
+00:00:57,930 --> 00:01:03,361
+Well, I learned it stands for looks
+good to me and I use it all the time
+
+19
+00:01:03,361 --> 00:01:06,372
+now if I need to give
+someone my quick feedback,
+
+20
+00:01:06,372 --> 00:01:09,536
+that was one of the many
+acronyms I've learned and
+
+21
+00:01:09,536 --> 00:01:14,040
+I come across new ones all the time and
+I'm never afraid to ask.
+
+22
+00:01:14,040 --> 00:01:17,640
+Every work setting has
+some form of etiquette.
+
+23
+00:01:17,640 --> 00:01:21,870
+Maybe your team members appreciate
+eye contact and a firm handshake.
+
+24
+00:01:21,870 --> 00:01:23,774
+Or it might be more polite to bow,
+
+25
+00:01:23,774 --> 00:01:27,870
+especially if you find yourself
+working with international clients.
+
+26
+00:01:27,870 --> 00:01:32,323
+You might also discover some specific
+etiquette rules just by watching
+
+27
+00:01:32,323 --> 00:01:37,081
+your coworkers communicate. And
+it won't just be in person communication
+
+28
+00:01:37,081 --> 00:01:37,980
+you'll deal with.
+
+29
+00:01:37,980 --> 00:01:42,038
+Almost 300 billion emails are sent and
+received every day and
+
+30
+00:01:42,038 --> 00:01:47,500
+that number is only growing. Fortunately
+there are useful skills you
+
+31
+00:01:47,500 --> 00:01:50,156
+can learn from those digital
+communications too. You'll want
+
+32
+00:01:50,156 --> 00:01:54,850
+your emails to be just as professional
+as your in-person communications.
+
+33
+00:01:54,850 --> 00:01:59,832
+Here are some things that can help you do
+that. Good writing practices will go a long
+
+34
+00:01:59,832 --> 00:02:04,040
+way to make your emails professional and
+easy to understand.
+
+35
+00:02:04,040 --> 00:02:06,753
+Emails are naturally more
+formal than texts, but
+
+36
+00:02:06,753 --> 00:02:10,280
+that doesn't mean that you have
+to write the next great novel.
+
+37
+00:02:10,280 --> 00:02:14,571
+Just taking the time to write complete
+sentences that have proper spelling and
+
+38
+00:02:14,571 --> 00:02:16,401
+punctuation will make it clear
+
+39
+00:02:16,401 --> 00:02:17,451
+you took time and
+
+40
+00:02:17,451 --> 00:02:22,730
+consideration in your writing. Emails often
+get forwarded to other people to read.
+
+41
+00:02:22,730 --> 00:02:26,740
+So write clearly enough that
+anyone could understand you.
+
+42
+00:02:26,740 --> 00:02:31,360
+I like to read important emails out
+loud before I hit send; that way,
+
+43
+00:02:31,360 --> 00:02:34,666
+I can hear if they make sense and
+catch any typos. And
+
+44
+00:02:34,666 --> 00:02:38,840
+keep in mind the tone of your
+emails can change over time.
+
+45
+00:02:38,840 --> 00:02:41,980
+If you find that your team is
+fairly casual, that's great.
+
+46
+00:02:41,980 --> 00:02:46,299
+Once you get to know them better,
+you can start being more casual too, but
+
+47
+00:02:46,299 --> 00:02:50,500
+being professional is always a good
+place to start. A good rule of thumb:
+
+48
+00:02:50,500 --> 00:02:54,621
+Would you be proud of what you had written
+if it were published on the front page of
+
+49
+00:02:54,621 --> 00:02:55,380
+a newspaper?
+
+50
+00:02:55,380 --> 00:03:00,590
+If not revise it until you are. You also
+don't want your emails to be too long.
+
+51
+00:03:00,590 --> 00:03:04,878
+Think about what your team member needs
+to know and get to the point instead of
+
+52
+00:03:04,878 --> 00:03:09,434
+overwhelming them with a wall of text.
+You'll want to make sure that your emails
+
+53
+00:03:09,434 --> 00:03:13,340
+are clear and concise so
+they don't get lost in the shuffle.
+
+54
+00:03:13,340 --> 00:03:17,451
+Let's take a quick look at two emails so
+that you can see what I mean.
+
+55
+00:03:18,740 --> 00:03:20,892
+Here's the first email. There's so
+
+56
+00:03:20,892 --> 00:03:25,690
+much written here that it's kind of hard
+to see where the important information is.
+
+57
+00:03:25,690 --> 00:03:30,940
+And this first paragraph doesn't give me a
+quick summary of the important takeaways.
+
+58
+00:03:30,940 --> 00:03:33,571
+It's pretty casual to the greeting is
+
+59
+00:03:33,571 --> 00:03:36,650
+just, "Hey," and there's no sign off.
+
+60
+00:03:36,650 --> 00:03:40,140
+Plus I can already spot some typos.
+
+61
+00:03:40,140 --> 00:03:43,771
+Now let's take a look at
+the second email. Already,
+
+62
+00:03:43,771 --> 00:03:45,570
+it's less overwhelming, right?
+
+63
+00:03:45,570 --> 00:03:49,230
+Just a few sentences,
+telling me what I need to know.
+
+64
+00:03:49,230 --> 00:03:54,240
+It's clearly organized and
+there's a polite greeting and sign off.
+
+65
+00:03:54,240 --> 00:04:01,040
+This is a good example of an email; short
+and to the point, polite and well-written.
+
+66
+00:04:01,040 --> 00:04:04,140
+All of the things we've
+been talking about so far.
+
+67
+00:04:04,140 --> 00:04:08,610
+But what do you do if, what you need
+to say is too long for an email?
+
+68
+00:04:08,610 --> 00:04:12,340
+Well, you might want to
+set up a meeting instead.
+
+69
+00:04:12,340 --> 00:04:15,880
+It's important to answer
+in a timely manner as well.
+
+70
+00:04:15,880 --> 00:04:17,129
+You don't want to take so
+
+71
+00:04:17,129 --> 00:04:21,440
+long replying to emails that your coworkers
+start wondering if you're okay.
+
+72
+00:04:21,440 --> 00:04:25,010
+I always try to answer
+emails in 24-48 hours.
+
+73
+00:04:25,010 --> 00:04:27,136
+Even if it's just to
+give them a timeline for
+
+74
+00:04:27,136 --> 00:04:30,340
+when I'll have the actual
+answers they're looking for.
+
+75
+00:04:30,340 --> 00:04:31,130
+That way,
+
+76
+00:04:31,130 --> 00:04:34,840
+I can set expectations and
+they know I'm working on it.
+
+77
+00:04:34,840 --> 00:04:36,880
+That works the other way around too.
+
+78
+00:04:36,880 --> 00:04:40,916
+If you need a response on something
+specific from one of your team members,
+
+79
+00:04:40,916 --> 00:04:45,640
+be clear about what you need and when you
+need it so that they can get back to you.
+
+80
+00:04:45,640 --> 00:04:48,075
+I'll even include a date
+in my subject line and
+
+81
+00:04:48,075 --> 00:04:49,900
+bold dates in the body of my email,
+
+82
+00:04:49,900 --> 00:04:54,806
+so it's really clear. Remember, being
+clear about your needs is a big part
+
+83
+00:04:54,806 --> 00:04:57,740
+of being a good communicator.
+
+84
+00:04:57,740 --> 00:05:02,839
+We covered some great ways to improve our
+professional communication skills, like
+
+85
+00:05:02,839 --> 00:05:08,740
+asking questions, practicing good writing
+habits and some email tips and tricks.
+
+86
+00:05:08,740 --> 00:05:11,212
+These will help you
+communicate clearly and
+
+87
+00:05:11,212 --> 00:05:14,540
+effectively with your team
+members on any project.
+
+88
+00:05:14,540 --> 00:05:19,364
+It might take some time, but you'll find a
+communication style that works for you and
+
+89
+00:05:19,364 --> 00:05:21,590
+your team, both in person and online.
+
+90
+00:05:21,590 --> 00:05:26,255
+As long as you're willing to learn,
+you won't have any problems adapting to
+
+91
+00:05:26,255 --> 00:05:30,651
+the different communication
+expectations you'll see in future jobs.

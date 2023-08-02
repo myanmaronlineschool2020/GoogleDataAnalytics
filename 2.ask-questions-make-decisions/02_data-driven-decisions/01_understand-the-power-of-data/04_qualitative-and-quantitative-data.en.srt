@@ -1,0 +1,466 @@
+1
+00:00:00,000 --> 00:00:03,060
+Hi again.
+
+2
+00:00:03,060 --> 00:00:06,180
+When it comes to
+decision-making, data is key.
+
+3
+00:00:06,180 --> 00:00:07,650
+But we've also learned that
+
+4
+00:00:07,650 --> 00:00:09,000
+there are a lot of
+different kinds
+
+5
+00:00:09,000 --> 00:00:11,670
+of questions that data
+might help us answer,
+
+6
+00:00:11,670 --> 00:00:13,334
+and these different questions
+
+7
+00:00:13,334 --> 00:00:15,390
+make different kinds of data.
+
+8
+00:00:15,390 --> 00:00:17,940
+There are two kinds of data
+that we'll talk about in
+
+9
+00:00:17,940 --> 00:00:21,385
+this video, quantitative
+and qualitative.
+
+10
+00:00:21,385 --> 00:00:23,970
+Quantitative data is all about
+
+11
+00:00:23,970 --> 00:00:27,870
+the specific and objective
+measures of numerical facts.
+
+12
+00:00:27,870 --> 00:00:30,465
+This can often be the what,
+
+13
+00:00:30,465 --> 00:00:35,385
+how many, and how
+often about a problem.
+
+14
+00:00:35,385 --> 00:00:38,250
+In other words, things
+you can measure,
+
+15
+00:00:38,250 --> 00:00:39,710
+like how many commuters
+
+16
+00:00:39,710 --> 00:00:41,735
+take the train to
+work every week.
+
+17
+00:00:41,735 --> 00:00:43,505
+As a financial analyst,
+
+18
+00:00:43,505 --> 00:00:46,400
+I work with a lot
+of quantitative data.
+
+19
+00:00:46,400 --> 00:00:50,110
+I love the certainty
+and accuracy of numbers.
+
+20
+00:00:50,110 --> 00:00:51,675
+On the other hand,
+
+21
+00:00:51,675 --> 00:00:53,810
+qualitative data describes
+
+22
+00:00:53,810 --> 00:00:56,720
+subjective or
+explanatory measures of
+
+23
+00:00:56,720 --> 00:00:59,360
+qualities and characteristics or
+
+24
+00:00:59,360 --> 00:01:02,495
+things that can't be measured
+with numerical data,
+
+25
+00:01:02,495 --> 00:01:04,145
+like your hair color.
+
+26
+00:01:04,145 --> 00:01:06,650
+Qualitative data is great
+
+27
+00:01:06,650 --> 00:01:09,245
+for helping us answer
+why questions.
+
+28
+00:01:09,245 --> 00:01:12,050
+For example, why
+people might like
+
+29
+00:01:12,050 --> 00:01:15,170
+a certain celebrity or snack
+food more than others.
+
+30
+00:01:15,170 --> 00:01:17,840
+With quantitative data,
+we can see numbers
+
+31
+00:01:17,840 --> 00:01:20,585
+visualized as charts or graphs.
+
+32
+00:01:20,585 --> 00:01:22,910
+Qualitative data can then give us
+
+33
+00:01:22,910 --> 00:01:24,920
+a more high-level
+understanding of
+
+34
+00:01:24,920 --> 00:01:27,185
+why the numbers are
+the way they are.
+
+35
+00:01:27,185 --> 00:01:29,510
+This is important
+because it helps
+
+36
+00:01:29,510 --> 00:01:31,925
+us add context to a problem.
+
+37
+00:01:31,925 --> 00:01:33,425
+As a data analyst,
+
+38
+00:01:33,425 --> 00:01:34,790
+you'll be using both
+
+39
+00:01:34,790 --> 00:01:37,685
+quantitative and
+qualitative analysis,
+
+40
+00:01:37,685 --> 00:01:39,965
+depending on your business task.
+
+41
+00:01:39,965 --> 00:01:42,860
+Reviews are a great
+example of this.
+
+42
+00:01:42,860 --> 00:01:45,170
+Think about a time you
+used reviews to decide
+
+43
+00:01:45,170 --> 00:01:48,200
+whether you wanted to buy
+something or go somewhere.
+
+44
+00:01:48,200 --> 00:01:50,570
+These reviews might have told you
+
+45
+00:01:50,570 --> 00:01:54,110
+how many people dislike
+that thing and why.
+
+46
+00:01:54,110 --> 00:01:56,600
+Businesses read
+these reviews too,
+
+47
+00:01:56,600 --> 00:01:59,300
+but they use the data
+in different ways.
+
+48
+00:01:59,300 --> 00:02:02,900
+Let's look at an example of
+a business using data from
+
+49
+00:02:02,900 --> 00:02:04,550
+customer reviews to see
+
+50
+00:02:04,550 --> 00:02:08,390
+qualitative and quantitative
+data in action.
+
+51
+00:02:08,390 --> 00:02:11,720
+Now, say a local ice cream
+shop has started using
+
+52
+00:02:11,720 --> 00:02:13,490
+their online reviews
+to engage with
+
+53
+00:02:13,490 --> 00:02:16,040
+their customers and
+build their brand.
+
+54
+00:02:16,040 --> 00:02:18,545
+These reviews give
+the ice cream shop
+
+55
+00:02:18,545 --> 00:02:21,680
+insights into their
+customers' experiences,
+
+56
+00:02:21,680 --> 00:02:25,190
+which they can use to inform
+their decision-making.
+
+57
+00:02:25,190 --> 00:02:28,880
+The owner notices that their
+rating has been going down.
+
+58
+00:02:28,880 --> 00:02:30,710
+He sees that lately his shop
+
+59
+00:02:30,710 --> 00:02:33,140
+has been receiving
+more negative reviews.
+
+60
+00:02:33,140 --> 00:02:34,950
+He wants to know why,
+
+61
+00:02:34,950 --> 00:02:37,565
+so he starts asking questions.
+
+62
+00:02:37,565 --> 00:02:40,220
+First are measurable questions.
+
+63
+00:02:40,220 --> 00:02:42,820
+How many negative
+reviews are there?
+
+64
+00:02:42,820 --> 00:02:44,950
+What's the average rating?
+
+65
+00:02:44,950 --> 00:02:49,030
+How many of these reviews
+use the same keywords?
+
+66
+00:02:49,030 --> 00:02:52,570
+These questions generate
+quantitative data,
+
+67
+00:02:52,570 --> 00:02:54,740
+numerical results that help
+
+68
+00:02:54,740 --> 00:02:57,920
+confirm their customers
+aren't satisfied.
+
+69
+00:02:57,920 --> 00:03:01,580
+This data might lead them
+to ask different questions.
+
+70
+00:03:01,580 --> 00:03:04,245
+Why are customers
+unsatisfied?
+
+71
+00:03:04,245 --> 00:03:07,345
+How can we improve
+their experience?
+
+72
+00:03:07,345 --> 00:03:10,955
+These are questions that
+lead to qualitative data.
+
+73
+00:03:10,955 --> 00:03:12,920
+After looking
+through the reviews,
+
+74
+00:03:12,920 --> 00:03:15,540
+the ice cream shop
+owner sees a pattern,
+
+75
+00:03:15,540 --> 00:03:17,790
+17 of negative reviews use
+
+76
+00:03:17,790 --> 00:03:21,890
+the word "frustrated."
+That's quantitative data.
+
+77
+00:03:21,890 --> 00:03:25,010
+Now we can start collecting
+qualitative data
+
+78
+00:03:25,010 --> 00:03:28,420
+by asking why this word
+is being repeated?
+
+79
+00:03:28,420 --> 00:03:30,290
+He finds that customers are
+
+80
+00:03:30,290 --> 00:03:32,060
+frustrated because the shop is
+
+81
+00:03:32,060 --> 00:03:35,675
+running out of popular flavors
+before the end of the day.
+
+82
+00:03:35,675 --> 00:03:39,320
+Knowing this, the ice
+cream shop can change its
+
+83
+00:03:39,320 --> 00:03:41,000
+weekly order to
+make sure it has
+
+84
+00:03:41,000 --> 00:03:43,450
+enough of what the
+customers want.
+
+85
+00:03:43,450 --> 00:03:47,345
+With both quantitative
+and qualitative data,
+
+86
+00:03:47,345 --> 00:03:50,450
+the ice cream shop owner
+was able to figure out
+
+87
+00:03:50,450 --> 00:03:54,445
+his customers were unhappy
+and understand why.
+
+88
+00:03:54,445 --> 00:03:57,620
+Having both types of data
+made it possible for
+
+89
+00:03:57,620 --> 00:04:01,880
+him to make the right changes
+and improve his business.
+
+90
+00:04:01,880 --> 00:04:04,340
+Now that you know the
+difference between
+
+91
+00:04:04,340 --> 00:04:06,935
+quantitative and
+qualitative data,
+
+92
+00:04:06,935 --> 00:04:08,930
+you know how to get
+different types of
+
+93
+00:04:08,930 --> 00:04:11,315
+data by asking
+different questions.
+
+94
+00:04:11,315 --> 00:04:14,240
+It's your job as a data
+detective to know
+
+95
+00:04:14,240 --> 00:04:17,980
+which questions to ask to
+find the right solution.
+
+96
+00:04:17,980 --> 00:04:19,730
+Then you can start thinking
+
+97
+00:04:19,730 --> 00:04:21,560
+about cool and creative ways to
+
+98
+00:04:21,560 --> 00:04:25,130
+help stakeholders better
+understand the data.
+
+99
+00:04:25,130 --> 00:04:27,800
+For example,
+interactive dashboards,
+
+100
+00:04:27,800 --> 00:04:30,120
+which we'll learn about soon.

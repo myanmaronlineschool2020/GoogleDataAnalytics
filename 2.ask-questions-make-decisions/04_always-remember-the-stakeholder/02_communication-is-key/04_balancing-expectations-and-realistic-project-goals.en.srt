@@ -1,0 +1,350 @@
+1
+00:00:00,940 --> 00:00:03,243
+We discussed before how
+data has limitations.
+
+2
+00:00:03,243 --> 00:00:07,204
+Sometimes you don't have
+access to the data you need, or
+
+3
+00:00:07,204 --> 00:00:11,440
+your data sources aren't aligned or
+your data is unclean.
+
+4
+00:00:11,440 --> 00:00:15,019
+This can definitely be a problem
+when you're analyzing data, but
+
+5
+00:00:15,019 --> 00:00:18,940
+it can also affect your communication
+with your stakeholders.
+
+6
+00:00:18,940 --> 00:00:23,555
+That's why it's important to balance your
+stakeholders' expectations with what is
+
+7
+00:00:23,555 --> 00:00:25,441
+actually possible for a project.
+
+8
+00:00:25,441 --> 00:00:30,153
+We're going to learn about the importance
+of setting realistic, objective goals and
+
+9
+00:00:30,153 --> 00:00:33,639
+how to best communicate with
+your stakeholders about problems
+
+10
+00:00:33,639 --> 00:00:35,640
+you might run into.
+
+11
+00:00:35,640 --> 00:00:39,450
+Keep in mind that a lot of
+things depend on your analysis.
+
+12
+00:00:39,450 --> 00:00:42,630
+Maybe your team can't make
+a decision without your report.
+
+13
+00:00:42,630 --> 00:00:46,025
+Or maybe your initial data
+work will determine how and
+
+14
+00:00:46,025 --> 00:00:48,680
+where additional data will be gathered.
+
+15
+00:00:48,680 --> 00:00:51,366
+You might remember that
+we've talked about some
+
+16
+00:00:51,366 --> 00:00:55,496
+situations where it's important to
+loop stakeholders in. For example,
+
+17
+00:00:55,496 --> 00:01:00,740
+telling your project manager if you're on
+schedule or if you're having a problem.
+
+18
+00:01:00,740 --> 00:01:04,417
+Now, let's look at a real-life example
+where you need to communicate with
+
+19
+00:01:04,417 --> 00:01:08,040
+stakeholders and what you might
+do if you run into a problem.
+
+20
+00:01:08,040 --> 00:01:11,340
+Let's say you're working on a project for
+an insurance company.
+
+21
+00:01:11,340 --> 00:01:15,776
+The company wants to identify common
+causes of minor car accidents so
+
+22
+00:01:15,776 --> 00:01:21,140
+that they can develop educational
+materials that encourage safer driving.
+
+23
+00:01:21,140 --> 00:01:24,460
+There's a few early questions you and
+your team need to answer.
+
+24
+00:01:24,460 --> 00:01:27,310
+What driving habits will you
+include in your dataset?
+
+25
+00:01:27,310 --> 00:01:29,740
+How will you gather this data?
+
+26
+00:01:29,740 --> 00:01:32,269
+How long will it take you to collect and
+
+27
+00:01:32,269 --> 00:01:36,631
+clean that data before you can use
+it in your analysis? Right away
+
+28
+00:01:36,631 --> 00:01:41,601
+you want to communicate clearly with your
+stakeholders to answer these questions,
+
+29
+00:01:41,601 --> 00:01:46,440
+so you and your team can set a reasonable
+and realistic timeline for the project.
+
+30
+00:01:46,440 --> 00:01:50,039
+It can be tempting to tell your
+stakeholders that you'll have this done in
+
+31
+00:01:50,039 --> 00:01:51,540
+no time, no problem.
+
+32
+00:01:51,540 --> 00:01:56,020
+But setting expectations for a realistic
+timeline will help you in the long run.
+
+33
+00:01:56,020 --> 00:02:00,515
+Your stakeholders will know what to
+expect when, and you won't be overworking
+
+34
+00:02:00,515 --> 00:02:03,960
+yourself and missing deadlines
+because you overpromised.
+
+35
+00:02:03,960 --> 00:02:08,870
+I find that setting expectations early
+helps me spend my time more productively.
+
+36
+00:02:08,870 --> 00:02:13,068
+So as you're getting started, you'll
+want to send a high-level schedule with
+
+37
+00:02:13,068 --> 00:02:16,780
+different phases of the project and
+their approximate start dates.
+
+38
+00:02:16,780 --> 00:02:21,380
+In this case, you and your teams
+establish that you'll need three weeks to
+
+39
+00:02:21,380 --> 00:02:24,739
+complete analysis and
+provide recommendations, and
+
+40
+00:02:24,739 --> 00:02:29,240
+you let your stakeholders know so
+they can plan accordingly.
+
+41
+00:02:29,240 --> 00:02:34,640
+Now let's imagine you're further along in
+the project and you run into a problem.
+
+42
+00:02:34,640 --> 00:02:39,494
+Maybe drivers have opted into sharing data
+about their phone usage in the car, but
+
+43
+00:02:39,494 --> 00:02:44,540
+you discover that some sources count GPS
+usage, and some don't in their data.
+
+44
+00:02:44,540 --> 00:02:47,702
+This might add time to your
+data processing and cleaning and
+
+45
+00:02:47,702 --> 00:02:49,450
+delay some project milestones.
+
+46
+00:02:49,450 --> 00:02:52,226
+You'll want to let your
+project manager know and
+
+47
+00:02:52,226 --> 00:02:56,000
+maybe work out a new timeline
+to present to stakeholders.
+
+48
+00:02:56,000 --> 00:02:59,440
+The earlier you can flag
+these problems, the better.
+
+49
+00:02:59,440 --> 00:03:04,340
+That way your stakeholders can make
+necessary changes as soon as possible.
+
+50
+00:03:04,340 --> 00:03:09,810
+Or what if your stakeholders want to add
+car model or age as possible variables.
+
+51
+00:03:09,810 --> 00:03:13,345
+You'll have to communicate with them
+about how that might change the model
+
+52
+00:03:13,345 --> 00:03:14,150
+you've built,
+
+53
+00:03:14,150 --> 00:03:16,896
+if it can be added and
+before the deadlines, and
+
+54
+00:03:16,896 --> 00:03:19,569
+any other obstacles that
+they need to know so
+
+55
+00:03:19,569 --> 00:03:24,720
+they can decide if it's worth changing at
+this stage of the project. To help them
+
+56
+00:03:24,720 --> 00:03:29,328
+you might prepare a report on how their
+request changes the project timeline or
+
+57
+00:03:29,328 --> 00:03:30,490
+alters the model.
+
+58
+00:03:30,490 --> 00:03:33,840
+You could also outline the pros and
+cons of that change.
+
+59
+00:03:33,840 --> 00:03:38,502
+You want to help your stakeholders achieve
+their goals, but it's important to set
+
+60
+00:03:38,502 --> 00:03:41,650
+realistic expectations at
+every stage of the project.
+
+61
+00:03:41,650 --> 00:03:43,150
+This takes some balance.
+
+62
+00:03:43,150 --> 00:03:47,271
+You've learned about balancing the needs
+of your team members and stakeholders, but
+
+63
+00:03:47,271 --> 00:03:49,869
+you also need to balance
+stakeholder expectations and
+
+64
+00:03:49,869 --> 00:03:51,691
+what's possible with the projects,
+
+65
+00:03:51,691 --> 00:03:54,140
+resources, and limitations.
+
+66
+00:03:54,140 --> 00:03:58,980
+That's why it's important to be realistic
+and objective and communicate clearly.
+
+67
+00:03:58,980 --> 00:04:02,417
+This will help stakeholders
+understand the timeline and
+
+68
+00:04:02,417 --> 00:04:06,340
+have confidence in your ability
+to achieve those goals.
+
+69
+00:04:06,340 --> 00:04:08,327
+So we know communication is key and
+
+70
+00:04:08,327 --> 00:04:12,250
+we have some good rules to follow
+for our professional communication.
+
+71
+00:04:12,250 --> 00:04:13,080
+Coming up
+
+72
+00:04:13,080 --> 00:04:16,866
+we'll talk even more about
+answering stakeholder questions,
+
+73
+00:04:16,866 --> 00:04:19,960
+delivering data and
+communicating with your team.
